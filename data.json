@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:44:45.342Z",
+  "updatedAt": "2026-07-08T14:48:19.007Z",
   "count": 69,
   "articles": [
     {
@@ -22,12 +22,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-      "title": "元 OpenAI 幹部の Kevin Weil 氏が現在 Stoke Space の取締役に就任",
+      "title": "元 OpenAI 幹部の Kevin Weil 氏が Stoke Space の取締役に就任",
       "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
       "dateStr": "2026-07-08",
       "ts": 1783512000000,
       "summaryOrig": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "summary": "ストーク・スペースでのケビン・ワイルの新しい役割は、再利用可能なロケットがシリコンバレーで次に注目されるものであることを示唆しています。",
+      "summary": "Stoke Space での Kevin Weil の新しい役割は、再利用可能なロケットがシリコンバレーで次に注目されるものであることを示唆しています。",
       "translated": true
     },
     {
@@ -138,8 +138,8 @@
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "dateStr": "2026-07-08",
       "ts": 1783494960000,
-      "summaryOrig": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "summary": "AIチップメーカーのSambaNovaは、Intelが同社を約16億ドルで買収しようとしていると噂された数カ月後に、評価額110億ドルで調達した。",
+      "summaryOrig": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "summary": "AIチップメーカーのSambaNovaは、Intelが同社を約16億ドルで買収しようとしていると噂された数か月後に、評価額110億ドルで調達した。",
       "translated": true
     },
     {
@@ -540,7 +540,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "title": "Discord、AIモデレーションのバグで無害な画像を理由にユーザーを不当に禁止したことを認める",
+      "title": "DiscordはAIモデレーションのバグを認め、無害な画像を理由にユーザーを不当に禁止した",
       "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "dateStr": "2026-07-07",
       "ts": 1783452518000,
@@ -559,7 +559,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783446419000,
       "summaryOrig": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
-      "summary": "火曜日から、Anthropic の Claude Cowork AI プラットフォームが初めてモバイルとウェブで利用可能になります。アクセスの拡大は、まず Max 加入者に展開され、他のプランの Claude ユーザーにも「今後数週間以内に」提供される予定です。 Claude Cowork は、以前は macOS および Windows 用の Claude デスクトップ アプリからのみアクセスできました。[…]",
+      "summary": "火曜日から、Anthropic の Claude Cowork AI プラットフォームが初めてモバイルとウェブで利用可能になります。アクセスの拡大は、まず Max 加入者に展開され、「今後数週間以内に」他のプランの Claude ユーザーにも提供される予定です。 Claude Cowork は、以前は macOS および Windows 用の Claude デスクトップ アプリからのみアクセスできました。[…]",
       "translated": true
     },
     {
@@ -573,7 +573,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783441638000,
       "summaryOrig": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "summary": "このアップデートにより、ユーザーはラップトップが閉じていても、自分のデスクからタスクを開始し、スマートフォンでステータスの最新情報を取得し、後で完成した出力を取得できるようになります。",
+      "summary": "このアップデートにより、ユーザーはラップトップが閉じている場合でも、デスクからタスクを開始し、スマートフォンでステータスの最新情報を取得し、後で完成した出力を取得できるようになります。",
       "translated": true
     },
     {
@@ -615,7 +615,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783422652000,
       "summaryOrig": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
-      "summary": "AI 機能の急速な進歩とエージェント システムへの移行により、テクノロジーが成長し続けるにつれて組織はユースケースを拡大しています。その絶え間ない進化にはリスクも伴い、IT リーダーは、6 か月後の将来でもどの投資が価値があるのか​​疑問に思うことになります。 AI アーキテクチャの基本要素に戻ると…",
+      "summary": "AI 機能の急速な進歩とエージェント システムへの移行により、テクノロジーが成長し続けるにつれて組織はユースケースを拡大しています。その絶え間ない進化にはリスクも伴い、IT リーダーは、6 か月後の将来でもどの投資が価値があるのか​​疑問に思うことになります。 Returning to the foundational elements of AI architecture—the…",
       "translated": true
     },
     {
@@ -685,7 +685,7 @@
       "dateStr": "2026-07-06",
       "ts": 1783353600000,
       "summaryOrig": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first time I've seen Hollywood, perhaps inadvertently, illustrate the biggest cultural problem with smart glasses as they stand today. In a nutshell, Ted Danson [&#8230;]",
-      "summary": "私は長年、ハリウッドがスマートグラスに対する私たちの期待を設定すると同時に台無しにしてしまったと主張してきました。しかし、Netflix の『A Man on the Inside』の 2 シーズンを一気に観た後、おそらく不注意で、現在のスマート グラスに関する最大の文化的問題をハリウッドが描いているのを見たのはこれが初めてです。一言で言えば、テッド・ダンソン […]",
+      "summary": "私は長年、ハリウッドがスマートグラスに対する私たちの期待を設定すると同時に台無しにしてしまったと主張してきました。しかし、Netflix の『A Man on the Inside』の 2 シーズンを一気に視聴した後、おそらく不注意で、現在のスマート グラスに関する最大の文化的問題をハリウッドが描いているのを見たのはこれが初めてです。一言で言えば、テッド・ダンソン […]",
       "translated": true
     },
     {
@@ -727,7 +727,7 @@
       "dateStr": "2026-07-05",
       "ts": 1783261391000,
       "summaryOrig": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Ben Franklin texts Thomas Jefferson to [&#8230;]",
-      "summary": "「グループプロジェクトですが、1776年にしましょう。」これが、Google Workspace の新しいコマーシャルの始まりです。そして、そこから事態はさらに悪化します。このクリップは、建国の父たちが独立宣言の起草を支援するために Google のコラボレーション ツールと Gemini に頼ったらどうなるかを想像しています。ベン・フランクリン、トーマス・ジェファーソンにテキストメッセージを送信 […]",
+      "summary": "「グループプロジェクトですが、1776年にしましょう。」これが、Google Workspace の新しいコマーシャルの始まりです。そして、そこから事態はさらに悪化します。このクリップは、建国の父たちが独立宣言の起草を支援するために Google のコラボレーション ツールと Gemini に頼ったらどうなるかを想像しています。ベン・フランクリンがトーマス・ジェファーソンにテキストメッセージを送信 […]",
       "translated": true
     },
     {
@@ -741,7 +741,7 @@
       "dateStr": "2026-07-04",
       "ts": 1783166400000,
       "summaryOrig": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
-      "summary": "ここ 1 週間にわたり、生成 AI を使用して作者を根絶することを目的とした、新たなファンワークス運動が始まりました。しかし、実装されている検出方法には疑問があり、ファンフィクション作家が集中攻撃に巻き込まれる可能性があります。 Claude、ChatGPT、その他の AI ツールの使用に対する広範な嫌悪感は長い間続いてきました […]",
+      "summary": "ここ 1 週間にわたり、生成 AI を使用して作者を根絶することを目的とした、新たなファンワークス運動が始まりました。しかし、実装されている検出方法には疑問があり、ファンフィクション作家が集中攻撃に巻き込まれる可能性があります。 Claude、ChatGPT、その他の AI ツールの使用に対する広範な嫌悪感は長い間存在していました […]",
       "translated": true
     },
     {
@@ -769,7 +769,7 @@
       "dateStr": "2026-07-03",
       "ts": 1783079350000,
       "summaryOrig": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-minute tour [&#8230;]",
-      "summary": "Midjourney は、未来的な医療スキャナーをさらに展示しました。それが機能するという証拠はまだあまり示されていません。画像生成で最もよく知られるこのAIスタートアップは、ダンクタンク型超音波スキャナーの舞台裏ビデオを公開した。このスキャナーはスパに導入する予定で、安価で詳細な、放射線を使わないイメージングで医療を変革することを期待している。約20分のツアー […]",
+      "summary": "Midjourney は、未来的な医療スキャナーをさらに展示しました。それが機能するという証拠はまだあまり示されていません。画像生成で最もよく知られるこのAIスタートアップは、ダンクタンク型超音波スキャナーの舞台裏ビデオを公開した。このスキャナーはスパに導入する予定で、安価で詳細な、放射線を使わない画像化で医療を変革することを期待している。約20分のツアー […]",
       "translated": true
     },
     {
@@ -811,7 +811,7 @@
       "dateStr": "2026-07-02",
       "ts": 1782996704000,
       "summaryOrig": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operationa",
-      "summary": "人工知能は、チャットボットや画像ジェネレーターを通じて一般の人々の想像力を掻き立ててきたかもしれませんが、その最も重要なユースケースの一部は、消費者向けのツールからは程遠いところで展開されています。物理インフラストラクチャ、運用継続性、安全性が最重要視される業界では、AI が中核的な運用層になりつつあります。広大な産業システムと絶え間ない業務の流れにより、",
+      "summary": "人工知能は、チャットボットや画像ジェネレーターを通じて一般の人々の想像力を掻き立ててきたかもしれませんが、その最も重要なユースケースのいくつかは、消費者向けのツールとは程遠いところで展開されています。物理インフラストラクチャ、運用継続性、安全性が最重要視される業界では、AI が中核的な運用層になりつつあります。広大な産業システムと絶え間ない業務の流れにより、",
       "translated": true
     },
     {
@@ -923,7 +923,7 @@
       "dateStr": "2026-06-29",
       "ts": 1782744241000,
       "summaryOrig": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
-      "summary": "企業の AI への投資は急増しています。 Gartner は、2026 年を組織が AI プロジェクトを戦略的なビジネス目標に合わせて調整する「転換の年」であると呼んでいます。 ROI を証明するというプレッシャーが高まる中、経営者やテクノロジー リーダーは、ビジネスが求める目に見える財務上の成果を促進するためにエージェント AI に注目しています。 AIエージェントにとって絶好のチャンス…",
+      "summary": "企業のAIへの投資は急増している。 Gartner は、2026 年を組織が AI プロジェクトを戦略的なビジネス目標に合わせて調整する「転換の年」であると呼んでいます。 ROI を証明するというプレッシャーが高まる中、経営者やテクノロジー リーダーは、ビジネスが求める目に見える財務上の成果を促進するためにエージェント AI に注目しています。 AIエージェントにとって絶好のチャンス…",
       "translated": true
     },
     {
