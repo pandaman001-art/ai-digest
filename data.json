@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T14:25:07.094Z",
+  "updatedAt": "2026-07-08T14:32:08.816Z",
   "count": 49,
   "articles": [
     {
@@ -13,7 +13,9 @@
       "dateStr": "2026-07-08",
       "ts": 1783514336000,
       "desc": "Luke Zimmer discusses technology at Front Porch Chat Jamestown Sun",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -26,7 +28,24 @@
       "dateStr": "2026-07-08",
       "ts": 1783512239000,
       "desc": "AI Behaved Well Until Scientists Made It Think Nobody Was Watching NDTV",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI (US)",
+      "lang": "en",
+      "source": "Digital Information World",
+      "origTitle": "86% of U.S. GenAI Chatbot Users Regularly Use One App, New Apptopia Data Shows",
+      "title": "米国の GenAI チャットボット ユーザーの 86% が定期的に 1 つのアプリを使用していることが新しい Apptopia データで示されました",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjg4SFRnYmVuYWxHVDdrZTNaRUNON2g3WTBDeFlvLUl5SnhzWmlpSWs0REc1SkNxdHZrb0VWRndNRGp0akZDd0hNOXBmY0xIRWxuRm1zbERVZnQxM2F4bG92ZmNsLTBYdnlHWXZPVm4xT0dYM2hzNHQ0SUwydHNXNHI5a0J5cE12UkhVSHlmUzVHcWR6S0E?oc=5",
+      "dateStr": "2026-07-08",
+      "ts": 1783509360000,
+      "desc": "86% of U.S. GenAI Chatbot Users Regularly Use One App, New Apptopia Data Shows Digital Information World",
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -39,7 +58,24 @@
       "dateStr": "2026-07-08",
       "ts": 1783479437000,
       "desc": "Chinese AI platforms to remove persona chatbots chinaeconomicreview.com",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "財経新聞",
+      "origTitle": "OpenAI「GPT-5.6」ファミリーがまもなく一般公開か：自律型サブエージェント機能や大幅なコスト削減、METRによる「評価の不正ハック」検出も",
+      "title": "OpenAI「GPT-5.6」ファミリーがまもなく一般公開か：自律型サブエージェント機能や大幅なコスト削減、METRによる「評価の不正ハック」検出も",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iRkptMVdxWmRCQjZ2ZDV5Y3QtaEpaZnNBMUoxa0tKb0JQWjBScWZnNDBVYUJXUXFGakNnT2lLUXU0MDFQU05pVy1WcnNZempRX3dTdVV4R0d6R2cydzc1MG51QdIBaEFVX3lxTE5uY2hsOHBuaTNSYkN4YXp6ejBRZWJIaXZxdGJXLXlwemxvWUNiTGFlMlhRczBZOVdUVzc4N3Jjd2ZaX3piRmJibkxyM3l5V3VtbjR1MTdkS3lfR3M2VXl3c293NFVILTd4?oc=5",
+      "dateStr": "2026-07-08",
+      "ts": 1783470961000,
+      "desc": "OpenAI「GPT-5.6」ファミリーがまもなく一般公開か：自律型サブエージェント機能や大幅なコスト削減、METRによる「評価の不正ハック」検出も 財経新聞",
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -52,20 +88,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783449960000,
       "desc": "メタ、画像生成AI「Muse Image」をInstagramとWhatsAppに導入、AI競争で巻き返し図る BigGo ファイナンス",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI (US)",
-      "lang": "en",
-      "source": "USC Viterbi School of Engineering",
-      "origTitle": "Can ChatGPT Be Your Therapist? USC Study Tests AI Responses to Mental Health Questions",
-      "title": "ChatGPT があなたのセラピストになれますか? USC Study がメンタルヘルスに関する質問に対する AI の回答をテスト",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1g2YjliSy1sVUhOQmpKUHVJWEU4WEZuNHUtQVF2cHBwRVJVaUY0RmJSRFRiQjZsUVFvVGRkSk5YMTNDUklSTWJFc0pzZXAxeEVnRUpTSDVOeERiM25QM3NSamVMcjZqZHdOc3pTSmhhWml2NjlkZS1Ecmg5eXQ1TXZ4RG5HeWw0M1V5S1Z0dV9wNTA5WFUybEdGdDZ0NXFzclZyWm9mU1lFOXdJbXdIblFWNUlkdjRIZGlFQ2F3dlhXcGE4Qlh1Zg?oc=5",
-      "dateStr": "2026-07-07",
-      "ts": 1783442805000,
-      "desc": "Can ChatGPT Be Your Therapist? USC Study Tests AI Responses to Mental Health Questions USC Viterbi School of Engineering",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -78,7 +103,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783425492000,
       "desc": "AI Stocks With Profit Growth Investors May Want To Watch In Japan simplywall.st",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -91,7 +118,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783415100000,
       "desc": "汎用生成AIは3年半で「医師のたまご」に並ぶ実力へ【AIは医療をどう変えるのか】#1 ｄメニューニュース",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -104,7 +133,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783409440000,
       "desc": "インフォマティクスがChatGPT・ClaudeとGISをつなぐ「空間情報MCPサーバー」を開発。「〇〇周辺の避難所を表にして」でAIが自動作成 digital-construction.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -117,7 +148,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783408804000,
       "desc": "AI Reveals Gaps in Questioning and Prompting Skills Let's Data Science",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -130,7 +163,9 @@
       "dateStr": "2026-07-07",
       "ts": 1783401900000,
       "desc": "ChatGPTの回答を狙う「ステルスマーケティング」が横行…Reddit、AI取り締まりを強化へ BigGo ファイナンス",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -143,7 +178,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783371604000,
       "desc": "OpenAIが自社AIチップ「ハラペーニョ」を急いだ本当の理由 iotnews.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -156,7 +193,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783345320000,
       "desc": "Reddit is cracking down on AI marketing slop with its own AI Ad Age",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -169,7 +208,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783323606000,
       "desc": "【開発の転換点】ローコードとAI開発が交わるこれからの開発現場 thinkit.co.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -182,7 +223,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783321200000,
       "desc": "大学1年生の9割「生成AIを普段から利用」私大が調査 どう使う？ [AIの時代] 朝日新聞",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -195,7 +238,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783310429000,
       "desc": "【サタプロ登壇レポート】AIを意図的に「バグらせる」。240名のシャッター音が鳴り止まなかった限界突破のプロンプト術 thinkit.co.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -208,7 +253,9 @@
       "dateStr": "2026-07-06",
       "ts": 1783298402000,
       "desc": "Acrosstudio、最短2週間・300万円から始められるAI駆動ライト開発サービス「Across Lite」を提供開始 PR TIMES",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -221,7 +268,9 @@
       "dateStr": "2026-07-05",
       "ts": 1783263600000,
       "desc": "メインはGemini、サブはChatGPT＆Claude AI“最強”の使い分け 日経クロストレンド",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -234,7 +283,9 @@
       "dateStr": "2026-07-05",
       "ts": 1783256417000,
       "desc": "I built a daily newsletter for my Kindle with RSS and an LLM—now I actually read the news How-To Geek",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -247,7 +298,9 @@
       "dateStr": "2026-07-04",
       "ts": 1783177200000,
       "desc": "Setting Up Your Own Large Language Model Towards Data Science",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -260,7 +313,9 @@
       "dateStr": "2026-07-04",
       "ts": 1783152000000,
       "desc": "How AI is changing language The Guardian",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -273,7 +328,9 @@
       "dateStr": "2026-07-04",
       "ts": 1783132395000,
       "desc": "「温かい。けど無能」ChatGPTに潜む高齢者への偏見…韓国研究機関が警告する「デジタル年齢差別」の盲点（KOREA WAVE） Yahoo!ニュース",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -286,7 +343,9 @@
       "dateStr": "2026-07-04",
       "ts": 1783124304000,
       "desc": "【生成AIの事例トレンド】「試用」から「本格的な組み込み」のフェーズへ thinkit.co.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -299,7 +358,9 @@
       "dateStr": "2026-07-04",
       "ts": 1783123906000,
       "desc": "The only AI glossary you need this year CryptoRank",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -312,7 +373,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783119600000,
       "desc": "AI半導体まとめ読み 「入門」LIVEの予習・復習に14本 日本経済新聞",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -325,7 +388,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783113600000,
       "desc": "The only AI glossary you’ll need this year TechCrunch",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -338,7 +403,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783112485000,
       "desc": "【AIエージェント時代】日本企業とエンジニアのこれから thinkit.co.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -351,7 +418,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783094579000,
       "desc": "With token prices collapsing and regulation rising, AI’s pricing power looks fragile Los Angeles Times",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -364,7 +433,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783085400000,
       "desc": "LLM Wikis Are Over-Engineered — I Replaced Mine With a Pure Python Compiler Towards Data Science",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -377,7 +448,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783065600000,
       "desc": "書評『AI大格差』 AIが進化するほど、人間らしさが新たな競争力に 日経ビジネス電子版",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -390,7 +463,9 @@
       "dateStr": "2026-07-03",
       "ts": 1783062000000,
       "desc": "Who's suing AI and who's signing: Microsoft signs Australian Copilot deal, US local newspapers sue Press Gazette",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -403,7 +478,9 @@
       "dateStr": "2026-07-02",
       "ts": 1783033389000,
       "desc": "Artificial intelligence: Yann LeCun works on more flexible AI BBC",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -416,7 +493,9 @@
       "dateStr": "2026-07-02",
       "ts": 1783022400000,
       "desc": "コーディングエージェントは不要、事業部門の社員がAI活用でアプリ開発者に 日経クロステック",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -429,7 +508,24 @@
       "dateStr": "2026-07-02",
       "ts": 1783021067000,
       "desc": "デジタル広告 検索連動型からAI前提へ 日本経済新聞",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI (US)",
+      "lang": "en",
+      "source": "University of Central Florida",
+      "origTitle": "How Do Generative AI Tools Like ChatGPT Work?",
+      "title": "ChatGPT のような生成 AI ツールはどのように機能しますか?",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTF9peldHNFRHaDdjdGRDLXk3TEFxOEdpSjYwZVc3VkpwaFA2bjBzMHZETldGS1ZQZ3hxSTZEYXdJOTRNWkVjelhkajV0MWtlcGswS0txUnRFNnJqaEtvTnVMZTBOV3Q2SlpaYTRUemE2VkZ3bnpPRVZkVGpjRmZETjY5ZnZiYzE5R21ySVIwOTl3VE0?oc=5",
+      "dateStr": "2026-07-02",
+      "ts": 1783016275000,
+      "desc": "How Do Generative AI Tools Like ChatGPT Work? University of Central Florida",
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -442,20 +538,9 @@
       "dateStr": "2026-07-02",
       "ts": 1783004400000,
       "desc": "「画像はNano Banana 2」は古い 生成AIは組み合わせて「即戦力化」 日経クロストレンド",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "日本経済新聞",
-      "origTitle": "「AIは期待外れ」と言う人の落とし穴 まずは1カ月でも有料版を試してみる",
-      "title": "「AIは期待外れ」と言う人の落とし穴 まずは1カ月でも有料版を試してみる",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IZGlaLUI2eDhvX0tWTnpOQzJ1aXVNekttYV90M3V0d3RsaDFOWlVVWFdxMWlKaWVFU19CakR5ei13VlAyS1Fqbmh0bTFlaEJsUjh0UXdFbC1Qd3IzSEp3bmI2Z3o5YWJYZmJ5eA?oc=5",
-      "dateStr": "2026-07-02",
-      "ts": 1783004400000,
-      "desc": "「AIは期待外れ」と言う人の落とし穴 まずは1カ月でも有料版を試してみる 日本経済新聞",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -468,7 +553,9 @@
       "dateStr": "2026-07-02",
       "ts": 1783001400000,
       "desc": "Your AI Glossary: 56 Terms Everyone Should Know CNET",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -481,7 +568,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782991817000,
       "desc": "Setting up a local LLM is the easy part—here's what you need to do with it next How-To Geek",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -494,7 +583,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782988215000,
       "desc": "Does AI Have Speech Rights? Columbia Journalism Review",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -507,7 +598,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782984883000,
       "desc": "AI models must complement, not cannibalise, knowledge creation thenationalnews.com",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -520,7 +613,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782982895000,
       "desc": "【利用率から運用設計へ】 生成AIをめぐる「競争軸」と「課題」の変遷 thinkit.co.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -533,7 +628,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782975600000,
       "desc": "Can You Invest in OpenAI’s ChatGPT? SmartAsset.com",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -546,7 +643,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782975600000,
       "desc": "The latest AI-powered martech news and releases MarTech",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-global",
@@ -559,20 +658,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782975600000,
       "desc": "Bias in AI: Examples and 6 Ways to Fix it in 2026 AIMultiple",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI (US)",
-      "lang": "en",
-      "source": "AIMultiple",
-      "origTitle": "Top 4 AI Search Engines Compared",
-      "title": "上位 4 つの AI 検索エンジンの比較",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWN01GRWVHejlxOTI4d2dRcGN1T19MS1RVUm54M0o1Y1J6aWlZTVFWdFhydlhxTzRfb3dHRlM3VTRyeUxadVpCOVFhTzlGS2J3?oc=5",
-      "dateStr": "2026-07-02",
-      "ts": 1782975600000,
-      "desc": "Top 4 AI Search Engines Compared AIMultiple",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     },
     {
       "cat": "ai-japan",
@@ -585,7 +673,9 @@
       "dateStr": "2026-07-02",
       "ts": 1782951472000,
       "desc": "「ChatGPTでお店を探す時代」に、地域の飲食店はどう生き残るか？ ── グルメAI革命と、... 選挙ドットコム",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -598,7 +688,9 @@
       "dateStr": "2026-07-01",
       "ts": 1782946800000,
       "desc": "「Siri AI」は想像以上に優秀！ 開発者向けベータ版を試してわかった実力 WIRED.jp",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -611,7 +703,9 @@
       "dateStr": "2026-07-01",
       "ts": 1782942516000,
       "desc": "「日の丸LLM」への挑戦 日経クロステック",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-japan",
@@ -624,7 +718,9 @@
       "dateStr": "2026-07-01",
       "ts": 1782920701000,
       "desc": "必要なのはプロンプトではなくセンス？生成AIによる論文検索 日経メディカル",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News."
     },
     {
       "cat": "ai-global",
@@ -637,7 +733,9 @@
       "dateStr": "2026-07-01",
       "ts": 1782916516000,
       "desc": "LLMs are stuck in a groupthink groove. This startup is trying to get them out. MIT Technology Review",
-      "translated": true
+      "translated": true,
+      "summaryOrig": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+      "summary": "Google ニュースによって世界中の情報源から集められた、包括的な最新ニュース報道。"
     }
   ]
 }
