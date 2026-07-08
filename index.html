@@ -102,12 +102,15 @@ function render(){
       const wasMT=a.translated&&a.lang!=='ja';
       const origLine=(wasMT&&a.origTitle!==a.title)
         ? '<p class="orig-title">原題: '+esc(a.origTitle)+'</p>' : '';
-      const preview=a.desc?'<p class="preview">'+esc(a.desc.slice(0,110))+'…</p>':'';
-      const body=a.desc
-        ? '<details><summary>本文を読む</summary><div class="body"><p>'+esc(a.desc)+'</p></div></details>':'';
+      const summary = a.summary || '';
+      const preview = summary ? '<p class="preview">'+esc(summary.slice(0,110))+(summary.length>110?'…':'')+'</p>' : '';
+      const body = summary
+        ? '<details><summary>要約を読む</summary><div class="body"><p>'+esc(summary)+'</p>'+
+          (a.summaryOrig && a.lang!=='ja' ? '<p class="orig-title">原文: '+esc(a.summaryOrig)+'</p>' : '')+
+          '</div></details>' : '';
       const art=document.createElement('article');
       art.className='card'; art.dataset.category=a.cat;
-      art.dataset.search=(a.title+' '+a.origTitle+' '+a.source+' '+a.desc).toLowerCase();
+      art.dataset.search=(a.title+' '+a.origTitle+' '+a.source+' '+summary).toLowerCase();
       art.innerHTML=
         '<div class="meta"><span class="src">'+esc(a.source||'—')+'</span>'+
         '<span class="'+catClass(a.cat)+'">'+esc(a.label)+'</span>'+
