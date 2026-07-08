@@ -1,4 +1,4 @@
-name: Update AI Digest
+name: Update AI Digest 
 
 on:
   # 毎日 日本時間 朝7時（UTC 22時）に実行
