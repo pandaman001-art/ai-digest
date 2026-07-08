@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-07-08T14:48:19.007Z",
+  "updatedAt": "2026-07-08T14:53:32.794Z",
   "count": 69,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "オーストラリアの「未成年SNS禁止」は年齢確認が機能していない",
+      "title": "オーストラリアの「未成年SNS禁止」は年齢確認が機能していない",
+      "link": "https://gigazine.net/news/20260708&#45;australia&#45;sns&#45;ban&#45;fails/",
+      "dateStr": "2026-07-08",
+      "ts": 1783522200000,
+      "summaryOrig": "世界初となる「未成年者のSNS使用禁止」法を運用しているオーストラリアで、実際には未成年者によるアカウント作成を防止するための年齢確認がまったく機能していないことが、政府チームによる調査で明らかになりました。 続きを読む...",
+      "summary": "世界初となる「未成年者のSNS使用禁止」法を運用しているオーストラリアで、実際には未成年者によるアカウント作成を防止するための年齢確認がまったく機能していないことが、政府チームによる調査で明らかになりました。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-global",
       "label": "海外AI",
@@ -27,7 +41,7 @@
       "dateStr": "2026-07-08",
       "ts": 1783512000000,
       "summaryOrig": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.",
-      "summary": "Stoke Space での Kevin Weil の新しい役割は、再利用可能なロケットがシリコンバレーで次に注目されるものであることを示唆しています。",
+      "summary": "ストーク・スペースでのケビン・ワイルの新しい役割は、再利用可能なロケットがシリコンバレーで次に注目されるものであることを示唆しています。",
       "translated": true
     },
     {
@@ -78,7 +92,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "title": "フランスの人気スタートアップ ZML が、多数の AI チップにわたる推論を高速化する無料製品をリリース",
+      "title": "フランスの人気スタートアップ ZML が、多数の AI チップ間の推論を高速化する無料製品をリリース",
       "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
       "dateStr": "2026-07-08",
       "ts": 1783497600000,
@@ -139,7 +153,7 @@
       "dateStr": "2026-07-08",
       "ts": 1783494960000,
       "summaryOrig": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
-      "summary": "AIチップメーカーのSambaNovaは、Intelが同社を約16億ドルで買収しようとしていると噂された数か月後に、評価額110億ドルで調達した。",
+      "summary": "AIチップメーカーのSambaNovaは、Intelが同社を約16億ドルで買収しようとしていると噂されていた数カ月後に、評価額110億ドルで調達した。",
       "translated": true
     },
     {
@@ -357,20 +371,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される",
-      "title": "MetaがGIFアニメも作れる画像生成AI「Muse Image」をリリース＆音声付き動画を生成できる「Muse Video」も発表される",
-      "link": "https://gigazine.net/news/20260708&#45;muse&#45;image&#45;video&#45;generation&#45;ai/",
-      "dateStr": "2026-07-08",
-      "ts": 1783474680000,
-      "summaryOrig": "現地時間の2026年7月7日、Metaが画像生成AI「Muse Image」と動画生成AI「Muse Video」を発表しました。Muse Imageはすでにサービスが展開されていて、Muse Videoは近日中にサービス開始予定です。 続きを読む...",
-      "summary": "現地時間の2026年7月7日、Metaが画像生成AI「Muse Image」と動画生成AI「Muse Video」を発表しました。Muse Imageはすでにサービスが展開されていて、Muse Videoは近日中にサービス開始予定です。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "「Claude Fable 5」サブスク、突如5日間延長 ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」",
       "title": "「Claude Fable 5」サブスク、突如5日間延長 ユーザー悲喜こもごも「寝ずに頑張ったのに」「制限リセットして」",
       "link": "https://www.itmedia.co.jp/news/articles/2607/08/news070.html",
@@ -526,7 +526,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "title": "Microsoft、独自モデルへの依存を強めることで AI コスト削減トレンドに加わる",
+      "title": "Microsoft、独自モデルへの依存度を高めることで AI コスト削減トレンドに加わる",
       "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
       "dateStr": "2026-07-07",
       "ts": 1783454300000,
@@ -540,7 +540,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "title": "DiscordはAIモデレーションのバグを認め、無害な画像を理由にユーザーを不当に禁止した",
+      "title": "Discord、AIモデレーションのバグで無害な画像を理由にユーザーを不当に禁止したことを認める",
       "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
       "dateStr": "2026-07-07",
       "ts": 1783452518000,
@@ -559,7 +559,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783446419000,
       "summaryOrig": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users on other plans \"in the coming weeks.\" Claude Cowork was previously only accessible through the Claude desktop app for macOS and Windows, [&#8230;]",
-      "summary": "火曜日から、Anthropic の Claude Cowork AI プラットフォームが初めてモバイルとウェブで利用可能になります。アクセスの拡大は、まず Max 加入者に展開され、「今後数週間以内に」他のプランの Claude ユーザーにも提供される予定です。 Claude Cowork は、以前は macOS および Windows 用の Claude デスクトップ アプリからのみアクセスできました。[…]",
+      "summary": "火曜日から、Anthropic の Claude Cowork AI プラットフォームが初めてモバイルとウェブで利用可能になります。アクセスの拡大は、まず Max 加入者に展開され、他のプランの Claude ユーザーにも「今後数週間以内に」提供される予定です。 Claude Cowork は、以前は macOS および Windows 用の Claude デスクトップ アプリからのみアクセスできました。[…]",
       "translated": true
     },
     {
@@ -573,7 +573,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783441638000,
       "summaryOrig": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
-      "summary": "このアップデートにより、ユーザーはラップトップが閉じている場合でも、デスクからタスクを開始し、スマートフォンでステータスの最新情報を取得し、後で完成した出力を取得できるようになります。",
+      "summary": "このアップデートにより、ユーザーはラップトップが閉じていても、自分のデスクからタスクを開始し、スマートフォンでステータスの最新情報を取得し、後で完成した出力を取得できるようになります。",
       "translated": true
     },
     {
@@ -615,7 +615,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783422652000,
       "summaryOrig": "With the rapid progress of AI capabilities and the move to agentic systems, organizations are expanding their use cases as the technology continues to grow. That constant evolution also introduces risk, leaving IT leaders to wonder which investments will prove valuable even six months into the future. Returning to the foundational elements of AI architecture—the&#8230;",
-      "summary": "AI 機能の急速な進歩とエージェント システムへの移行により、テクノロジーが成長し続けるにつれて組織はユースケースを拡大しています。その絶え間ない進化にはリスクも伴い、IT リーダーは、6 か月後の将来でもどの投資が価値があるのか​​疑問に思うことになります。 Returning to the foundational elements of AI architecture—the…",
+      "summary": "AI 機能の急速な進歩とエージェント システムへの移行により、テクノロジーが成長し続けるにつれて組織はユースケースを拡大しています。その絶え間ない進化にはリスクも伴い、IT リーダーは、6 か月後の将来でもどの投資が価値があるのか​​疑問に思うことになります。 AI アーキテクチャの基本要素に戻ると…",
       "translated": true
     },
     {
@@ -629,7 +629,7 @@
       "dateStr": "2026-07-07",
       "ts": 1783414800000,
       "summaryOrig": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "summary": "フォルテラは、ウクライナの紛争地帯に100台以上の自動運転ATVを配備した。",
+      "summary": "フォルテラは、ウクライナの紛争地帯に100台以上の自動運転ATVを配備している。",
       "translated": true
     },
     {
@@ -643,7 +643,7 @@
       "dateStr": "2026-07-06",
       "ts": 1783382174000,
       "summaryOrig": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
-      "summary": "AI エージェントが初めて現実世界のランサムウェア攻撃の技術的実行を実行したことが知られていますが、新たな詳細は、依然として人間が被害者を選択し、インフラストラクチャを設定し、盗んだ認証情報を提供したことを示しています。つまり、先週の見出しが示唆していた完全に自律的なサイバー犯罪のデビューには至っていませんでした。",
+      "summary": "AI エージェントが初めて現実世界のランサムウェア攻撃の技術的実行を実行しましたが、新たな詳細は、依然として人間が被害者を選択し、インフラストラクチャを設定し、盗んだ認証情報を提供したことを示しています。つまり、先週の見出しが示唆したような完全に自律的なサイバー犯罪のデビューには至っていませんでした。",
       "translated": true
     },
     {
@@ -741,7 +741,7 @@
       "dateStr": "2026-07-04",
       "ts": 1783166400000,
       "summaryOrig": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer could be caught in the crossfire. Broad distaste around the use of Claude, ChatGPT, and other AI tools has long been a [&#8230;]",
-      "summary": "ここ 1 週間にわたり、生成 AI を使用して作者を根絶することを目的とした、新たなファンワークス運動が始まりました。しかし、実装されている検出方法には疑問があり、ファンフィクション作家が集中攻撃に巻き込まれる可能性があります。 Claude、ChatGPT、その他の AI ツールの使用に対する広範な嫌悪感は長い間存在していました […]",
+      "summary": "ここ 1 週間にわたり、生成 AI を使用して作者を根絶することを目的とした、新たなファンワークス運動が始まりました。しかし、実装されている検出方法には疑問があり、ファンフィクション作家が集中攻撃に巻き込まれる可能性があります。 Claude、ChatGPT、その他の AI ツールの使用に対する広範な嫌悪感は長い間続いてきました […]",
       "translated": true
     },
     {
@@ -811,7 +811,7 @@
       "dateStr": "2026-07-02",
       "ts": 1782996704000,
       "summaryOrig": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operationa",
-      "summary": "人工知能は、チャットボットや画像ジェネレーターを通じて一般の人々の想像力を掻き立ててきたかもしれませんが、その最も重要なユースケースのいくつかは、消費者向けのツールとは程遠いところで展開されています。物理インフラストラクチャ、運用継続性、安全性が最重要視される業界では、AI が中核的な運用層になりつつあります。広大な産業システムと絶え間ない業務の流れにより、",
+      "summary": "人工知能は、チャットボットや画像ジェネレーターを通じて一般の人々の想像力を掻き立ててきたかもしれませんが、その最も重要なユースケースの一部は、消費者向けのツールとは程遠いところで展開されています。物理インフラストラクチャ、運用継続性、安全性が最重要視される業界では、AI が中核的な運用層になりつつあります。広大な産業システムと絶え間ない業務の流れにより、",
       "translated": true
     },
     {
@@ -853,7 +853,7 @@
       "dateStr": "2026-06-30",
       "ts": 1782856204000,
       "summaryOrig": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
-      "summary": "火曜日に製薬会社幹部、バイオテクノロジー創設者、研究者向けのイベントで、Anthropic は、Claude Code がソフトウェア エンジニアリングをサポートするのと同じ方法で科学研究をサポートすることを目的とした主要な新製品である Claude Science を発表しました。クロード コードと同様に、クロード サイエンスは、簡潔で高レベルの指示が与えられると、有意義な作業を自律的に実行でき、アクセスできます。",
+      "summary": "火曜日に製薬会社の幹部、バイオテクノロジーの創設者、研究者向けのイベントで、Anthropic は、Claude Code がソフトウェア エンジニアリングをサポートするのと同じ方法で科学研究をサポートすることを目的とした主要な新製品である Claude Science を発表しました。クロード コードと同様に、クロード サイエンスは、簡潔で高レベルの指示が与えられると、有意義な作業を自律的に実行でき、アクセスできます。",
       "translated": true
     },
     {
@@ -876,7 +876,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Agriculture is ready for AI, but its data isn&#8217;t",
-      "title": "農業は AI の準備ができていますが、そのデータはまだ準備ができていません",
+      "title": "農業は AI に対応する準備ができていますが、そのデータはまだ準備ができていません",
       "link": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
       "dateStr": "2026-06-30",
       "ts": 1782820800000,
@@ -923,7 +923,7 @@
       "dateStr": "2026-06-29",
       "ts": 1782744241000,
       "summaryOrig": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mounts, executives and technology leaders are looking to agentic AI to drive the measurable financial outcomes their businesses seek. A prime opportunity for AI agents&#8230;",
-      "summary": "企業のAIへの投資は急増している。 Gartner は、2026 年を組織が AI プロジェクトを戦略的なビジネス目標に合わせて調整する「転換の年」であると呼んでいます。 ROI を証明するというプレッシャーが高まる中、経営者やテクノロジー リーダーは、ビジネスが求める目に見える財務上の成果を促進するためにエージェント AI に注目しています。 AIエージェントにとって絶好のチャンス…",
+      "summary": "企業の AI への投資は急増しています。 Gartner は、2026 年を組織が AI プロジェクトを戦略的なビジネス目標に合わせて調整する「転換の年」であると呼んでいます。 ROI を証明するというプレッシャーが高まる中、経営者やテクノロジー リーダーは、ビジネスが求める目に見える財務上の成果を促進するためにエージェント AI に注目しています。 AIエージェントにとって絶好のチャンス…",
       "translated": true
     },
     {
