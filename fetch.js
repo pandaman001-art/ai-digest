@@ -5,23 +5,34 @@
 const fs = require('fs');
 
 // ── ソース定義 ──────────────────────────────
-const MAX_EACH = 25;
+// 各媒体のRSSを直接取得する。description に各媒体が書いた記事要約が入るため、
+// Google News経由（要約が取れない）を廃止。
+const MAX_EACH = 12;
 const SOURCES = [
-  {
-    key: 'jp',
-    url: 'https://news.google.com/rss/search?q=' +
-      encodeURIComponent('AI 人工知能 生成AI ChatGPT when:7d') +
-      '&hl=ja&gl=JP&ceid=JP:ja',
-    cat: 'ai-japan', label: '国内AI', lang: 'ja',
-  },
-  {
-    key: 'us',
-    url: 'https://news.google.com/rss/search?q=' +
-      encodeURIComponent('AI artificial intelligence ChatGPT LLM when:7d') +
-      '&hl=en-US&gl=US&ceid=US:en',
-    cat: 'ai-global', label: '海外AI (US)', lang: 'en',
-  },
+  // 海外（英語・要翻訳）
+  { key:'techcrunch', url:'https://techcrunch.com/category/artificial-intelligence/feed/',
+    cat:'ai-global', label:'海外AI', lang:'en' },
+  { key:'theverge',   url:'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
+    cat:'ai-global', label:'海外AI', lang:'en' },
+  { key:'venturebeat',url:'https://venturebeat.com/category/ai/feed/',
+    cat:'ai-global', label:'海外AI', lang:'en' },
+  { key:'arstechnica',url:'https://feeds.arstechnica.com/arstechnica/technology-lab',
+    cat:'ai-global', label:'海外AI', lang:'en' },
+  { key:'mittr',      url:'https://www.technologyreview.com/topic/artificial-intelligence/feed',
+    cat:'ai-global', label:'海外AI', lang:'en' },
+  // 国内（日本語・翻訳不要）
+  { key:'itmedia',    url:'https://rss.itmedia.co.jp/rss/2.0/aiplus.xml',
+    cat:'ai-japan', label:'国内AI', lang:'ja' },
+  { key:'gigazine',   url:'https://gigazine.net/news/rss_2.0/',
+    cat:'ai-japan', label:'国内AI', lang:'ja' },
+  { key:'pcwatch',    url:'https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf',
+    cat:'ai-japan', label:'国内AI', lang:'ja' },
 ];
+
+// 国内の総合系フィード（GIGAZINE/PC Watch）はAI以外も混ざるため、
+// タイトル・本文にAI関連語を含む記事だけ残すフィルタ
+const AI_KEYWORDS = /AI|人工知能|生成AI|ChatGPT|LLM|機械学習|ディープラーニング|OpenAI|Gemini|Claude|Copilot|大規模言語モデル/i;
+const FILTER_KEYS = new Set(['gigazine', 'pcwatch']);
 
 // ── ユーティリティ ──────────────────────────
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -36,28 +47,36 @@ function stripHtml(s) {
   t = t.replace(/<[^>]*>/g, ' ');
   // 3. 残った実体参照や空白を整理
   t = t.replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
-  // 4. Google News RSSの description はリンク＋媒体名の羅列で内容が無いため、
-  //    URLや "font color" 等のゴミが目立つ場合は本文として使わない
-  if (/https?:\/\//.test(t) || /font color|target=/.test(t)) return '';
+  // 4. 「続きを読む」等の定型末尾を除去
+  t = t.replace(/(続きを読む|Read more|The post .+ appeared first on .+)\.?$/i, '').trim();
   return t;
 }
 
-// RSSのXMLから <item> を素朴に抜き出す（外部ライブラリ不要）
+// RSS(<item>)とAtom(<entry>)の両方から記事を抜き出す（外部ライブラリ不要）
 function parseItems(xml) {
   const items = [];
-  const blocks = xml.split(/<item[>\s]/).slice(1);
+  const isAtom = /<entry[>\s]/.test(xml) && !/<item[>\s]/.test(xml);
+  const tag = isAtom ? 'entry' : 'item';
+  const blocks = xml.split(new RegExp('<' + tag + '[>\\s]')).slice(1);
   for (const block of blocks) {
-    const body = block.slice(0, block.indexOf('</item>'));
-    const pick = (tag) => {
-      const m = body.match(new RegExp('<' + tag + '[^>]*>([\\s\\S]*?)</' + tag + '>', 'i'));
+    const end = block.indexOf('</' + tag + '>');
+    const body = end > -1 ? block.slice(0, end) : block;
+    const pick = (t) => {
+      const m = body.match(new RegExp('<' + t + '[^>]*>([\\s\\S]*?)</' + t + '>', 'i'));
       if (!m) return '';
       return m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim();
     };
+    // Atomのlinkは <link href="..."/> 形式
+    let link = pick('link');
+    if (!link) {
+      const lm = body.match(/<link[^>]+href=["']([^"']+)["']/i);
+      if (lm) link = lm[1];
+    }
     items.push({
       title: pick('title'),
-      link: pick('link'),
-      pubDate: pick('pubDate'),
-      description: pick('description'),
+      link,
+      pubDate: pick('pubDate') || pick('published') || pick('updated') || pick('dc:date'),
+      description: pick('description') || pick('summary') || pick('content') || pick('content:encoded'),
     });
   }
   return items;
@@ -96,18 +115,27 @@ async function getXml(url) {
 
 async function fetchSource(src) {
   const xml = await getXml(src.url);
-  const raw = parseItems(xml).slice(0, MAX_EACH);
+  let raw = parseItems(xml);
+
+  // 総合系フィードはAI関連記事だけに絞る
+  if (FILTER_KEYS.has(src.key)) {
+    raw = raw.filter(it => AI_KEYWORDS.test((it.title || '') + ' ' + (it.description || '')));
+  }
+  raw = raw.slice(0, MAX_EACH);
 
   return raw.map(it => {
-    const { title: origTitle, source } = splitSrc(it.title || '');
+    const origTitle = stripHtml(it.title || '');
     const pub = new Date(it.pubDate || Date.now());
+    const summary = stripHtml(it.description || '').slice(0, 400);
     return {
       cat: src.cat, label: src.label, lang: src.lang,
-      source, origTitle, title: origTitle,
+      source: src.label,
+      origTitle, title: origTitle,
       link: (it.link || '#').trim(),
-      dateStr: pub.toISOString().slice(0, 10),
-      ts: pub.getTime(),
-      desc: stripHtml(it.description).slice(0, 600),
+      dateStr: isNaN(pub) ? new Date().toISOString().slice(0, 10) : pub.toISOString().slice(0, 10),
+      ts: isNaN(pub) ? Date.now() : pub.getTime(),
+      summaryOrig: summary,
+      summary: src.lang === 'ja' ? summary : '',  // 英語は後で翻訳
       translated: src.lang === 'ja',
     };
   });
@@ -129,34 +157,6 @@ async function gtranslate(text) {
 
 // ── 記事ページの公式要約（meta description）を取得 ──
 // 各サイトが検索エンジン向けに公開している短い説明文（1〜2文）のみを取得する。
-// 記事本文の全文は取得・転載しない（著作権保護のため）。
-async function fetchSummary(url) {
-  try {
-    const res = await fetch(url, {
-      redirect: 'follow',
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
-    });
-    if (!res.ok) return '';
-    const html = await res.text();
-    const pickMeta = (re) => {
-      const m = html.match(re);
-      return m ? m[1] : '';
-    };
-    let desc =
-      pickMeta(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) ||
-      pickMeta(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:description["']/i) ||
-      pickMeta(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i) ||
-      pickMeta(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']description["']/i);
-    if (!desc) return '';
-    // エンティティを軽くデコードして整形
-    desc = desc.replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-      .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
-      .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
-      .replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-    return desc.slice(0, 300);
-  } catch (e) { return ''; }
-}
-
 // ── メイン ──────────────────────────────────
 (async () => {
   let articles = [];
@@ -185,33 +185,18 @@ async function fetchSummary(url) {
   if (recent.length > 0) articles = recent;
   articles.sort((a, b) => b.ts - a.ts);
 
-  // タイトル翻訳
+  // タイトルと要約を翻訳（英語ソースのみ。RSSのdescriptionが実要約）
   const targets = articles.filter(a => !a.translated);
   let done = 0;
   for (const a of targets) {
     const t = await gtranslate(a.origTitle);
     if (t && t !== a.origTitle) { a.title = t; a.translated = true; }
-    console.log('タイトル翻訳 ' + (++done) + '/' + targets.length);
-    await sleep(150);
-  }
-
-  // 各記事の公式要約（meta description）を取得し、日本語に翻訳
-  let s = 0;
-  for (const a of articles) {
-    const summary = await fetchSummary(a.link);
-    if (summary) {
-      a.summaryOrig = summary;
-      if (a.lang === 'ja') {
-        a.summary = summary;
-      } else {
-        const st = await gtranslate(summary);
-        a.summary = (st && st.trim()) ? st : summary;
-      }
-    } else {
-      a.summary = '';
+    if (a.summaryOrig) {
+      const st = await gtranslate(a.summaryOrig);
+      a.summary = (st && st.trim()) ? st : a.summaryOrig;
     }
-    console.log('要約取得 ' + (++s) + '/' + articles.length);
-    await sleep(200);
+    console.log('翻訳 ' + (++done) + '/' + targets.length);
+    await sleep(150);
   }
 
   const payload = {
