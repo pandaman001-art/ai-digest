@@ -127,6 +127,36 @@ async function gtranslate(text) {
   } catch (e) { return null; }
 }
 
+// ── 記事ページの公式要約（meta description）を取得 ──
+// 各サイトが検索エンジン向けに公開している短い説明文（1〜2文）のみを取得する。
+// 記事本文の全文は取得・転載しない（著作権保護のため）。
+async function fetchSummary(url) {
+  try {
+    const res = await fetch(url, {
+      redirect: 'follow',
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+    });
+    if (!res.ok) return '';
+    const html = await res.text();
+    const pickMeta = (re) => {
+      const m = html.match(re);
+      return m ? m[1] : '';
+    };
+    let desc =
+      pickMeta(/<meta[^>]+property=["']og:description["'][^>]+content=["']([^"']+)["']/i) ||
+      pickMeta(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:description["']/i) ||
+      pickMeta(/<meta[^>]+name=["']description["'][^>]+content=["']([^"']+)["']/i) ||
+      pickMeta(/<meta[^>]+content=["']([^"']+)["'][^>]+name=["']description["']/i);
+    if (!desc) return '';
+    // エンティティを軽くデコードして整形
+    desc = desc.replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+      .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+      .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&')
+      .replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    return desc.slice(0, 300);
+  } catch (e) { return ''; }
+}
+
 // ── メイン ──────────────────────────────────
 (async () => {
   let articles = [];
@@ -155,14 +185,33 @@ async function gtranslate(text) {
   if (recent.length > 0) articles = recent;
   articles.sort((a, b) => b.ts - a.ts);
 
-  // 翻訳
+  // タイトル翻訳
   const targets = articles.filter(a => !a.translated);
   let done = 0;
   for (const a of targets) {
     const t = await gtranslate(a.origTitle);
     if (t && t !== a.origTitle) { a.title = t; a.translated = true; }
-    console.log('翻訳 ' + (++done) + '/' + targets.length);
+    console.log('タイトル翻訳 ' + (++done) + '/' + targets.length);
     await sleep(150);
+  }
+
+  // 各記事の公式要約（meta description）を取得し、日本語に翻訳
+  let s = 0;
+  for (const a of articles) {
+    const summary = await fetchSummary(a.link);
+    if (summary) {
+      a.summaryOrig = summary;
+      if (a.lang === 'ja') {
+        a.summary = summary;
+      } else {
+        const st = await gtranslate(summary);
+        a.summary = (st && st.trim()) ? st : summary;
+      }
+    } else {
+      a.summary = '';
+    }
+    console.log('要約取得 ' + (++s) + '/' + articles.length);
+    await sleep(200);
   }
 
   const payload = {
