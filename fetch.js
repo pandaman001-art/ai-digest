@@ -27,8 +27,19 @@ const SOURCES = [
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 function stripHtml(s) {
-  return (s || '').replace(/<[^>]*>/g, ' ').replace(/&[a-z]+;/gi, ' ')
-    .replace(/\s+/g, ' ').trim();
+  let t = s || '';
+  // 1. HTMLエンティティをデコード（&lt; → < など）
+  t = t.replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+       .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+       .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&');
+  // 2. HTMLタグを除去
+  t = t.replace(/<[^>]*>/g, ' ');
+  // 3. 残った実体参照や空白を整理
+  t = t.replace(/&[a-z]+;/gi, ' ').replace(/\s+/g, ' ').trim();
+  // 4. Google News RSSの description はリンク＋媒体名の羅列で内容が無いため、
+  //    URLや "font color" 等のゴミが目立つ場合は本文として使わない
+  if (/https?:\/\//.test(t) || /font color|target=/.test(t)) return '';
+  return t;
 }
 
 // RSSのXMLから <item> を素朴に抜き出す（外部ライブラリ不要）
