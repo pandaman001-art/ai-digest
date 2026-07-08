@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>daily-ai-digest</title>
+<style>
+:root { --bg:#0f1115; --card:#181b22; --fg:#e7e9ee; --muted:#9aa3b2; --accent:#4da3ff; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--fg);
+  font-family:-apple-system,"Hiragino Sans","Noto Sans JP",sans-serif; line-height:1.7; }
+header { position:sticky; top:0; background:var(--bg); padding:12px 16px;
+  border-bottom:1px solid #262b36; z-index:10; }
+header h1 { font-size:18px; margin:0 0 8px; }
+#q { width:100%; padding:10px 12px; font-size:16px; border-radius:10px;
+  border:1px solid #2a3140; background:var(--card); color:var(--fg); outline:none; }
+#q:focus { border-color:var(--accent); }
+.filters { display:flex; gap:8px; margin-top:8px; flex-wrap:wrap; }
+.filters button { background:var(--card); color:var(--muted); border:1px solid #2a3140;
+  border-radius:999px; padding:6px 12px; font-size:13px; cursor:pointer; }
+.filters button.active { color:var(--fg); border-color:var(--accent); }
+.updated { color:var(--muted); font-size:12px; margin:6px 0 0; }
+main { padding:12px 16px 60px; max-width:720px; margin:0 auto; }
+.day-head { font-size:14px; color:var(--muted); border-bottom:1px solid #262b36;
+  padding-bottom:4px; margin:20px 0 0; }
+.card { background:var(--card); border:1px solid #232936; border-radius:14px;
+  padding:14px; margin:12px 0; }
+.card h2 { font-size:17px; margin:6px 0; line-height:1.45; }
+.card h2 a { color:var(--fg); text-decoration:none; }
+.card h2 a:hover { color:var(--accent); }
+.meta { display:flex; gap:8px; align-items:center; font-size:12px; color:var(--muted);
+  flex-wrap:wrap; margin-bottom:2px; }
+.cat { font-size:11px; border-radius:4px; padding:1px 7px; }
+.cat-japan    { background:#1a2e1a; color:#4ade80; }
+.cat-global   { background:#1e2a3a; color:var(--accent); }
+.cat-research { background:#2a1a3a; color:#c084fc; }
+.warn { color:#ffb454; font-size:11px; }
+.orig-title { color:var(--muted); font-size:12px; margin:0 0 6px; font-style:italic; }
+.preview { color:#c3c9d4; font-size:14px; margin:4px 0 8px; }
+.card details summary { cursor:pointer; color:var(--accent); font-size:14px; list-style:none; }
+.card details summary::before { content:'▶ '; font-size:11px; }
+.card details[open] summary::before { content:'▼ '; }
+.card .body { margin-top:10px; border-top:1px solid #262b36; padding-top:10px;
+  color:#c3c9d4; font-size:14px; line-height:1.75; }
+.card .body p { margin:8px 0; }
+.src-link { display:inline-block; margin-top:8px; color:var(--accent); font-size:13px; text-decoration:none; }
+.src-link:hover { text-decoration:underline; }
+.hidden { display:none !important; }
+#msg { color:var(--muted); font-size:13px; text-align:center; padding:40px 0; }
+</style>
+</head>
+<body>
+<header>
+  <h1>🤖 daily-ai-digest</h1>
+  <input id="q" type="search" placeholder="キーワード検索…" autocomplete="off">
+  <div class="filters">
+    <button data-cat="all" class="active">すべて</button>
+    <button data-cat="ai-japan">国内AI</button>
+    <button data-cat="ai-global">海外AI</button>
+  </div>
+  <p class="updated" id="updated">読み込み中…</p>
+</header>
+
+<main id="list">
+  <p id="msg">データを読み込んでいます…</p>
+</main>
+
+<script>
+(function(){
+'use strict';
+const listEl   = document.getElementById('list');
+const updatedEl= document.getElementById('updated');
+const qEl      = document.getElementById('q');
+let allArticles= [];
+let currentCat = 'all';
+
+function esc(s){
+  return (s||'').replace(/[&<>"']/g,
+    c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function catClass(cat){
+  if (cat==='ai-japan')    return 'cat cat-japan';
+  if (cat==='ai-research') return 'cat cat-research';
+  return 'cat cat-global';
+}
+
+function render(){
+  listEl.querySelectorAll('section.day, #msg').forEach(s=>s.remove());
+  const byDate={};
+  allArticles.forEach(a=>{ (byDate[a.dateStr]=byDate[a.dateStr]||[]).push(a); });
+  const dates=Object.keys(byDate).sort((a,b)=>b.localeCompare(a));
+  if (!dates.length){
+    const p=document.createElement('p'); p.id='msg';
+    p.textContent='記事がありません。'; listEl.appendChild(p); return;
+  }
+  dates.forEach(date=>{
+    const sec=document.createElement('section'); sec.className='day';
+    const hd=document.createElement('h2'); hd.className='day-head'; hd.textContent=date;
+    sec.appendChild(hd);
+    byDate[date].forEach(a=>{
+      const wasMT=a.translated&&a.lang!=='ja';
+      const origLine=(wasMT&&a.origTitle!==a.title)
+        ? '<p class="orig-title">原題: '+esc(a.origTitle)+'</p>' : '';
+      const preview=a.desc?'<p class="preview">'+esc(a.desc.slice(0,110))+'…</p>':'';
+      const body=a.desc
+        ? '<details><summary>本文を読む</summary><div class="body"><p>'+esc(a.desc)+'</p></div></details>':'';
+      const art=document.createElement('article');
+      art.className='card'; art.dataset.category=a.cat;
+      art.dataset.search=(a.title+' '+a.origTitle+' '+a.source+' '+a.desc).toLowerCase();
+      art.innerHTML=
+        '<div class="meta"><span class="src">'+esc(a.source||'—')+'</span>'+
+        '<span class="'+catClass(a.cat)+'">'+esc(a.label)+'</span>'+
+        '<time>'+esc(a.dateStr)+'</time>'+
+        (wasMT?'<span class="warn">自動翻訳</span>':'')+'</div>'+
+        '<h2><a href="'+esc(a.link)+'" target="_blank" rel="noopener">'+esc(a.title)+'</a></h2>'+
+        origLine+preview+body+
+        '<a class="src-link" href="'+esc(a.link)+'" target="_blank" rel="noopener">元記事を開く ↗</a>';
+      sec.appendChild(art);
+    });
+    listEl.appendChild(sec);
+  });
+}
+
+function applyFilter(){
+  const term=qEl.value.toLowerCase().trim();
+  document.querySelectorAll('.card').forEach(c=>{
+    const catOk=currentCat==='all'||c.dataset.category===currentCat;
+    const termOk=!term||c.dataset.search.includes(term);
+    c.classList.toggle('hidden',!(catOk&&termOk));
+  });
+  document.querySelectorAll('.day').forEach(d=>{
+    d.classList.toggle('hidden',!d.querySelector('.card:not(.hidden)'));
+  });
+}
+
+qEl.addEventListener('input',applyFilter);
+document.querySelectorAll('.filters button').forEach(btn=>{
+  btn.addEventListener('click',function(){
+    document.querySelectorAll('.filters button').forEach(b=>b.classList.remove('active'));
+    this.classList.add('active'); currentCat=this.dataset.cat; applyFilter();
+  });
+});
+
+// data.json を読むだけ（キャッシュ回避に日付クエリを付与）
+fetch('data.json?t=' + Date.now())
+  .then(r => { if(!r.ok) throw new Error('data.json が見つかりません'); return r.json(); })
+  .then(data => {
+    allArticles = data.articles || [];
+    render();
+    const d = data.updatedAt ? new Date(data.updatedAt) : null;
+    updatedEl.textContent = '最終更新: ' +
+      (d ? d.toLocaleString('ja-JP') : '—') + ' ／ ' + allArticles.length + '件';
+  })
+  .catch(err => {
+    const m=document.getElementById('msg');
+    if (m) m.textContent = 'まだデータがありません。GitHub Actions が初回実行されると表示されます。（' + err.message + '）';
+  });
+})();
+</script>
+</body>
+</html>

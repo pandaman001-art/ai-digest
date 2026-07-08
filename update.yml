@@ -1,0 +1,39 @@
+name: Update AI Digest
+
+on:
+  # 毎日 日本時間 朝7時（UTC 22時）に実行
+  schedule:
+    - cron: '0 22 * * *'
+  # 手動実行も可能（Actionsタブの Run workflow ボタン）
+  workflow_dispatch:
+
+# data.json をコミットするための書き込み権限
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch & translate news
+        run: node fetch.js
+
+      - name: Commit data.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --staged --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "Update news $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
