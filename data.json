@@ -1,7 +1,77 @@
 {
-  "updatedAt": "2026-07-24T23:07:54.096Z",
-  "count": 70,
+  "updatedAt": "2026-07-25T23:00:06.281Z",
+  "count": 69,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "title": "MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/26/news014.html",
+      "dateStr": "2026-07-25",
+      "ts": 1785016260000,
+      "summaryOrig": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "summary": "MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の規制動向に対し牽制を図る。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Librarians are hosting viral &#8216;Avoiding AI&#8217; workshops for people who are fed up with Big Tech",
+      "title": "図書館員がビッグテックにうんざりしている人々のために、話題の「AI回避」ワークショップを主催している",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "dateStr": "2026-07-25",
+      "ts": 1784995200000,
+      "summaryOrig": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "summary": "全国各地の図書館で開催される「AI回避」ワークショップは、前例のない需要を呼び起こしている。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "One fallen power line exposed a growing AI data center problem. Here&#8217;s how to fix it.",
+      "title": "1 本の送電線の落下により、AI データセンターの問題が増大していることが明らかになりました。修正方法は次のとおりです。",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "dateStr": "2026-07-25",
+      "ts": 1784984700000,
+      "summaryOrig": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+      "summary": "バージニア州北部での危機一髪の結果、送電網の混乱に対するデータセンターの対応がいかに劣悪であるかが明らかになった。問題を解決する方法は次のとおりです。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "中国の副首相が「中国産AIチップを採用を拒むものは裏切り者である」と発言したことが報じられる",
+      "title": "中国の副首相が「中国産AIチップを採用を拒むものは裏切り者である」と発言したことが報じられる",
+      "link": "https://gigazine.net/news/20260725&#45;china&#45;ai&#45;chip/",
+      "dateStr": "2026-07-25",
+      "ts": 1784941200000,
+      "summaryOrig": "中国ではアメリカ企業に依存せずにAI開発を進めるべく、国産AIチップの開発プロジェクトが進んでいます。そんな中、中国の丁薛祥副首相が「中国産AIチップを採用を拒むものは裏切り者である」と過去に発言していたことが報じられています。 続きを読む...",
+      "summary": "中国ではアメリカ企業に依存せずにAI開発を進めるべく、国産AIチップの開発プロジェクトが進んでいます。そんな中、中国の丁薛祥副首相が「中国産AIチップを採用を拒むものは裏切り者である」と過去に発言していたことが報じられています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "I tried out OpenAI&#8217;s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "title": "OpenAI の新しい AI キーパッドを試してみました – これは一部のプログラマーにとっては楽しいものですが、他の人にとっては少し不可解なものになるでしょう",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "dateStr": "2026-07-25",
+      "ts": 1784938991000,
+      "summaryOrig": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "summary": "OpenAI の派手な新しい AI キーパッドは、一部の人にとっては非常に楽しいでしょうが、他の多くの人はおそらく触らないでしょう。",
+      "translated": true
+    },
     {
       "cat": "ai-japan",
       "label": "国内AI",
@@ -21,9 +91,9 @@
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
-      "origTitle": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-      "title": "プレンティス、リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボ、1億ドル調達に向け交渉中",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "origTitle": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "title": "プレンティス、リード・ホフマンとマーク・ピンカスが共同設立した新しいAIラボが1億ドル調達交渉中",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "dateStr": "2026-07-24",
       "ts": 1784931958000,
       "summaryOrig": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
@@ -105,13 +175,13 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗",
-      "title": "暴走AIは法で止めるべき？米AI規制法案にNVIDIAらが共同書簡で対抗",
+      "origTitle": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
+      "title": "「AI暴走なら政府が停止」法案にNVIDIAら25社が反発、OpenAI・Anthropicは署名せず",
       "link": "https://pc.watch.impress.co.jp/docs/news/2127831.html",
       "dateStr": "2026-07-24",
       "ts": 1784912749000,
-      "summaryOrig": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながる——という、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
-      "summary": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながる——という、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
+      "summaryOrig": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながるという、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
+      "summary": "AIが暴走したら、政府が強制的に止められるようにする——そんな「AIキルスイッチ法案」が7月23日(米国時間)、米連邦議会に提出された。その翌日、NVIDIAやMicrosoft、Metaなど25の企業・団体が、共同書簡「Open Weights and American AI Leadership」を公開した。規制で縛るのではなく、AIを広く公開することこそが安全につながるという、AI業界側の反論だ。ただ、この反論がAIキルスイッチ法案の行方を左右できるかどうかは、まだ見えない。",
       "translated": true
     },
     {
@@ -139,7 +209,7 @@
       "dateStr": "2026-07-24",
       "ts": 1784912400000,
       "summaryOrig": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much [&#8230;]",
-      "summary": "Anthropic と米国政府との最新の対決から数週間後、テクノロジー業界の議論を席巻した OpenAI セキュリティ インシデントから数日後、Anthropic は木曜日、最新モデルである Claude Opus 5 をリリースしました。同社はリリースで、Opus 5 は「多くの領域で Claude Fable 5 の機能に近づき」、はるかに優れていると述べました。",
+      "summary": "Anthropic と米国政府との最新の対決から数週間後、テクノロジー業界の議論を席巻した OpenAI セキュリティ インシデントの数日後、Anthropic は木曜日、最新モデルである Claude Opus 5 をリリースしました。同社はリリースの中で、Opus 5 は「多くの領域で Claude Fable 5 の機能に近づき」、はるかに優れていると述べました。",
       "translated": true
     },
     {
@@ -209,7 +279,7 @@
       "dateStr": "2026-07-24",
       "ts": 1784904235000,
       "summaryOrig": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on [&#8230;]",
-      "summary": "トランプ政権は木曜日、初の「ジェネシス・ミッション」補助金を発表し、ホワイトハウスが「緊急性と野心においてマンハッタン計画に匹敵する」と評する取り組みで、AI主導の科学プロジェクト数百件に50億ドルを振り向けた。ほぼ同じ頃、トランプ大統領の科学顧問マイケル・クラシオスは国会議事堂で議員らを売り飛ばしていた […]",
+      "summary": "トランプ政権は木曜日、初の「ジェネシス・ミッション」補助金を発表し、ホワイトハウスが「緊急性と野心においてマンハッタン計画に匹敵する」と評する取り組みで、AI主導の科学プロジェクト数百件に50億ドルを振り向けた。ほぼ同じ頃、トランプ大統領の科学顧問マイケル・クラシオスは国会議事堂で議員らを売り飛ばしていた[…]",
       "translated": true
     },
     {
@@ -563,34 +633,6 @@
       "translated": true
     },
     {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
-      "title": "ChatGPTがAppleヘルスケアや医療記録との接続に対応、検査結果や運動データを読み込ませて質問可能に",
-      "link": "https://gigazine.net/news/20260724&#45;health&#45;in&#45;chatgpt/",
-      "dateStr": "2026-07-24",
-      "ts": 1784858700000,
-      "summaryOrig": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
-      "summary": "OpenAIが2026年7月23日、ChatGPTに個人の医療記録やAppleヘルスケアの情報を接続できる「Health in ChatGPT」のアメリカ向け提供を開始すると発表しました。検査結果の変化や診察履歴、睡眠時間、運動量などをChatGPTが参照し、利用者の健康状態に合わせた回答を生成できるようになります。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
-      "title": "「Geekbench 7」が登場、「CUDAでのGPU演算」「AV1での動画エンコード」「文字起こしAIで字幕生成」など現代的ワークフローのテストが追加される",
-      "link": "https://gigazine.net/news/20260724&#45;geekbench&#45;7/",
-      "dateStr": "2026-07-24",
-      "ts": 1784856840000,
-      "summaryOrig": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
-      "summary": "ベンチマークアプリ「Geekbench 7」が現地時間の2026年7月23日にリリースされました。2023年2月の「Geekbench 6」から3年半ぶりのメジャーアップデートで、テスト内容にAI処理などの現代的なワークフローが追加されています。 続きを読む...",
-      "translated": true
-    },
-    {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
@@ -633,20 +675,6 @@
       "translated": true
     },
     {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Googleが“自社AIの裏切り”に備え始めた 異例の構想「AI Control Roadmap」とは",
-      "title": "Googleが“自社AIの裏切り”に備え始めた 異例の構想「AI Control Roadmap」とは",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/",
-      "dateStr": "2026-07-23",
-      "ts": 1784847600000,
-      "summaryOrig": "米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。",
-      "summary": "米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。",
-      "translated": true
-    },
-    {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
@@ -657,35 +685,7 @@
       "dateStr": "2026-07-23",
       "ts": 1784841306000,
       "summaryOrig": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with tech from Bosch, Delta, Ecovacs, iRobot, Yale Home, Whirlpool, Tapo, Eufy, and others, while automatically routing requests to [&#8230;]",
-      "summary": "Amazonは、Alexa Plusアシスタントのアップデートを開始し、新しい方法でスマートホームデバイスに接続できるようになります。現在プレビュー段階のこのアップデートにより、Alexa Plus は Bosch、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、Tapo、Eufy などの技術とリンクできるようになり、リクエストを自動的にルーティングできるようになります。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "title": "AMD、Helios AI ラックスケール システムで Nvidia に対抗",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "dateStr": "2026-07-23",
-      "ts": 1784838782000,
-      "summaryOrig": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "summary": "AMDは、今年後半に顧客への出荷を開始する新しいラックスケールシステムで、チップメーカーのライバルに挑戦している。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Anthropic updates Claude voice mode with more capable models",
-      "title": "Anthropic は、より有能なモデルでクロード音声モードを更新します",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "dateStr": "2026-07-23",
-      "ts": 1784833200000,
-      "summaryOrig": "Claude's new voice model will let you reschedule your meeting or draft an email.",
-      "summary": "クロードの新しい音声モデルを使用すると、会議のスケジュールを変更したり、メールの下書きを作成したりできます。",
+      "summary": "Amazonは、新しい方法でスマートホームデバイスに接続できるようにするAlexa Plusアシスタントのアップデートを開始します。現在プレビュー段階のこのアップデートにより、Alexa Plus は Bosch、Delta、Ecovacs、iRobot、Yale Home、Whirlpool、Tapo、Eufy などの技術とリンクできるようになり、リクエストを自動的にルーティングできるようになります。",
       "translated": true
     },
     {
@@ -699,21 +699,7 @@
       "dateStr": "2026-07-23",
       "ts": 1784833200000,
       "summaryOrig": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched voice mode last year, it was primarily focused on delivering [&#8230;]",
-      "summary": "これまで、音声モードは、Anthropic のより高速ではありますが、強力ではないモデルである Claude Haiku でのみ利用可能でした。同社は現在、Opus および Sonnet モデルを音声モードで利用できるようにし、Gmail、Slack、Canva などのアプリにもその範囲を拡大しています。 Anthropic が昨年音声モードを立ち上げたとき、主に配信することに重点を置いていました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "title": "Google の元セキュリティ担当幹部が設立した AegisAI、AI によるスピア フィッシングを阻止するために 3,600 万ドルを調達",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "dateStr": "2026-07-23",
-      "ts": 1784831914000,
-      "summaryOrig": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
-      "summary": "AegisAI の共同創設者は、人間が行うように各メッセージを迅速に分析し、最も精巧なチェックリストでも検出できない小さな異常に注意を払う AI エージェントを開発しました。",
+      "summary": "これまで、音声モードは、Anthropic のより高速ではありますが、強力ではないモデルである Claude Haiku でのみ利用可能でした。同社は現在、Opus および Sonnet モデルを音声モードで利用できるようにし、Gmail、Slack、Canva などのアプリにもその範囲を拡大しています。 Anthropic が昨年音声モードを立ち上げたとき、主に配信することに重点を置いていました […]",
       "translated": true
     },
     {
@@ -727,7 +713,7 @@
       "dateStr": "2026-07-23",
       "ts": 1784830830000,
       "summaryOrig": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these changes \"because we believe AI replaces humans,\" but says AI has \"fundamentally transformed the tech industry, including how we work, [&#8230;]",
-      "summary": "404 Mediaが先に報じたように、Patreonは従業員の20パーセント、または約93人の従業員を解雇する。 Patreon CEOのJack Conte氏は従業員へのメモの中で、同社がこうした変更を行っているのは「AIが人間に取って代わると信じているから」ではないと書いているが、AIは「私たちの働き方を含め、テクノロジー業界を根本的に変革した」と述べている。",
+      "summary": "404 Mediaが以前に報じたように、Patreonは従業員の20パーセント、または約93人の従業員を解雇する予定だ。 Patreon CEOのJack Conte氏は従業員へのメモの中で、同社がこうした変更を行っているのは「AIが人間に取って代わると信じているから」ではないと記しているが、AIは「私たちの働き方を含め、テクノロジー業界を根本的に変革した」と述べている。",
       "translated": true
     },
     {
@@ -755,7 +741,7 @@
       "dateStr": "2026-07-23",
       "ts": 1784816015000,
       "summaryOrig": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a report from Politico. Reps. Ted Lieu (D-CA) and Nathaniel Moran (R-TX) are expected to introduce the legislation on Thursday. The news of [&#8230;]",
-      "summary": "ポリティコの報道によると、議員らは国土安全保障省の命令に応じてAI企業にシステムのシャットダウンやスロットル調整を義務付ける「AIキルスイッチ法」の導入を準備しているという。テッド・リュー下院議員(民主党-カリフォルニア州)とナサニエル・モラン下院議員(共和党-テキサス州)は木曜日にこの法案を提出する予定である。のニュース […]",
+      "summary": "ポリティコの報道によると、議員らはAI企業に対し、国土安全保障省からの命令に応じてシステムをシャットダウンまたはスロットルすることを義務付ける「AIキルスイッチ法」の導入を準備しているという。テッド・リュー下院議員(民主党-カリフォルニア州)とナサニエル・モラン下院議員(共和党-テキサス州)は木曜日にこの法案を提出する予定である。のニュース […]",
       "translated": true
     },
     {
@@ -769,7 +755,7 @@
       "dateStr": "2026-07-23",
       "ts": 1784808000000,
       "summaryOrig": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to&#8230;",
-      "summary": "新薬の設計と開発は、費用がかかり、失敗が起こりやすい科学的な課題です。新薬の開発には何年もかかり、多額の投資が必要になります。それでも、ほとんどの候補者は患者の元に届くことはありません。生物学的医薬品の場合、合成化学 (多くの場合使用される) ではなく、人工タンパク質から作られる治療法。",
+      "summary": "新薬の設計と開発は、費用がかかり、失敗が起こりやすい科学的な課題です。新薬の開発には何年もかかり、多額の投資が必要になります。それでも、ほとんどの候補者は患者の元に届くことはありません。生物学的医薬品の場合、合成化学（多くの場合…に使用される）ではなく、人工タンパク質から作られる治療法。",
       "translated": true
     },
     {
@@ -811,7 +797,7 @@
       "dateStr": "2026-07-20",
       "ts": 1784570400000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
-      "summary": "このストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信箱に受け取るには、まずここから登録してください。先週末、ドナルド・トランプ大統領のAIに関する現および元顧問数名が、国内の大手AI企業に対して公に侮辱の言葉を投げかけた。デビッド・サックス、大統領のAIと暗号通貨の「皇帝」になるまで…",
+      "summary": "このストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信箱に受け取るには、まずここから登録してください。先週末、ドナルド・トランプ大統領のAIに関する現・元顧問数名が、国内の大手AI企業に対して公に侮辱の言葉を浴びせた。デビッド・サックス、大統領のAIと暗号通貨の「皇帝」になるまで…",
       "translated": true
     },
     {
@@ -839,7 +825,7 @@
       "dateStr": "2026-07-17",
       "ts": 1784278652000,
       "summaryOrig": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions influence major strategic decisions in many industries, with real money, livelihoods, and even actual lives at stake. Farmers use&#8230;",
-      "summary": "世界中の航空会社の航空会社、送電網運営者、農家は毎朝、同じ天気予報に基づいて意思決定を行っています。これらの天気予報はほとんどの人が 2 秒程度見るものですが、天気予報は多くの業界で重要な戦略的決定に影響を与え、実際のお金、生計、さらには実際の命が危険にさらされています。農家が使っているのは…",
+      "summary": "世界中の航空会社の航空会社、送電網運営者、農家は毎朝、同じ天気予報に基づいて意思決定を行っています。これらの天気予報はほとんどの人が 2 秒程度見るものですが、天気予報は多くの業界で重要な戦略的決定に影響を与え、実際のお金、生計、さらには実際の命が危険にさらされています。農家が使用しているのは…",
       "translated": true
     },
     {
@@ -895,7 +881,7 @@
       "dateStr": "2026-07-15",
       "ts": 1784151716000,
       "summaryOrig": "The convenience store chain will use StorMagic instead.",
-      "summary": "コンビニエンスストアチェーンは代わりにStorMagicを使用する予定だ。",
+      "summary": "コンビニチェーンは代わりにStorMagicを使用する予定だ。",
       "translated": true
     },
     {
@@ -979,7 +965,7 @@
       "dateStr": "2026-07-13",
       "ts": 1783955194000,
       "summaryOrig": "\"Context bombing\" tricks hacking agents into shutting down before they can do harm.",
-      "summary": "「コンテキスト爆撃」は、ハッキングエージェントを騙して、危害を加える前にシャットダウンさせます。",
+      "summary": "「コンテキスト爆撃」は、ハッキングエージェントを騙して、害を及ぼす前にシャットダウンさせます。",
       "translated": true
     }
   ]
