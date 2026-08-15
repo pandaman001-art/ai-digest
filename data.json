@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-08-14T22:30:02.913Z",
+  "updatedAt": "2026-08-15T22:28:41.195Z",
   "count": 70,
   "articles": [
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "title": "女性は、継父が幼少期の写真を露骨な画像に変換するためにGrokを使用したと主張している",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "dateStr": "2026-08-15",
+      "ts": 1786829359000,
+      "summaryOrig": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "summary": "この女性は、AIツールが「日常生活を奪い、児童への性的虐待に変えている」と主張した。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "title": "チャットボットとしてロールプレイングして、AI の犠牲を笑いましょう",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "dateStr": "2026-08-15",
+      "ts": 1786826700000,
+      "summaryOrig": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as [&#8230;]",
+      "summary": "AI Slop Bores Me は、そのシンプルさにおいて素晴らしいです。人間と AI としての LARP の 2 つのタブがあります。一方ではリクエストを入力します。もう一方では、回答を送信します。しかし重要なことは、方程式の両側に人間が存在するということです。プロンプトは次のような応答を要求できます […]",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "title": "Anthropic は、Claude の新しい透かしがどのように機能するかについて詳細を共有します",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "dateStr": "2026-08-15",
+      "ts": 1786820319000,
+      "summaryOrig": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "summary": "透かしは実際にどのように機能するのでしょうか?編集で非表示にできるのでしょうか？そして、これはコードにどのような影響を与えるのでしょうか?",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "SpaceX officially closes its Cursor acquisition",
+      "title": "SpaceX、Cursor買収を正式に完了",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "dateStr": "2026-08-15",
+      "ts": 1786811400000,
+      "summaryOrig": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "summary": "AI コーディングのスタートアップ Cursor は正式に SpaceX の一員となりました。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+      "title": "コンピューターの敵だった「熱雑音」を逆に利用して省電力を狙う「熱力学コンピューティング」とは？",
+      "link": "https://gigazine.net/news/20260815&#45;thermodynamic&#45;computing/",
+      "dateStr": "2026-08-15",
+      "ts": 1786780800000,
+      "summaryOrig": "熱によって原子や電子が不規則に動くことで、回路の電圧や電流には小さな揺らぎが生じます。こうしたランダムな揺らぎは「熱雑音」と呼ばれ、通常のコンピューターでは計算を乱す原因となるため抑え込まれていますが、その熱雑音を逆に計算へ利用する「熱力学コンピューティング」の研究が進んでいます。AIや科学計算に必要な処理を、従来のコンピューターより少ない消費電力と発熱で実行できる可能性がありますが、記事作成時点では小規模な試作機やシミュレーションを使って原理を検証している段階です。 続きを読む...",
+      "summary": "熱によって原子や電子が不規則に動くことで、回路の電圧や電流には小さな揺らぎが生じます。こうしたランダムな揺らぎは「熱雑音」と呼ばれ、通常のコンピューターでは計算を乱す原因となるため抑え込まれていますが、その熱雑音を逆に計算へ利用する「熱力学コンピューティング」の研究が進んでいます。AIや科学計算に必要な処理を、従来のコンピューターより少ない消費電力と発熱で実行できる可能性がありますが、記事作成時点では小規模な試作機やシミュレーションを使って原理を検証している段階です。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "アメリカにおけるがん手術の待ち時間はますます長くなっている",
+      "title": "アメリカにおけるがん手術の待ち時間はますます長くなっている",
+      "link": "https://gigazine.net/news/20260815&#45;us&#45;wait&#45;times&#45;cancer&#45;surgeries&#45;longer/",
+      "dateStr": "2026-08-15",
+      "ts": 1786773600000,
+      "summaryOrig": "アメリカにおけるがん患者の手術までの待機時間が、2012年から2023年にかけて段階的に長くなってきていることが明らかになりました。 続きを読む...",
+      "summary": "アメリカにおけるがん患者の手術までの待機時間が、2012年から2023年にかけて段階的に長くなってきていることが明らかになりました。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "E&#45;Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー",
+      "title": "E&#45;Inkディスプレイ・3マイクアレイ・32bitフロート録音に対応した「Insta360 Mic Pro」外観レビュー",
+      "link": "https://gigazine.net/news/20260815&#45;insta360&#45;mic&#45;pro&#45;appearance/",
+      "dateStr": "2026-08-15",
+      "ts": 1786764600000,
+      "summaryOrig": "アクションカメラなどで知られるInsta360から、送信機の前面にカスタマイズ可能なE-Inkディスプレイを搭載したワイヤレスマイク「Insta360 Mic Pro」が2026年5月19日に登場しました。Mic Proは3基のマイクを内蔵して指向性を切り替えられるほか、AIノイズキャンセリングやオートゲインなども搭載しています。そんなMic Proを実際に使う機会を得たので、まずは特徴的なE-Inkディスプレイを含む本体の外観や付属品を詳しくチェックしてみました。 続きを読む...",
+      "summary": "アクションカメラなどで知られるInsta360から、送信機の前面にカスタマイズ可能なE-Inkディスプレイを搭載したワイヤレスマイク「Insta360 Mic Pro」が2026年5月19日に登場しました。Mic Proは3基のマイクを内蔵して指向性を切り替えられるほか、AIノイズキャンセリングやオートゲインなども搭載しています。そんなMic Proを実際に使う機会を得たので、まずは特徴的なE-Inkディスプレイを含む本体の外観や付属品を詳しくチェックしてみました。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果",
+      "title": "AIの「分かったふり」を見続けていると人間も「分からない」と言えなくなるという研究結果",
+      "link": "https://gigazine.net/news/20260815&#45;ai&#45;advice&#45;suppresses&#45;people&#45;willingness&#45;idk/",
+      "dateStr": "2026-08-14",
+      "ts": 1786748400000,
+      "summaryOrig": "生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 続きを読む...",
+      "summary": "生成AIはしばしば、聞かれたことに対して「分かりません」とは答えずに適当なでっち上げを返してくることがあります。生成AIを使う人間もこれに影響され、「分かりません」と言えなくなってしまっている可能性が見えてきました。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-global",
       "label": "海外AI",
@@ -36,7 +148,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "title": "PBS 局はクラウド ストレージ プロバイダーによるゴースティングにより 50TB のデータを失うことを懸念",
+      "title": "PBS 局はクラウド ストレージ プロバイダーによるゴースト化により 50TB のデータを失うことを懸念",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "dateStr": "2026-08-14",
       "ts": 1786727034000,
@@ -55,7 +167,7 @@
       "dateStr": "2026-08-14",
       "ts": 1786726456000,
       "summaryOrig": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't even look like it spells Instagram anymore. And we cannot figure out why Instagram decided to do this. On this episode of [&#8230;]",
-      "summary": "Instagramのワードマークは象徴的です。まあ、象徴的でした。どうやらインスタグラムはそれが古く見えると考えたらしく、同社は今週新しいものを公開した。昔の Instagram のワードマークとは似ていません。もはや Instagram の綴りさえないようです。そして、なぜInstagramがこれを行うことにしたのか理解できません。このエピソードについて […]",
+      "summary": "Instagramのワードマークは象徴的です。まあ、象徴的でした。どうやらインスタグラムはそれが古く見えると考えたらしく、同社は今週新しいものを公開した。昔の Instagram のワードマークとは似ていません。もはや Instagram の綴りさえないようだ。そして、なぜインスタグラムがこれを行うことにしたのか、私たちは理解できません。このエピソードについて […]",
       "translated": true
     },
     {
@@ -69,7 +181,7 @@
       "dateStr": "2026-08-14",
       "ts": 1786725572000,
       "summaryOrig": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's AI video generator, Flow. When toggled off, Google will remove the \"sparkle\" watermark that appears in the bottom-right corner of [&#8230;]",
-      "summary": "Google は、AI ツールで作成された画像、ビデオ、音楽から目に見える透かしを削除できるようにします。このアップデートにより、Gemini と Google の AI ビデオ ジェネレーター Flow の新しい「メディア ウォーターマーク」設定をオフに切り替えることができます。オフにすると、Google は […] の右下隅に表示される「輝き」の透かしを削除します。",
+      "summary": "Google では、AI ツールで作成された画像、動画、音楽から目に見える透かしを削除できるようになります。このアップデートにより、Gemini と Google の AI ビデオ ジェネレーター Flow の新しい「メディア ウォーターマーク」設定をオフに切り替えることができます。オフにすると、Google は […] の右下隅に表示される「輝き」の透かしを削除します。",
       "translated": true
     },
     {
@@ -97,7 +209,7 @@
       "dateStr": "2026-08-14",
       "ts": 1786722208000,
       "summaryOrig": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [",
-      "summary": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AI は少数の研究機関によって管理されるのではなく、エクイティの [",
+      "summary": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AI は少数の研究所によって管理されるのではなく、株式の [",
       "translated": true
     },
     {
@@ -105,13 +217,13 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "「Qwen3.8-27B」ついに公開！3.6を大きく上回る性能でローカルAIの定番になるか",
-      "title": "「Qwen3.8-27B」ついに公開！3.6を大きく上回る性能でローカルAIの定番になるか",
+      "origTitle": "「Qwen3.8-27B」無償公開！3.6を大きく上回る性能でローカルAIの定番になるか",
+      "title": "「Qwen3.8-27B」無償公開！3.6を大きく上回る性能でローカルAIの定番になるか",
       "link": "https://pc.watch.impress.co.jp/docs/news/2132909.html",
       "dateStr": "2026-08-14",
       "ts": 1786721804000,
-      "summaryOrig": "ローカルAIに最適な新モデル「Qwen3.8-27B」がオープンウェイトとしてついに公開された。Qwen3.5のアーキテクチャ基盤を継承しつつ、コーディング、専門業務、研究、ならびに長期的なエージェントタスク全般で大幅なパフォーマンス向上を達成しているほか、画像とビデオも直接理解できるネイティブなマルチモーダルモデルとなっている。",
-      "summary": "ローカルAIに最適な新モデル「Qwen3.8-27B」がオープンウェイトとしてついに公開された。Qwen3.5のアーキテクチャ基盤を継承しつつ、コーディング、専門業務、研究、ならびに長期的なエージェントタスク全般で大幅なパフォーマンス向上を達成しているほか、画像とビデオも直接理解できるネイティブなマルチモーダルモデルとなっている。",
+      "summaryOrig": "ローカルAIに最適な新モデル「Qwen3.8-27B」がオープンウェイトとしてついに公開された。Qwen3.5のアーキテクチャ基盤を継承しつつ、コーディング、専門業務、研究、ならびに長期的なエージェントタスク全般で大幅なパフォーマンス向上を達成しているほか、画像とビデオも直接理解できるネイティブなマルチモーダルモデルとなっている。ライセンスはApache 2.0で、商用利用含め無償利用できる。",
+      "summary": "ローカルAIに最適な新モデル「Qwen3.8-27B」がオープンウェイトとしてついに公開された。Qwen3.5のアーキテクチャ基盤を継承しつつ、コーディング、専門業務、研究、ならびに長期的なエージェントタスク全般で大幅なパフォーマンス向上を達成しているほか、画像とビデオも直接理解できるネイティブなマルチモーダルモデルとなっている。ライセンスはApache 2.0で、商用利用含め無償利用できる。",
       "translated": true
     },
     {
@@ -148,7 +260,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "title": "新しい予測が正しいことが証明されれば、ハイパースケーラーは天然ガスの導入を後悔するかもしれない",
+      "title": "新しい予測が正しいことが判明すれば、ハイパースケーラーは天然ガスの導入を後悔するかもしれない",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "dateStr": "2026-08-14",
       "ts": 1786716300000,
@@ -167,7 +279,7 @@
       "dateStr": "2026-08-14",
       "ts": 1786716000000,
       "summaryOrig": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside&#160;a letter from Mark Zuckerberg&#160;arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s [",
-      "summary": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AI は少数の研究機関によって管理されるのではなく、エクイティの [",
+      "summary": "Meta は今週、Glimmer をリリースしました。これは、誰でもダウンロードして自分のハードウェアで実行できるオープンウェイト AI モデルです。これは、独自の API の背後にロックされたままの同社のより強力なモデルである Muse Spark とは対照的です。このリリースは、AI は少数の研究所によって管理されるのではなく、株式の [",
       "translated": true
     },
     {
@@ -413,34 +525,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "GPT&#45;5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
-      "title": "GPT&#45;5.6 Solを最大14倍高速化する「Ultrafast」モードが登場",
-      "link": "https://gigazine.net/news/20260814&#45;gpt&#45;5&#45;6&#45;sol&#45;ultrafast/",
-      "dateStr": "2026-08-14",
-      "ts": 1786671780000,
-      "summaryOrig": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
-      "summary": "OpenAIがGPT-5.6 Solを最大14倍高速化するサービス「Ultrafast」を現地時間の2026年8月13日に発表しました。UltrafastはCerebrasの高速推論技術を用いており、一部のユーザーを対象にプレビュー公開されています。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "1.7兆モデル「DeepSeek-V4-Pro」正式公開。エージェント強化で下剋上解消",
-      "title": "1.7兆モデル「DeepSeek-V4-Pro」正式公開。エージェント強化で下剋上解消",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2132686.html",
-      "dateStr": "2026-08-14",
-      "ts": 1786670576000,
-      "summaryOrig": "DeepSeekは8月13日(中国時間)、最新のLLMとなる「DeepSeek-V4-Pro-0813」をHugging Faceなどで正式公開した。本モデルは従来のプレビュー版に代わる正式リリース版に位置づけられており、オープンソースとして商用利用も可能なMITライセンスの下で提供されている。",
-      "summary": "DeepSeekは8月13日(中国時間)、最新のLLMとなる「DeepSeek-V4-Pro-0813」をHugging Faceなどで正式公開した。本モデルは従来のプレビュー版に代わる正式リリース版に位置づけられており、オープンソースとして商用利用も可能なMITライセンスの下で提供されている。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
       "title": "AIエージェント同士が“縄張り争い”、マルウェアで妨害も Anthropicがマルチエージェント実験の結果を公開",
       "link": "https://www.itmedia.co.jp/news/article/2608/14/2000000538/",
@@ -554,12 +638,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "title": "Databricks は 10 億ドルを調達したいと考えており、投資家は 150 億ドルを望んでいた。 1,900億ドルの評価額で50億ドルに落ち着きました。",
+      "title": "Databricks は 10 億ドルを調達したいと考えており、投資家は 150 億ドルを望んでいた。 1900億ドルの評価額で50億ドルで決着した。",
       "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
       "dateStr": "2026-08-13",
       "ts": 1786652079000,
       "summaryOrig": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
-      "summary": "AIは高価である、とAli Ghodsi氏はTechCrunchに語った。非常に多くの投資家が彼の最新ラウンドに参加を希望しているため、彼は計画以上のことにイエスと答えた。",
+      "summary": "AIは高価である、とAli Ghodsi氏はTechCrunchに語った。非常に多くの投資家が彼の最新ラウンドに参加したいと考えているため、彼は計画以上のことにイエスと答えた。",
       "translated": true
     },
     {
@@ -615,35 +699,7 @@
       "dateStr": "2026-08-13",
       "ts": 1786648789000,
       "summaryOrig": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "summary": "IBMはこの契約の一環として、OpenAIのテクノロジーに関して数万人のコンサルタントをトレーニングし認定する計画だ。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "title": "人間設定の AI エージェントは同じタスクに取り組みます。彼らは縄張り争いを始めた。",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "dateStr": "2026-08-13",
-      "ts": 1786645694000,
-      "summaryOrig": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "summary": "人間学の研究者らは、AI エージェントが予想外の方法で衝突、共謀、連携する可能性があることを発見し、今日の安全性テストがマルチエージェント システムのリスクを捉えているかどうかについて新たな疑問を引き起こしています。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "OpenAI hires new CRO as executive shake-up continues",
-      "title": "経営陣の刷新が続く中、OpenAI が新しい CRO を採用",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "dateStr": "2026-08-13",
-      "ts": 1786640833000,
-      "summaryOrig": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "summary": "OpenAIは、就任わずか9カ月で最高収益責任者のデニス・ドレッサー氏を交代し、Wizの社長兼最高執行責任者であるダリ・ラジック氏をフロンティア・ラボのトップセールスの職に任命した。",
+      "summary": "IBMはこの契約の一環として、OpenAIのテクノロジーに関して数万人のコンサルタントを訓練し認定する計画だ。",
       "translated": true
     },
     {
@@ -658,20 +714,6 @@
       "ts": 1786636800000,
       "summaryOrig": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest addition is undoubtedly MIDI support. Suno says that MIDI was its most requested feature, and it's basically a prerequisite for any modern DAW. Unfortunately, [&#8230;]",
       "summary": "Suno は、生成 AI 機能を備えた必要最低限​​のオーディオ エディタではなく、実際のデジタル オーディオ ワークステーション (DAW) に近づける大幅なアップグレードを施した Studio 2.0 をリリースします。最大の追加点は間違いなく MIDI サポートです。 Suno 氏によると、MIDI は最も要望の多かった機能であり、基本的に現代の DAW の前提条件となっています。残念ながら、 […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "title": "Microsoft、個別の Copilot アプリを統合しながら、失敗した AI 機能を廃止",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "dateStr": "2026-08-13",
-      "ts": 1786635052000,
-      "summaryOrig": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "summary": "Microsoftは消費者向けアプリとビジネスアプリを統合することでCopilotを簡素化し、AI生成のポッドキャスト、グループチャット、ディープリサーチ、そしてMicoキャラクターを廃止している。",
       "translated": true
     },
     {
@@ -713,21 +755,7 @@
       "dateStr": "2026-08-13",
       "ts": 1786630231000,
       "summaryOrig": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s because last week Google announced a bombshell reorganization of its AI division, Google DeepMind. Jeff Dean, the company’s chief scientist, is [&#8230;]",
-      "summary": "今日の Decoder では、ここ 1 週間テクノロジー業界で盛り上がっている質問について、The Verge の上級 AI レポーターであるヘイデン フィールドと話します。「Google は AI 競争に負けるのでしょうか?」というのも、先週GoogleがAI部門「Google DeepMind」の衝撃的な組織再編を発表したからだ。同社の主任科学者であるジェフ・ディーン氏は […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
-      "title": "ウェブサイトへのアクセスの99％超がボットに、人間1回に対して214回もページを読み込むAIスクレイパーとの攻防",
-      "link": "https://gigazine.net/news/20260813&#45;traffic&#45;bot&#45;percent/",
-      "dateStr": "2026-08-13",
-      "ts": 1786629600000,
-      "summaryOrig": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。 続きを読む...",
-      "summary": "寄付者情報データベース「PatronView」を運営するニック・グレイ氏が、ウェブサイトに押し寄せるAIクローラーやスクレイパーと約1年間にわたって続けてきた攻防を公開しました。サーバーが配信したページ数とアクセス解析の数字を比べると、「人間が1回ページ読み込んだ」と記録される間に、AIによるページ読み込みがおよそ214回発生していたとのことです。 続きを読む...",
+      "summary": "今日の Decoder では、ここ 1 週間テクノロジー業界で盛り上がっている質問について、The Verge の上級 AI レポーターであるヘイデン フィールドと話します。「Google は AI 競争に負けるのでしょうか?」というのも、先週GoogleがAI部門「Google DeepMind」の爆弾的再編を発表したからだ。同社の主任科学者であるジェフ・ディーン氏は […]",
       "translated": true
     },
     {
@@ -773,26 +801,12 @@
       "translated": true
     },
     {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "AI会議録サービス「tl;dv」で18万件超の会議メタデータにアクセス可能だったと研究者が報告、会社側は「別々の2つの脆弱性」と説明",
-      "title": "AI会議録サービス「tl;dv」で18万件超の会議メタデータにアクセス可能だったと研究者が報告、会社側は「別々の2つの脆弱性」と説明",
-      "link": "https://gigazine.net/news/20260813&#45;tldv&#45;data&#45;hack/",
-      "dateStr": "2026-08-13",
-      "ts": 1786619280000,
-      "summaryOrig": "AIを使ってオンライン会議の録画・文字起こし・要約を行うサービス「tl;dv」で、全ユーザーの会議メタデータを横断して18万1874件の会議記録を取得できる脆弱(ぜいじゃく)性が存在したと独立系セキュリティ研究者が報告しました。研究者はtl;dv運営者にこの件を報告したものの6カ月の間修正されていないと非難しましたが、tl;dv側は「修正されなかったのではなく複数の攻撃経路が存在していた」と説明しています。 続きを読む...",
-      "summary": "AIを使ってオンライン会議の録画・文字起こし・要約を行うサービス「tl;dv」で、全ユーザーの会議メタデータを横断して18万1874件の会議記録を取得できる脆弱(ぜいじゃく)性が存在したと独立系セキュリティ研究者が報告しました。研究者はtl;dv運営者にこの件を報告したものの6カ月の間修正されていないと非難しましたが、tl;dv側は「修正されなかったのではなく複数の攻撃経路が存在していた」と説明しています。 続きを読む...",
-      "translated": true
-    },
-    {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
       "origTitle": "How kids feel about AI, in their own words",
-      "title": "子どもたちはAIについてどう感じているか、彼ら自身の言葉で語る",
+      "title": "子どもたちが AI についてどう感じているかを自分の言葉で語る",
       "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "dateStr": "2026-08-13",
       "ts": 1786611600000,
@@ -826,20 +840,6 @@
       "ts": 1786571001000,
       "summaryOrig": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
       "summary": "データは、侵害された AI パッケージのユーザー 2,500 人から収集され、流出されました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Twitch streamers can now opt out from training Amazon’s AI",
-      "title": "Twitch ストリーマーが Amazon の AI のトレーニングをオプトアウトできるようになりました",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "dateStr": "2026-08-12",
-      "ts": 1786555750000,
-      "summaryOrig": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [&#8230;]",
-      "summary": "Twitch ユーザーは、Amazon の生成 AI モデルのトレーニングに自分のコンテンツが使用されることを許可しないようにできるようになりました。オプトアウトとは、「あなたのストリーム、VOD、クリップ、ストリームチャット、およびあなたのチャンネル上の写真とテキスト」が、「テキストの生成または合成を目的とする」Amazon AI モデルの「将来のトレーニング」に使用されないことを意味します。",
       "translated": true
     },
     {
@@ -881,7 +881,7 @@
       "dateStr": "2026-08-11",
       "ts": 1786481992000,
       "summaryOrig": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "summary": "デバイスにバインドされたセッション資格情報は、ますます一般的になっているアカウント乗っ取りを阻止します。",
+      "summary": "デバイスにバインドされたセッション認証情報は、ますます一般的になっているアカウント乗っ取りを阻止します。",
       "translated": true
     },
     {
@@ -895,7 +895,7 @@
       "dateStr": "2026-08-11",
       "ts": 1786447808000,
       "summaryOrig": "Why passkey apps treat Windows differently than other operating systems.",
-      "summary": "パスキー アプリが Windows を他のオペレーティング システムとは異なるように扱う理由。",
+      "summary": "パスキー アプリが Windows を他のオペレーティング システムとは異なって扱う理由。",
       "translated": true
     },
     {
@@ -979,7 +979,7 @@
       "dateStr": "2026-08-03",
       "ts": 1785745805000,
       "summaryOrig": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers&#8230;",
-      "summary": "MIT テクノロジー レビューの説明: 次に何が起こるかを理解するために、ライターが複雑で厄介なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。 7 月に 2 つの OpenAI モデルが Web サイト「Hugging Face」をハッキングしたとき、彼らは金儲けや妨害行為をしようとしていたわけではなく、ただ答えを探していただけでした…",
+      "summary": "MIT テクノロジー レビューの説明: 次に何が起こるかを理解できるよう、ライターが複雑で乱雑なテクノロジーの世界を解き明かします。シリーズの続きはここから読むことができます。 7 月に 2 つの OpenAI モデルが Web サイト「Hugging Face」をハッキングしたとき、彼らは金儲けや妨害行為をしようとしたわけではなく、ただ答えを探していただけでした…",
       "translated": true
     }
   ]
