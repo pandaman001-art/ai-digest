@@ -66,8 +66,25 @@ function parseItems(xml) {
       if (!m) return '';
       return m[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim();
     };
-    // Atomのlinkは <link href="..."/> 形式
-    let link = pick('link');
+    // linkの取得。Atomは <link href="..."/> 形式で複数ある場合があるため、
+    // rel="alternate"（記事本文）を優先し、無ければ最初のhrefを使う
+    let link = '';
+    const linkTags = body.match(/<link\b[^>]*>/gi) || [];
+    for (const lt of linkTags) {
+      if (/rel=["']alternate["']/i.test(lt)) {
+        const hm = lt.match(/href=["']([^"']+)["']/i);
+        if (hm) { link = hm[1]; break; }
+      }
+    }
+    if (!link) {
+      // rel指定なし: hrefを持つ最初のlink、なければ<link>テキスト
+      for (const lt of linkTags) {
+        if (/rel=/i.test(lt)) continue; // comments等のrel付きは避ける
+        const hm = lt.match(/href=["']([^"']+)["']/i);
+        if (hm) { link = hm[1]; break; }
+      }
+    }
+    if (!link) link = pick('link');
     if (!link) {
       const lm = body.match(/<link[^>]+href=["']([^"']+)["']/i);
       if (lm) link = lm[1];
@@ -141,18 +158,30 @@ async function fetchSource(src) {
   });
 }
 
-// ── 翻訳（無料Google翻訳の簡易エンドポイント）──
+// ── 翻訳（無料Google翻訳の簡易エンドポイント。失敗時リトライ）──
+async function gtranslateOnce(text, host) {
+  const url = 'https://' + host + '/translate_a/single?' +
+    new URLSearchParams({ client: 'gtx', sl: 'auto', tl: 'ja', dt: 't', q: text.slice(0, 500) });
+  const res = await fetch(url, {
+    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
+  });
+  if (!res.ok) throw new Error('HTTP ' + res.status);
+  const data = await res.json();
+  const out = (data[0] || []).map(s => s[0] || '').join('').trim();
+  if (!out) throw new Error('empty');
+  return out;
+}
+
 async function gtranslate(text) {
   if (!text || !text.trim()) return null;
-  const url = 'https://translate.googleapis.com/translate_a/single?' +
-    new URLSearchParams({ client: 'gtx', sl: 'auto', tl: 'ja', dt: 't', q: text.slice(0, 500) });
-  try {
-    const res = await fetch(url);
-    if (!res.ok) return null;
-    const data = await res.json();
-    const out = (data[0] || []).map(s => s[0] || '').join('').trim();
-    return out || null;
-  } catch (e) { return null; }
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      return await gtranslateOnce(text, 'translate.googleapis.com');
+    } catch (e) {
+      await sleep(600 * (attempt + 1)); // 失敗するほど長く待つ
+    }
+  }
+  return null;
 }
 
 // ── 記事ページの公式要約（meta description）を取得 ──
