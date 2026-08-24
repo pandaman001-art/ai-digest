@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-08-24T01:45:28.057Z",
+  "updatedAt": "2026-08-24T02:25:07.578Z",
   "count": 74,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
+      "title": "プロ開発者の90％がAIコーディングエージェントを週1回以上利用、Claude CodeのシェアがGitHub Copilotを逆転して約2倍差の1位",
+      "link": "https://gigazine.net/news/20260824&#45;ai&#45;coding&#45;agent&#45;adoption&#45;trends/",
+      "dateStr": "2026-08-24",
+      "ts": 1787536320000,
+      "summaryOrig": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
+      "summary": "JetBrains Researchは世界中の1万5000人以上のプロの開発者を対象とした調査結果を「Developer Ecosystem Survey 2026」として発表しました。特徴的なのはClaude Codeの急上昇であり、これまでトップであったGitHub Copilotの2倍に迫るシェアとなっています。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-japan",
       "label": "国内AI",
@@ -162,13 +176,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
-      "title": "Who&#8217;s behind the new ‘stealth model’ Ox Alpha?",
+      "title": "新しい「ステルスモデル」オックス・アルファの背後にいるのは誰だ？",
       "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
       "dateStr": "2026-08-23",
       "ts": 1787515296000,
       "summaryOrig": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "translated": false
+      "summary": "Ox Alphaと呼ばれる謎めいた新しいAIモデルは、インターネットの特定のコーナーを熱狂的な憶測に駆り立てました。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -176,13 +190,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "title": "Linkdazeのスマートカレンダーは、スケジュールを追跡するだけでなく、世帯を運営するために構築されています",
       "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
       "dateStr": "2026-08-23",
       "ts": 1787512448000,
       "summaryOrig": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "translated": false
+      "summary": "Linkdazeのスマートデジタルカレンダーは、AIミールプランナーツールを含むペイウォールの背後にその機能を置かないことで際立っています。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -190,13 +204,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "title": "監視会社が増大する反発に直面しているため、FlockのCEOは「妥協」を求めています",
       "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
       "dateStr": "2026-08-23",
       "ts": 1787499000000,
       "summaryOrig": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
-      "translated": false
+      "summary": "Flock Safetyは、その監視技術が悪用される可能性があるという懸念について、ますます高まっている世論に直面しています。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -204,13 +218,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "title": "AIモデルを著作権で保護された書籍でトレーニングすることは合法ですか？複雑です",
       "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
       "dateStr": "2026-08-23",
       "ts": 1787497200000,
       "summaryOrig": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
-      "translated": false
+      "summary": "ほとんどの出版された著者は、彼らの知識や同意なしに、彼らの生活を損なう恐れのある同じAIツールの開発に貢献してきました。それは違法に見えますよね？",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -302,13 +316,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "title": "ハーバード大学の$ 699のスタートアップブートキャンプは、インストラクターのAIアバターを提供しています",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "dateStr": "2026-08-22",
       "ts": 1787435216000,
       "summaryOrig": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-      "translated": false
+      "summary": "HBS Foundryプログラムでは、AIアバターが練習ピッチや取締役会でフィードバックを提供します。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -316,13 +330,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
-      "title": "Inherent, founded by DeepMind alumni, says its AI &#8216;teammate&#8217; just outperformed Anthropic and OpenAI at replicating research",
+      "title": "DeepMindの卒業生によって設立されたInherentは、そのAI「チームメイト」が研究の再現でAnthropicとOpenAIを上回ったと言います",
       "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
       "dateStr": "2026-08-22",
       "ts": 1787425200000,
       "summaryOrig": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "translated": false
+      "summary": "DeepMindの卒業生によって構築された英国のAIラボInherentは、科学論文を複製する能力がイノベーションの足がかりとなる可能性のあるAIエージェントであるFaradayをリリースしました。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -330,13 +344,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI says California should strengthen its AI safety bill",
-      "title": "OpenAI says California should strengthen its AI safety bill",
+      "title": "OpenAIは、カリフォルニア州がAI安全法案を強化すべきだと述べている",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "dateStr": "2026-08-22",
       "ts": 1787416234000,
       "summaryOrig": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "translated": false
+      "summary": "OpenAIは、同社が以前反対していたAI安全法案であるSB 53の強化をカリフォルニア州に求めている。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -344,13 +358,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
-      "title": "Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model",
+      "title": "フロンティアのAIラボは、不正なモデルをどのように含んでいるかをまだ明らかにしていません",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "dateStr": "2026-08-22",
       "ts": 1787414400000,
       "summaryOrig": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-      "translated": false
+      "summary": "新しい研究によると、主要なAIラボは、不正なモデルを含むための公的に文書化された計画をほとんど持っておらず、AIシステムが予期しない潜在的に危険な行動をますます示すにつれて、準備に関する疑問を提起しています。",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -413,20 +427,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "血みどろ姿の「ガッツ[狂戦士の甲胄] Bloody Paint Ver. L size」がGood Smile Fest 2026 大阪会場に出現",
-      "title": "血みどろ姿の「ガッツ[狂戦士の甲胄] Bloody Paint Ver. L size」がGood Smile Fest 2026 大阪会場に出現",
-      "link": "https://gigazine.net/news/20260822&#45;berserk&#45;gsf2026/",
-      "dateStr": "2026-08-22",
-      "ts": 1787364420000,
-      "summaryOrig": "ダークファンタジー漫画の大作「ベルセルク」の主人公・ガッツが狂戦士の甲冑をまとい、血にまみれた姿を立体化した彩色見本が、Good Smile Fest 2026 大阪の会場に展示されています。 続きを読む...",
-      "summary": "ダークファンタジー漫画の大作「ベルセルク」の主人公・ガッツが狂戦士の甲冑をまとい、血にまみれた姿を立体化した彩色見本が、Good Smile Fest 2026 大阪の会場に展示されています。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念",
       "title": "ChatGPTが「使用量リセット権」を配布、Codex 2,000万人突破記念",
       "link": "https://pc.watch.impress.co.jp/docs/news/2134782.html",
@@ -456,13 +456,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic’s Opus 4.6 is a smut-machine",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "title": "AnthropicのOpus 4.6はスマットマシンです",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "dateStr": "2026-08-21",
       "ts": 1787353645000,
       "summaryOrig": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
-      "translated": false
+      "summary": "Anthropicは、クロードモデルが性的に露骨なコンテンツを生成することを禁止しています。しかし、TechCrunchが実施した一連のテストでは、制限を超えるのにそれほど時間はかからなかったことがわかった。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -470,13 +470,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nvidia partners with data center developer Cloverleaf",
-      "title": "Nvidia partners with data center developer Cloverleaf",
+      "title": "NVIDIA、データセンター開発者Cloverleafと提携",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "dateStr": "2026-08-21",
       "ts": 1787351858000,
       "summaryOrig": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "translated": false
+      "summary": "Nvidiaは、AIデータセンターがNvidiaに多額の資金をもたらすのと同じように、データセンターの開発に資金を注ぎ続けています。",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -498,13 +498,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "title": "100万人以上がLinkedInのAIスロップボタンをクリック",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "dateStr": "2026-08-21",
       "ts": 1787347550000,
       "summaryOrig": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
-      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on the button, which is accessible from the three dots menu on a [&#8230;]",
-      "translated": false
+      "summary": "LinkedInは実際に7月30日に「Seems like AI slop」ボタンを発表したが、すでに多くの人が使用しているという。チーフプロダクトオフィサーのHari Srinivasan氏の木曜日の投稿によると、「100万人以上の人々」がボタンをクリックしています。ボタンは[…]上の3つのドットメニューからアクセスできます",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -512,27 +512,27 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "title": "NVIDIAは、AIモデルではなくハーネスが今や真のヒーローであることを示した",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "dateStr": "2026-08-21",
       "ts": 1787341419000,
       "summaryOrig": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "translated": false
+      "summary": "Nvidiaの調査によると、AIエージェントは、たとえAIモデルがそれほど優れていなくても、微調整によって優れたパフォーマンスを発揮し、ディープエンドから離れることはないことが示されています。",
+      "translated": true
     },
     {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
-      "origTitle": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "origTitle": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "title": "Starcloudは、打ち上げオプションが枯渇するにつれて、軌道データセンターのために2億5000万$を調達",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "dateStr": "2026-08-21",
       "ts": 1787320800000,
-      "summaryOrig": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrus",
-      "translated": false
+      "summaryOrig": "There's about to be a big fight to secure access to space.",
+      "summary": "宇宙へのアクセスを確保するための大きな戦いがまさに始まろうとしている。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -540,13 +540,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Major YouTube creators are facing backlash for accepting AI money",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "title": "主要なYouTubeクリエイターは、AIのお金を受け入れるために反発に直面しています",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
       "dateStr": "2026-08-21",
       "ts": 1787319472000,
       "summaryOrig": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
-      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The videos highlight Higgsfield's recently added Seedance 2.5 functionality and pitch these technologies as the future of video production. In response to these videos, [&#8230;]",
-      "translated": false
+      "summary": "過去数日間、Matti Haapoja氏やSam \"Kold\" Kolder氏を含む多くの著名な映画制作コンテンツクリエイターが、AIプラットフォームHiggsfieldの可能性を実証するビデオを投稿してきた。ビデオは、ヒッグスフィールドが最近追加したSeedance 2.5機能を強調し、これらのテクノロジーをビデオ制作の未来として売り込んでいます。これらのビデオに応えて、[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -554,13 +554,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
+      "title": "Waymo、Uberとのロボットタクシーの戦いでロビー活動への支出を倍増",
       "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
       "dateStr": "2026-08-21",
       "ts": 1787317895000,
       "summaryOrig": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "translated": false
+      "summary": "アルファベットが所有する企業は、完全自律型タクシーサービスへの道を開くよう、米国の規制当局を説得しようとしている。",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -624,13 +624,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Google Discover is getting an AI chatbot-tuned feed",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "title": "Google Discoverは、AIチャットボットで調整されたフィードを取得しています",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "dateStr": "2026-08-20",
       "ts": 1787262622000,
       "summaryOrig": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
-      "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits. You'll find the option within the three-dot menu on your [&#8230;]",
-      "translated": false
+      "summary": "Googleはまもなく、表示したいものを説明することで、Discoverフィードをカスタマイズできるようになります。「数日中に」Googleアプリに導入されるこの新機能は、AIを使用してフィードを自動的に調整し、今後の訪問のために好みを「記憶」します。このオプションは、[…]の3つのドットメニューにあります。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -638,13 +638,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "It’s Greg Brockman’s OpenAI now",
-      "title": "It’s Greg Brockman’s OpenAI now",
+      "title": "Greg BrockmanのOpenAIです",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "dateStr": "2026-08-20",
       "ts": 1787240755000,
       "summaryOrig": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives [&#8230;]",
-      "translated": false
+      "summary": "OpenAIは大変な年月を過ごしました。同社は、センセーショナルな陪審裁判で元共同創業者のイーロン・マスク氏と数カ月を費やし、アップルからの注目度の高い企業秘密訴訟に巻き込まれ、未発表のモデルが別のAI企業をハッキングした後、広範な精査に直面した。IPOの準備を進める中で、安定した一連の幹部[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -652,13 +652,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Debates over AI consciousness are a trap",
-      "title": "Debates over AI consciousness are a trap",
+      "title": "AI意識をめぐる議論は罠",
       "link": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
       "dateStr": "2026-08-20",
       "ts": 1787240559000,
       "summaryOrig": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
-      "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations&#8230;",
-      "translated": false
+      "summary": "「暴走する」AI、「ならず者」エージェント、「自律的な」俳優-現在のレトリックは、AIエージェントが目覚めて意識しているだけでなく、クリエイターに腹を立てていると信じさせます。デミス・ハサビス（ Demis Hassabis ）、ダリオ・アモデイ（ Dario Amodei ）、サム・アルトマン（ Sam Altman ）などの著名なテクノロジーリーダーは、これらの一見「超人的」なシステムの規制を推進していますが、政策組織が率いる別の派閥です...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -666,13 +666,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Welcome to the AI crisis in math",
-      "title": "Welcome to the AI crisis in math",
+      "title": "数学におけるAIの危機へようこそ",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "dateStr": "2026-08-20",
       "ts": 1787234400000,
       "summaryOrig": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it. OpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. [&#8230;]",
-      "translated": false
+      "summary": "今日のDecoderでは、ロンドンを拠点とするThe VergeのAI記者であるRobert Hartと、AIが数学の分野に何をしているのか、そして多くの主要な数学者がそれについて抱えている実存的危機について話しています。OpenAIは、数学の長年にわたる問題に対する一連の解決策を発表しました。これは、この分野では爆弾のようなものでした。[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -680,13 +680,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
+      "title": "Grokは、悪意のある命令が暗号化されたときにユーザーデータを流出させます",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "dateStr": "2026-08-20",
       "ts": 1787230835000,
       "summaryOrig": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "summary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "translated": false
+      "summary": "暗号コンテキストインジェクションは、LLMの安全ガードレールを破るための最新の方法に過ぎません。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -694,13 +694,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Slack is launching collaborative vibe-coding channels",
-      "title": "Slack is launching collaborative vibe-coding channels",
+      "title": "Slackはコラボレーティブなバイブコーディングチャンネルを立ち上げています",
       "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "dateStr": "2026-08-20",
       "ts": 1787227200000,
       "summaryOrig": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \"With Slack Code, when you have [&#8230;]",
-      "translated": false
+      "summary": "Slackは、チームがさまざまなツールや会話をジャンプするのではなく、AIエージェントと一緒にバイブコードできる専用チャネルを導入しています。Slackコードのリリースには、専用のユーザータブを備えたオープンなプロジェクト固有のコードチャネルと、コーディングの変更を比較し、プロジェクトが出荷される前にHTML出力をプレビューする機能が含まれています。「Slackコードを使用すると、[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -708,13 +708,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Unlocking hidden revenue streams with market models",
-      "title": "Unlocking hidden revenue streams with market models",
+      "title": "市場モデルで隠れた収益源を解き放つ",
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "dateStr": "2026-08-20",
       "ts": 1787219242000,
       "summaryOrig": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
-      "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
-      "translated": false
+      "summary": "毎日、航空会社は何百ものフライトで何万人もの乗客を輸送しています。多くの場合、これらは簡単なポイントツーポイントルートではなく、乗客は複数の接続を必要とします。航空会社は、需要、季節、時刻、時事イベント、グローバル市場、競合他社の航空会社の活動など、これらの各旅程の価格設定に潜在的に数百の変数を考慮することができます。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -722,13 +722,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Google Gemini is getting a dedicated student hub",
-      "title": "Google Gemini is getting a dedicated student hub",
+      "title": "Google Geminiは専用の学生ハブを取得しています",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "dateStr": "2026-08-19",
       "ts": 1787166000000,
       "summaryOrig": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [&#8230;]",
-      "translated": false
+      "summary": "新学期に向けて準備を進める中、GoogleはGeminiに新しい専用の学生ハブを展開しています。学習ノートに研究を集めたり、フラッシュカードを作成したり、練習問題を取ったりするためのワンストップリポジトリです。Googleはまた、グラフと画像をサポートすることで、学習ノートブックを強化しています。テスト日を追加することもできます[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -736,13 +736,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI hit the brakes. Now what?",
-      "title": "OpenAI hit the brakes. Now what?",
+      "title": "OpenAIがブレーキをかけました。これからどうしますか？",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "dateStr": "2026-08-19",
       "ts": 1787159409000,
       "summaryOrig": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
-      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the company said it had slowed the pace of some AI development while it tightened security and safeguards. That included a two-week pause [&#8230;]",
-      "translated": false
+      "summary": "迫りくるIPO、Anthropicからの激しい競争、そして中国とオープンウェイトのライバルが追いついているため、OpenAIには急速に動く理由がたくさんあります。代わりに、ブレーキがかかりました。火曜日、同社はセキュリティとセーフガードを強化しながら、一部のAI開発のペースを遅らせたと述べた。これには2週間の休憩が含まれていました[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -750,13 +750,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Meta AI is getting a Mac app",
-      "title": "Meta AI is getting a Mac app",
+      "title": "Meta AIがMacアプリを手に入れようとしています",
       "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
       "dateStr": "2026-08-19",
       "ts": 1787158800000,
       "summaryOrig": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
-      "summary": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [&#8230;]",
-      "translated": false
+      "summary": "Metaは、AIチャットボット専用の新しいMacアプリをリリースします。水曜日の発表で、MetaはあなたのウィンドウをAIチャットボットと共有することができると言います。AIチャットボットは、提案を提供したり、質問に答えたり、画面上の内容に基づいてコンテンツを作成したりすることができます。Mac上のMeta AIも、すべてのアプリでディクテーションをサポートしています。[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -764,13 +764,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "title": "VentureBeatはRob Strechayを最初のリードアナリストに任命し、エンタープライズAI研究を拡大",
       "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "dateStr": "2026-08-19",
       "ts": 1787149092000,
       "summaryOrig": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, an",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, an",
-      "translated": false
+      "summary": "TheCUBE Researchのマネージングディレクター兼プリンシパルアナリストであるRob Strechayは、VentureBeat Researchの最初のリードアナリスト兼創設アナリストとしてVentureBeatに加わりました。彼の到着は、より深い専門化に向けたVentureBeatの意図的な動きの次のステップです。技術的な意思決定者（ディレクター、VP、CIO、CTO ）のために構築された分析は、",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -778,13 +778,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nvidia’s new financial strategy does not compute",
-      "title": "Nvidia’s new financial strategy does not compute",
+      "title": "NVIDIAの新しい財務戦略は計算されません",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "dateStr": "2026-08-19",
       "ts": 1787140800000,
       "summaryOrig": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "summary": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR are all working with Nvidia to put together $500 billion in financing to turn compute [&#8230;]",
-      "translated": false
+      "summary": "1805年4月-ナポレオンはヨーロッパのマスターです。彼の前に立っているのは英国の艦隊だけです。コンピューティングは今や資産クラスです。金融イノベーションについて話す時が来たと思います。Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKRはすべて、Nvidiaと協力して5,000億$の資金を調達し、コンピューティング[…]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -792,13 +792,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "title": "Microsoft Copilotがハッキングを可能にした秘密情報を公開",
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "dateStr": "2026-08-18",
       "ts": 1787058004000,
       "summaryOrig": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "summary": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
-      "translated": false
+      "summary": "シークレットパラメータを使用すると、ターゲットがリンクをクリックしたときにハッカーがパスワードを盗むことができます。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -806,13 +806,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "We still don’t know how people are really using AI",
-      "title": "We still don’t know how people are really using AI",
+      "title": "人々が実際にAIをどのように使用しているかはまだわかりません",
       "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
       "dateStr": "2026-08-18",
       "ts": 1787047603000,
       "summaryOrig": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-      "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
-      "translated": false
+      "summary": "AnthropicやOpenAIなどのAI企業は、人々がClaudeやChatGPTなどの製品をどのように使用しているかについてのレポートを定期的に公開していますが、AI研究者によると、彼らは私たちに見てもらいたいデータのみを公開しています。「それを裏付ける独立した情報源はありません」と、Stanford Trustworthy AI Researchのコンピュータサイエンス博士候補者であるAnka Reuelは言います。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -820,13 +820,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI’s recursive self-improvement might not come so quickly after all",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
+      "title": "AIの再帰的な自己改善は、結局そんなに早くは来ないかもしれない",
       "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
       "dateStr": "2026-08-18",
       "ts": 1787043600000,
       "summaryOrig": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
-      "summary": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon.&#160;&#8230;",
-      "translated": false
+      "summary": "現在、AI業界で最も大胆な約束は、AIが人間の監督をほとんど必要とせずに、すぐに改善されるということです。LLMはすでにコードを書き、トレーニング用の合成データを生成し、実行するコンピュータチップを最適化することができます。爆発的なAIの進歩の予測は、研究者が再帰的自己改善と呼ぶものが地平線にあることを予測しています。…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -834,13 +834,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "What Flock’s defenders are missing",
-      "title": "What Flock’s defenders are missing",
+      "title": "フロックの防御者に足りないもの",
       "link": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
       "dateStr": "2026-08-17",
       "ts": 1786994169000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
-      "translated": false
+      "summary": "このストーリーは、もともとAIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。米国各地にある約12万台の自動ナンバープレートリーダーのネットワークで知られる警察技術大手のフロックは、先週木曜日にプラットフォームにいくつかの変更を発表した。このアップデートは、次のことを防ぐことを目的としています。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -848,13 +848,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nvidia discloses $21B stake in SpaceX",
-      "title": "Nvidia discloses $21B stake in SpaceX",
+      "title": "NVIDIA、SpaceXの株式210億$を公開",
       "link": "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
       "dateStr": "2026-08-17",
       "ts": 1786976574000,
       "summaryOrig": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "summary": "Filing comes after Elon Musk announced exclusive arrangement to kit out its data centers.",
-      "translated": false
+      "summary": "提出は、イーロン・マスク氏がデータセンターをキットアウトするための独占的な取り決めを発表した後に行われた。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -862,13 +862,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "What happens when a kid’s robot best friend dies?",
-      "title": "What happens when a kid’s robot best friend dies?",
+      "title": "子供のロボットの親友が亡くなった場合はどうなりますか？",
       "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
       "dateStr": "2026-08-17",
       "ts": 1786957200000,
       "summaryOrig": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
-      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
-      "translated": false
+      "summary": "ザンダーが最初にモクシーに会ったとき、彼女は彼が心配しているとき、彼が蜂のように鳴くように彼の唇を通して息を吐くことによって落ち着くことができることを彼に教えました。彼らは怒りを感じるためにドラゴンのように呼吸し、彼のエネルギーを高めるためにウサギのように嗅ぐことを練習しました。しかし、彼らは6年間お互いを知っていました...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -876,13 +876,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Vulnerability giving attackers full control of Macs is under active exploitation",
-      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "title": "攻撃者がMacを完全に制御できる脆弱性は、積極的に悪用されています",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
       "dateStr": "2026-08-14",
       "ts": 1786732334000,
       "summaryOrig": "Screen-sharing bug lets remote hackers log in without a password.",
-      "summary": "Screen-sharing bug lets remote hackers log in without a password.",
-      "translated": false
+      "summary": "画面共有のバグにより、リモートハッカーはパスワードなしでログインできます。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -890,13 +890,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
-      "title": "PBS station fears losing 50TB of data after being ghosted by cloud storage provider",
+      "title": "PBSステーションは、クラウドストレージプロバイダによってゴースト化された後、50 TBのデータを失うことを恐れています",
       "link": "https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/",
       "dateStr": "2026-08-14",
       "ts": 1786727034000,
       "summaryOrig": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "summary": "\"We don't have access to the data on the hardware/servers,\" Iron Mountain told Ars.",
-      "translated": false
+      "summary": "「ハードウェア/サーバー上のデータにアクセスすることはできません」とアイアンマウンテン氏はArsに語った。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -904,13 +904,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "title": "OpenAIとAnthropicが価格戦争で中国のAIライバルが優位に立つ",
       "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
       "dateStr": "2026-08-14",
       "ts": 1786717634000,
       "summaryOrig": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "summary": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "translated": false
+      "summary": "米国のグループは、1兆ドルの野心に新たな挑戦をした後、より安価なモデルをリリースします。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -918,13 +918,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Private security firms will soon be allowed to hack overseas cybercriminals",
-      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "title": "民間セキュリティ会社はまもなく海外のサイバー犯罪者をハッキングすることが許可される",
       "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
       "dateStr": "2026-08-13",
       "ts": 1786649938000,
       "summaryOrig": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "summary": "Trump memo is first time gov't has authorized private sector to perform cyberattacks.",
-      "translated": false
+      "summary": "トランプ大統領のメモは、政府が民間部門にサイバー攻撃を実行する権限を与えていないのは初めてのことだ。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -932,13 +932,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "title": "監視への反発の高まりに対応して、Flockは規則を厳しくしています",
       "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
       "dateStr": "2026-08-13",
       "ts": 1786628470000,
       "summaryOrig": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
-      "translated": false
+      "summary": "警察テクノロジー大手のフロックは本日、警察官の全国的なナンバープレートリーダーネットワークへのアクセスを変更し、大規模な監視と警察の虐待に関する懸念の中で失われた契約を取り戻すために、増大する反発を鎮めようとしているようだと発表した。いくつかの変更は、最近の見出しになった問題を直接的に目指しています。…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -946,13 +946,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "How kids feel about AI, in their own words",
-      "title": "How kids feel about AI, in their own words",
+      "title": "子供たちが自分の言葉でAIについてどのように感じているか",
       "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
       "dateStr": "2026-08-13",
       "ts": 1786611600000,
       "summaryOrig": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
-      "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were&#8230;",
-      "translated": false
+      "summary": "人工知能について子供たちと話そうとしたとき、私たちは自分たちが何を聞いているのか分かっていると思っていました。私たちは、ミレニアル世代やX世代がTI -82にCliffsNotesやプログラムされた数式を開いた方法、そして他の人が彼らがしていた刺激的な方法を共有するために、彼らが少し不正行為をするためにそれを使用していると言う人もいることを期待していました...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -960,13 +960,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Terabytes of credentials leaked in massive supply-chain attack",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "title": "大規模なサプライチェーン攻撃でテラバイトの認証情報が漏洩",
       "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
       "dateStr": "2026-08-12",
       "ts": 1786571001000,
       "summaryOrig": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "translated": false
+      "summary": "データは、侵害されたAIパッケージの2,500人のユーザーからスクレイピングされ、流出しました。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -974,13 +974,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Scaling AI agents with trustworthy data",
-      "title": "Scaling AI agents with trustworthy data",
+      "title": "信頼できるデータでAIエージェントを拡張",
       "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
       "dateStr": "2026-08-12",
       "ts": 1786553517000,
       "summaryOrig": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
-      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data&#8230;",
-      "translated": false
+      "summary": "ビジネスとテクノロジーのリーダーは、エージェントAIの時代が来たことを納得させる必要はありません。組織は急速にエージェントを採用しており、テクノロジーが仕事を変革する可能性を疑う経営幹部はほとんどいません。しかし、多くの組織は、AIから望ましい投資収益率（ ROI ）を実現するには、インフラストラクチャとデータが不十分であるため、適切な基盤を持つことにかかっていることを発見しています…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -988,13 +988,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "title": "デルタ便への偽のホットスポット攻撃が疑われるDEF CONの群衆",
       "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
       "dateStr": "2026-08-12",
       "ts": 1786493320000,
       "summaryOrig": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "summary": "FBI Atlanta confirms it's looking into the incident, no arrests made.",
-      "translated": false
+      "summary": "FBIアトランタは、事件を調査していることを確認していますが、逮捕は行われていません。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -1002,13 +1002,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Chrome adopts what may be the best protection yet against account takeovers",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "title": "Chromeは、アカウントの乗っ取りに対する最高の保護を採用しています",
       "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "dateStr": "2026-08-11",
       "ts": 1786481992000,
       "summaryOrig": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "summary": "Device-bound session credentials thwart an increasingly common form of account takeover.",
-      "translated": false
+      "summary": "デバイスに縛られたセッション資格情報は、ますます一般的になっているアカウント乗っ取りを阻止します。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -1016,13 +1016,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "New Pass-ta-key attack reveals all the things we didn&#039;t know about passkeys",
-      "title": "New Pass-ta-key attack reveals all the things we didn&#039;t know about passkeys",
+      "title": "新しいパスタキーアタックは、パスキーについて私たちが知らなかったすべてのことを明らかにします",
       "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
       "dateStr": "2026-08-11",
       "ts": 1786447808000,
       "summaryOrig": "Why passkey apps treat Windows differently than other operating systems.",
-      "summary": "Why passkey apps treat Windows differently than other operating systems.",
-      "translated": false
+      "summary": "パスキーアプリがWindowsを他のオペレーティングシステムとは異なる方法で扱う理由。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -1030,13 +1030,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI professors are negotiating the new realities of academic research",
-      "title": "AI professors are negotiating the new realities of academic research",
+      "title": "AI教授が学術研究の新たな現実を交渉",
       "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "dateStr": "2026-08-10",
       "ts": 1786392000000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI&#8230;",
-      "translated": false
+      "summary": "このストーリーは、もともとAIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。先週、カリフォルニア州マウンテンビューのホテルにサンフランシスコから30マイル南に向かい、最も成功し、最も有望なAIのいくつかに参加しました…",
+      "translated": true
     }
   ]
 }
