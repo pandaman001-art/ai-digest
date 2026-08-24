@@ -158,28 +158,65 @@ async function fetchSource(src) {
   });
 }
 
-// ── 翻訳（無料Google翻訳の簡易エンドポイント。失敗時リトライ）──
-async function gtranslateOnce(text, host) {
-  const url = 'https://' + host + '/translate_a/single?' +
-    new URLSearchParams({ client: 'gtx', sl: 'auto', tl: 'ja', dt: 't', q: text.slice(0, 500) });
+// ── 翻訳 ──────────────────────────────────
+// 翻訳の成否を集計してログに出すためのカウンタ
+const translateStats = { google: 0, mymemory: 0, failed: 0 };
+
+// 1) Google翻訳簡易API（GitHubサーバーIPだと弾かれやすい）
+// 2) 失敗時 MyMemory（サーバーIPからでも通りやすい無料API）
+async function viaGoogle(text) {
+  const url = 'https://translate.googleapis.com/translate_a/single?' +
+    new URLSearchParams({ client: 'gtx', sl: 'en', tl: 'ja', dt: 't', q: text.slice(0, 500) });
   const res = await fetch(url, {
     headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
   });
-  if (!res.ok) throw new Error('HTTP ' + res.status);
+  if (!res.ok) throw new Error('google HTTP ' + res.status);
   const data = await res.json();
   const out = (data[0] || []).map(s => s[0] || '').join('').trim();
-  if (!out) throw new Error('empty');
+  if (!out) throw new Error('google empty');
+  return out;
+}
+
+async function viaMyMemory(text) {
+  const url = 'https://api.mymemory.translated.net/get?' +
+    new URLSearchParams({ q: text.slice(0, 480), langpair: 'en|ja' });
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('mymemory HTTP ' + res.status);
+  const data = await res.json();
+  const out = (data && data.responseData && data.responseData.translatedText || '').trim();
+  if (!out || /MYMEMORY WARNING/i.test(out)) throw new Error('mymemory quota/empty');
   return out;
 }
 
 async function gtranslate(text) {
   if (!text || !text.trim()) return null;
-  for (let attempt = 0; attempt < 3; attempt++) {
+  const errors = [];
+  // まずGoogleを2回試す
+  for (let i = 0; i < 2; i++) {
     try {
-      return await gtranslateOnce(text, 'translate.googleapis.com');
+      const out = await viaGoogle(text);
+      translateStats.google++;
+      return out;
     } catch (e) {
-      await sleep(600 * (attempt + 1)); // 失敗するほど長く待つ
+      errors.push('google:' + e.message);
+      await sleep(500 * (i + 1));
     }
+  }
+  // ダメならMyMemoryを2回試す
+  for (let i = 0; i < 2; i++) {
+    try {
+      const out = await viaMyMemory(text);
+      translateStats.mymemory++;
+      return out;
+    } catch (e) {
+      errors.push('mymemory:' + e.message);
+      await sleep(700 * (i + 1));
+    }
+  }
+  translateStats.failed++;
+  // 最初の数件だけ詳細な失敗理由を出す（ログが膨大になるのを防ぐ）
+  if (translateStats.failed <= 3) {
+    console.error('  翻訳失敗の理由: ' + errors.join(' / '));
   }
   return null;
 }
@@ -227,6 +264,13 @@ async function gtranslate(text) {
     console.log('翻訳 ' + (++done) + '/' + targets.length);
     await sleep(150);
   }
+
+  console.log('--- 翻訳結果 ---');
+  console.log('Google成功: ' + translateStats.google);
+  console.log('MyMemory成功: ' + translateStats.mymemory);
+  console.log('全滅(失敗): ' + translateStats.failed);
+  const stillEnglish = articles.filter(a => a.lang !== 'ja' && !a.translated).length;
+  console.log('英語のまま残った記事: ' + stillEnglish + '件');
 
   const payload = {
     updatedAt: new Date().toISOString(),
