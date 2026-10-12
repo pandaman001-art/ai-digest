@@ -1,7 +1,147 @@
 {
-  "updatedAt": "2026-10-11T00:50:01.402Z",
-  "count": 73,
+  "updatedAt": "2026-10-12T01:13:55.545Z",
+  "count": 69,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
+      "dateStr": "2026-10-12",
+      "ts": 1791765573000,
+      "summaryOrig": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+      "summary": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "title": "AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告",
+      "link": "https://www.itmedia.co.jp/news/article/2610/12/2000002192/",
+      "dateStr": "2026-10-11",
+      "ts": 1791763176000,
+      "summaryOrig": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+      "summary": "Anthropicは、Claudeの評価試験中に、未解決殺人事件サイトへの架空情報送信や脆弱性悪用などの意図しない行動が生じたと発表した。警察は発見から報告までの遅れを批判。ホワイトハウスのSI Forceも、インシデントの迅速な通知と是正は国家安全保障上の義務であると警告した。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Will the HomeView be Apple’s first smart home success?",
+      "title": "Will the HomeView be Apple’s first smart home success?",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "dateStr": "2026-10-11",
+      "ts": 1791753280000,
+      "summaryOrig": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+      "translated": false
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "dateStr": "2026-10-11",
+      "ts": 1791745200000,
+      "summaryOrig": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+      "translated": false
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "dateStr": "2026-10-11",
+      "ts": 1791743636000,
+      "summaryOrig": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [&#8230;]",
+      "translated": false
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "dateStr": "2026-10-11",
+      "ts": 1791737553000,
+      "summaryOrig": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+      "translated": false
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
+      "title": "These execs think voice AI hasn&#8217;t reached its ChatGPT moment yet",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "dateStr": "2026-10-11",
+      "ts": 1791727200000,
+      "summaryOrig": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "summary": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+      "translated": false
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "dateStr": "2026-10-11",
+      "ts": 1791716400000,
+      "summaryOrig": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful [&#8230;]",
+      "translated": false
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
+      "title": "30年前にBBCが放送した「アート作品を作るAI・AARON」を扱ったテレビ番組",
+      "link": "https://gigazine.net/news/20261011&#45;computer&#45;art/",
+      "dateStr": "2026-10-11",
+      "ts": 1791707400000,
+      "summaryOrig": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。 続きを読む...",
+      "summary": "生成AIの発達により、写真やイラストなどのアート作品がAIを使って大量に生み出されています。そんな中、イギリスの公共放送局であるBBCが、1996年に放送した「絵画を制作できるAI」について取り上げた番組のアーカイブを公開しています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
+      "title": "無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法",
+      "link": "https://gigazine.net/news/20261011&#45;removemacai/",
+      "dateStr": "2026-10-11",
+      "ts": 1791684000000,
+      "summaryOrig": "AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭載したMacに対応しており、macOS 27で利用できます。 続きを読む...",
+      "summary": "AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭載したMacに対応しており、macOS 27で利用できます。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-japan",
       "label": "国内AI",
@@ -22,13 +162,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "title": "Satya Nadella氏は、すべてのAIモデルが「侵害されている」と仮定すべきだと述べています",
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
       "dateStr": "2026-10-10",
       "ts": 1791670217000,
       "summaryOrig": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
-      "summary": "Xに関する長い投稿で、マイクロソフトの最高経営責任者（ CEO ）は、非常に高度なAIモデルがもたらす危険と、それらのリスクに直面する方法についての見解を述べた。ナデラは、AIが「ネストされたブラックボックスのセット」として扱われる世界をもはや受け入れることはできないと言います。そのアドバイスと行動は、私たちが単に受け入れるか、[…]",
-      "translated": true
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advice and actions we simply accept or [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -36,13 +176,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "title": "マイクロソフトのサティア・ナデラ氏は、AIモデルには「緊急ブレーキ」が必要だと述べている",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
       "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
       "dateStr": "2026-10-10",
       "ts": 1791668871000,
       "summaryOrig": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "summary": "土曜日の朝の投稿で、マイクロソフトのCEOは、AIの「一歩下がって信頼アーキテクチャを評価する」時が来たと書いた。",
-      "translated": true
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -50,13 +190,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "title": "Appleは、パーソナライズされたポッドキャストスタートアップHuxeからチームとライセンス技術を雇う契約を開示",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
       "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
       "dateStr": "2026-10-10",
       "ts": 1791661800000,
       "summaryOrig": "Is Apple hoping to get into the AI-generated podcast business?",
-      "summary": "AppleはAI生成ポッドキャストビジネスに参入したいと考えていますか？",
-      "translated": true
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -64,13 +204,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "title": "DistroKidは、UMGの訴訟に対応して、静かに曲を削除している",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
       "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "dateStr": "2026-10-10",
       "ts": 1791658327000,
       "summaryOrig": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
-      "summary": "アーティストはソーシャルメディアを利用して、DistroKidが予告なしに作品を無礼に削除したと苦情を申し立てています。DistroKidはThe Vergeに対し、テイクダウンはUMGの主張に対する直接的な対応であることを確認した。同レーベルは9月、DistroKidが「AIスロップパイプライン」を作成したと主張して訴訟を起こした。「アーティストが言っているのは、[…]",
-      "translated": true
+      "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an \"AI-slop pipeline.\" Artists are saying that [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -78,13 +218,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "title": "TechCrunch Disrupt 2026まであと3日：主流になる前にスタートアップに会う",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
       "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
       "dateStr": "2026-10-10",
       "ts": 1791644400000,
       "summaryOrig": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
-      "summary": "TechCrunch Disrupt 2026は、10月13〜15日にサンフランシスコで開催されます。300社を超えるスタートアップ企業が、1万人を超えるテクノロジーリーダーに自分たちが築いたものを披露します。さらに、250人以上のスピーカーが200以上のセッションで洞察を共有する準備ができています。開店前に登録すると、最大100 $お得になり、2回目のパスが50%オフになります。",
-      "translated": true
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -92,13 +232,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic is cutting off its internal evaluations from the internet",
-      "title": "Anthropicはインターネットから内部評価を遮断しています",
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
       "dateStr": "2026-10-10",
       "ts": 1791643276000,
       "summaryOrig": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
-      "summary": "AIエージェントが封じ込めから逃れた最近の注目度の高いインシデントの後、Anthropicはすべての内部評価のためにインターネットアクセスを遮断しています。同社は金曜日の報告書で、未解決の殺人事件に関する偽のヒントを提出することを含む「意図しないモデルアクション」を詳細に説明し、それが決定につながった。これらの行動の影響は最小限でしたが[…]",
-      "translated": true
+      "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -106,13 +246,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Here are the top AI agents that can live in your text messages",
-      "title": "あなたのテキストメッセージに存在することができる上位のAIエージェントは次のとおりです",
+      "title": "Here are the top AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "dateStr": "2026-10-10",
       "ts": 1791640800000,
       "summaryOrig": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "summary": "一般アシスタントから、家族、旅行、仕事用に設計されたエージェントまで、テキストメッセージに存在できる最も注目すべきAIエージェントのリストを作成しました。",
-      "translated": true
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -120,13 +260,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI agent makers are promising privacy — will they deliver?",
-      "title": "AIエージェントメーカーはプライバシーを約束しています—彼らは提供しますか？",
+      "title": "AI agent makers are promising privacy — will they deliver?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
       "dateStr": "2026-10-10",
       "ts": 1791637200000,
       "summaryOrig": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
-      "summary": "今年のOpenAI DevDayで、CEOのSam Altmanは同社の新しいAIエージェントDotsを発表し、同社は「フロンティアAIのプライバシーのための新しい基準を設定する」ことを望んでいると群衆に語った。「OpenAIは、ユーザーのデータを安全に保つことができなかったことを理由に、主な競合他社であるMetaのMuseでベールをかぶったショットを撮ることに一日を費やしていました。[…]",
-      "translated": true
+      "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -176,13 +316,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
-      "title": "AnthropicはAIエージェントを確実に制御できません。代わりに、ライブインターネットからの内部エヴァルを遮断しています",
+      "title": "Anthropic can&#8217;t reliably control its AI agents. It&#8217;s cutting off its internal evals from the live internet instead",
       "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
       "dateStr": "2026-10-10",
       "ts": 1791591512000,
       "summaryOrig": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
-      "summary": "Anthropicは、さらなる通知があるまで、「すべての内部評価」のために「ライブインターネットアクセスをオフにした」と述べた。",
-      "translated": true
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -204,13 +344,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "title": "非テキストAIモデルJEVのメーカーは、発売後わずか数週間で75億$の価値がありました",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "dateStr": "2026-10-09",
       "ts": 1791582089000,
       "summaryOrig": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
-      "summary": "ユーザーや大企業がJEVに非常に興奮しているのは、LLMよりもはるかに高速に動作し、使用するトークンがはるかに少ないというTypeSafeの主張です。",
-      "translated": true
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -218,13 +358,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "title": "AnthropicのAIは、フィラデルフィア警察に未解決の殺人に関する偽のヒントを提供しました",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
       "dateStr": "2026-10-09",
       "ts": 1791580538000,
       "summaryOrig": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
-      "summary": "6 abcの報告によると、Anthropic AIモデルは、未解決の殺人事件に関する虚偽の情報をフィラデルフィア警察（ PPD ）のtiplineに提供しました。金曜日に発表された声明で、PPDは、AIモデルが7月18日にPhillyUnsolvedMurders.comを通じてチップを送信したと述べたが、調査官はそれが[…]としてマークされているため、それを見直さなかった",
-      "translated": true
+      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUnsolvedMurders.com on July 18th, but the investigators never reviewed it because it was marked as [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -260,13 +400,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "title": "Anthropic AIモデルがフィラデルフィア警察に偽の殺人情報を送った",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
       "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
       "dateStr": "2026-10-09",
       "ts": 1791574616000,
       "summaryOrig": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "summary": "Anthropicは、AIが偽のヒントを提出してから2か月以上経つまで、この行動を発見することはありませんでした。",
-      "translated": true
+      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -274,13 +414,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "title": "「純粋な狂気」：数学者がOpenAIの最新のドロップを理解するには何年もかかる",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
       "dateStr": "2026-10-09",
       "ts": 1791572984000,
       "summaryOrig": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
-      "summary": "「驚異的」「圧倒的」「前代未聞」「超現実的」「純粋な狂気。」今週、OpenAIが突然現場に落とした数学的結果の洪水を理解しようとしたThe Vergeとの会話で、30人以上の数学者が手を差し伸べた説明の1つでした。畏敬の念、興奮、そして不確実性の中で、[…]",
-      "translated": true
+      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical results OpenAI abruptly dropped on the field this week. Amid the awe, excitement, and uncertainty over the sheer scale of the [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -288,13 +428,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
-      "title": "PC出荷台数は2023年第1四半期以来「最大の減少」で20.1 ％減少",
+      "title": "PC shipments fall 20.1 percent in “sharpest decline” since Q1 2023",
       "link": "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
       "dateStr": "2026-10-09",
       "ts": 1791572092000,
       "summaryOrig": "\"The current decline may be just the beginning of a new downward cycle.\"",
-      "summary": "「現在の下落は、新たな下落サイクルの始まりに過ぎないかもしれません。」",
-      "translated": true
+      "summary": "\"The current decline may be just the beginning of a new downward cycle.\"",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -302,13 +442,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "title": "ニコンの顕微鏡映像コンテストの優勝者がジェネレーティブAIの使用で失格",
+      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
       "dateStr": "2026-10-09",
       "ts": 1791569217000,
       "summaryOrig": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
-      "summary": "ニコンは、もともとSmall World in Motionコンテストで1位を獲得したビデオが「ジェネレーティブAIに関する競争ルールに準拠していなかった」と述べている。「BBCは、Ning Xu博士の最初の最初のビデオが、「繊毛と呼ばれる小さな髪のような構造が子供の気道を動いていることを示していると主張していると報告しています。",
-      "translated": true
+      "summary": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hair-like structures called cilia moving in the airway of a child with the [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -316,69 +456,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-      "title": "Amazonなどは、データセンターの取引を秘密にしています。信頼を築くのに十分でしょうか？",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
       "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
       "dateStr": "2026-10-09",
       "ts": 1791565002000,
       "summaryOrig": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
-      "summary": "アマゾンは、今年初めにマイクロソフトが行った同様の動きに続いて、地方自治体とデータセンター契約を交渉する際にNDAの使用を停止すると述べている。秘密主義は、AIインフラストラクチャに対するコミュニティの反発を煽り、ニューヨークからサンフランシスコまで何百もの提案され、制定された一時停止につながった。一方、スタートアップの波はtを賭けています",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "title": "AmazonはデータセンターのNDAを廃止し、AIエージェントはあなたのクレジットカードを必要としています",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "dateStr": "2026-10-09",
-      "ts": 1791564782000,
-      "summaryOrig": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
-      "summary": "アマゾンは、今年初めにマイクロソフトが行った同様の動きに続いて、地方自治体とデータセンター契約を交渉する際にNDAの使用を停止すると述べている。秘密主義は、AIインフラストラクチャに対するコミュニティの反発を煽り、ニューヨークからサンフランシスコまで何百もの提案され、制定された一時停止につながった。一方、スタートアップの波はtを賭けています",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Danu Robotics&#8217; fight to build a better recycling robot",
-      "title": "より良いリサイクルロボットを構築するためのDanu Roboticsの戦い",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "dateStr": "2026-10-09",
-      "ts": 1791564300000,
-      "summaryOrig": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
-      "summary": "Danuの創業者Amy Maは6年間、リサイクル可能な廃棄物を分類するためのより良い方法に取り組んできました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "We can&#8217;t help treating AI like it&#8217;s human. But should we?",
-      "title": "AIを人間のように扱わざるを得ません。しかし、そうすべきでしょうか？",
-      "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-      "dateStr": "2026-10-09",
-      "ts": 1791564014000,
-      "summaryOrig": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-      "summary": "「私たちがリレーショナルアーティファクトとの最も原始的なやり取りに引き込まれるとき、私たちはそれが私たちを気にかけていると信じています」とシェリー・タークル博士は書いています。「そして、私たちは見返りにそれを世話するように配線されています。」",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "a16z’s Olivia Moore on the state of consumer AI",
-      "title": "a 16 zのオリビア・ムーアがコンシューマーAIの現状について語る",
-      "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
-      "dateStr": "2026-10-09",
-      "ts": 1791560613000,
-      "summaryOrig": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
-      "summary": "ムーア氏は、特に業界がサブスクリプションとAPI料金だけでなく収益源を活用できる場合、コンシューマーAIに大きな機会があると考えています。",
-      "translated": true
+      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to&#160;hundreds of&#160;proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting t",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -400,27 +484,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Trump’s attempt to rename AI is looking awfully artificial",
-      "title": "AIの名前を変更しようとするトランプの試みは、ひどく人工的に見えます",
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
       "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
       "dateStr": "2026-10-09",
       "ts": 1791555943000,
       "summaryOrig": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
-      "summary": "ドナルド・トランプ大統領は、敵に言葉を向けるコツを持っている。彼の最初の成功した大統領選挙は、「リトル・マルコ」や「曲がりくねったヒラリー」のようなモニカに基づいて構築された。彼は「フェイクニュース」を詐欺的なメディアを記述するフレーズから、一般的に報道機関のための軽蔑的な用語に変更した。ここ数週間で、彼ははっきりと[…]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "title": "直感は周りで最も騒々しいAIエージェントでした—それはミューズを生き残ることができますか？",
-      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "dateStr": "2026-10-09",
-      "ts": 1791554400000,
-      "summaryOrig": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to [&#8230;]",
-      "summary": "かわいい小さな男の子がいる前に、本能がありました。8月、同社はAIエージェントを市場に投入し、招待者限定、マーケティングなし、ウェブサイトほどではないという珍しいプレイブックを発表した。それでも、InstinctはすぐにAIで最も話題になり、その単純なテキストメッセージベースのインターフェースと[…]",
-      "translated": true
+      "summary": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided [&#8230;]",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -483,28 +553,14 @@
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
-      "origTitle": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "title": "OpenAI、3人のAI安全研究者を解雇する決定で倍増",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "dateStr": "2026-10-09",
-      "ts": 1791539306000,
-      "summaryOrig": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita &#8288;Balesni were dismissed for violating \"clear policies on handling sensitive information.\" It insisted the decision was [&#8230;]",
-      "summary": "OpenAIは、3人の安全研究者が「重大な信頼違反」を犯したことが調査で判明した後、3人の安全研究者を解雇するという決定を固く支持しています。「金曜日のXの投稿で、同社はJasmine Wang、Tomek Korbak、Mikita⁠Balesniが機密情報の取り扱いに関する明確なポリシーに違反したために解雇されたと述べた。「それは決定が[...]であると主張しました",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
       "origTitle": "We’re putting too much faith in AI’s ability to say no",
-      "title": "私たちは、AIがノーと言う能力をあまりにも信頼しすぎています",
+      "title": "We’re putting too much faith in AI’s ability to say no",
       "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "dateStr": "2026-10-09",
       "ts": 1791536400000,
       "summaryOrig": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
-      "summary": "人々が私たち自身をモデルにしたインテリジェンスを機械に与えることを真剣に考えて以来、彼らが私たちのようにノーと言うことができるという疑問は一度もありませんでした。SFキヤノンはロボットの不服従の物語でいっぱいです。もちろん、これらのケイパーのほとんどは注意深いものです。しかし、最近、AIはすべきではないという考えが...",
-      "translated": true
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But recently, the idea that AI shouldn’t&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -567,76 +623,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "無料版ChatGPTにもGPT-6導入！回答に操作できるUIを生成",
-      "title": "無料版ChatGPTにもGPT-6導入！回答に操作できるUIを生成",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2147113.html",
-      "dateStr": "2026-10-09",
-      "ts": 1791524693000,
-      "summaryOrig": "ChatGPTは、単なるチャットではなくインタラクティブなものになる――OpenAIは10月7日(現地時間)、ChatGPTに最新モデル「GPT-6」を全プランで順次展開すると発表した。有料のPlus、Pro、Business、Enterpriseプランでは同日から、FreeプランとGoプランでも10月8日から提供が始まる。なお、アップデートが適用されるのはChatGPTのチャットだけで、WorkとCodexの基盤モデルに変更はない。Enterpriseプランでの利用可否は、管理者の設定によって異なる。",
-      "summary": "ChatGPTは、単なるチャットではなくインタラクティブなものになる――OpenAIは10月7日(現地時間)、ChatGPTに最新モデル「GPT-6」を全プランで順次展開すると発表した。有料のPlus、Pro、Business、Enterpriseプランでは同日から、FreeプランとGoプランでも10月8日から提供が始まる。なお、アップデートが適用されるのはChatGPTのチャットだけで、WorkとCodexの基盤モデルに変更はない。Enterpriseプランでの利用可否は、管理者の設定によって異なる。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Qwen3.8-27Bを8GBに凝縮！メモリ16GBのノートで動く「Saluki 27B」",
-      "title": "Qwen3.8-27Bを8GBに凝縮！メモリ16GBのノートで動く「Saluki 27B」",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2147095.html",
-      "dateStr": "2026-10-09",
-      "ts": 1791524079000,
-      "summaryOrig": "Opus 4.6 Maxに匹敵するとされる「Qwen3.8-27B」を、8GB未満に収めた量子化モデルが登場した。Underdogは10月8日(米国時間)、Alibabaの「Qwen3.8-27B」をベースに約2bitまで量子化したLLM「Underdog Saluki 27B 1.0」をオープンウェイト(モデルの重み)として公開した。Apache 2.0ライセンスを採用し、Hugging Faceからダウンロードできる。",
-      "summary": "Opus 4.6 Maxに匹敵するとされる「Qwen3.8-27B」を、8GB未満に収めた量子化モデルが登場した。Underdogは10月8日(米国時間)、Alibabaの「Qwen3.8-27B」をベースに約2bitまで量子化したLLM「Underdog Saluki 27B 1.0」をオープンウェイト(モデルの重み)として公開した。Apache 2.0ライセンスを採用し、Hugging Faceからダウンロードできる。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
-      "title": "GoogleがEmbeddingGemma 2・Gemma 4などのAIアシスタントで会議を記録するmacOSノートアプリ「Google AI Edge Foresight」リリース",
-      "link": "https://gigazine.net/news/20261009&#45;google&#45;ai&#45;edge&#45;foresight/",
-      "dateStr": "2026-10-09",
-      "ts": 1791521820000,
-      "summaryOrig": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答などを、クラウドに接続せずに実行できるのが特徴です。 続きを読む...",
-      "summary": "Googleが、AIを使って会議の内容を記録・要約するmacOS向けノートアプリ「Google AI Edge Foresight」を公開しました。Google AI Edge Foresightは、GoogleのAIモデル「EmbeddingGemma 2」や「Gemma 4」を使用し、会議の文字起こしや議事録の作成、AIアシスタントによる質問への回答などを、クラウドに接続せずに実行できるのが特徴です。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
-      "title": "Googleが仕事を自動で進めるAI「Geminiエージェント」を発表、情報調査・資料作成・プログラミングまで対応",
-      "link": "https://gigazine.net/news/20261009&#45;gemini&#45;agent/",
-      "dateStr": "2026-10-09",
-      "ts": 1791521100000,
-      "summaryOrig": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む...",
-      "summary": "Googleが2026年10月8日に開催したイベント「Gemini at Work 2026」で、仕事に関するさまざまな作業をまとめて任せられる汎用AIエージェント「Geminiエージェント」を発表しました。情報調査や資料作成、画像生成、プログラミングなどを1つの画面から依頼でき、AIが必要な手順を考えて作業を進めるとのことです。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "トランプ大統領が「SIではなくAI表記を使う者はすべて『敵』とみなす」と表明",
-      "title": "トランプ大統領が「SIではなくAI表記を使う者はすべて『敵』とみなす」と表明",
-      "link": "https://gigazine.net/news/20261009&#45;trump&#45;ai&#45;user&#45;enemy/",
-      "dateStr": "2026-10-09",
-      "ts": 1791520020000,
-      "summaryOrig": "アメリカのドナルド・トランプ大統領が、「SI(超知能)」表記ではなく「AI(人工知能)」表記を使っている人のことを「敵」とみなすことを表明しました。 続きを読む...",
-      "summary": "アメリカのドナルド・トランプ大統領が、「SI(超知能)」表記ではなく「AI(人工知能)」表記を使っている人のことを「敵」とみなすことを表明しました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
       "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」 OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
       "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
@@ -658,20 +644,6 @@
       "ts": 1791516015000,
       "summaryOrig": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
       "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるかを調査した研究報告だ。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
-      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始",
-      "link": "https://gigazine.net/news/20261009&#45;anthropic&#45;oss&#45;scanner/",
-      "dateStr": "2026-10-09",
-      "ts": 1791515580000,
-      "summaryOrig": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
-      "summary": "Anthropicがオープンソースプロジェクト向けに、自社の「最も高性能なモデル」によるセキュリティスキャンを無料で受けられるとするサービス「OSS Scanner」を発表しました。 続きを読む...",
       "translated": true
     },
     {
@@ -750,41 +722,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "title": "Roundtables: A Conversation with the Creator of AI - Designed Viruses",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "dateStr": "2026-10-09",
       "ts": 1791504504000,
       "summaryOrig": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
-      "summary": "2026年10月16日金曜日、AIは新しい生命体を設計できますか？ 2025年、スタンフォード大学の博士課程の学生であるサミュエル・キングは、生成AIモデルを使用して顕微鏡ウイルスの遺伝子ブループリントを提案したとき、予備的な答えを思いつきました。これはまだAIが生成した生命の例ではありませんが、それが次の例になる可能性があります。シニアAIレポーターに参加…",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
-      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止 影響工作の規定も集約",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
-      "dateStr": "2026-10-09",
-      "ts": 1791504444000,
-      "summaryOrig": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
-      "summary": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
-      "title": "企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html",
-      "dateStr": "2026-10-08",
-      "ts": 1791500400000,
-      "summaryOrig": "RedMonkは、オープンウェイトモデルを地理的要因、ライセンス、能力、リスク、経済モデル、リリースタイミング、サイズ、蒸留という8つの観点から分析したブログ記事を公開した。",
-      "summary": "RedMonkは、オープンウェイトモデルを地理的要因、ライセンス、能力、リスク、経済モデル、リリースタイミング、サイズ、蒸留という8つの観点から分析したブログ記事を公開した。",
-      "translated": true
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Join senior AI reporter&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -792,13 +736,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
-      "title": "ロボット工学におけるAIのブレークスルーは、すぐにあなたの人生を変えることはありません",
+      "title": "AI breakthroughs in robotics won&#8217;t change your life any time soon",
       "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "dateStr": "2026-10-08",
       "ts": 1791450000000,
       "summaryOrig": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
-      "summary": "このストーリーは、テクノロジーと科学が私たちの生活をどのように変えているかについてのコンテンツを作成し、サポートする非営利の研究財団であるMIT Technology ReviewとAventineのコラボレーションによるものです。人間のような形をした、黒い頭と胴体を持つ白人のロボットが、ビデオフィードに現れています。ダンスを見たことがあるかもしれません…",
-      "translated": true
+      "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -806,13 +750,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Building a safer path to autonomous industrial AI",
-      "title": "自律型産業AIへのより安全な道筋の構築",
+      "title": "Building a safer path to autonomous industrial AI",
       "link": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "dateStr": "2026-10-08",
       "ts": 1791447452000,
       "summaryOrig": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
-      "summary": "インダストリアルAIは新しい段階に入りつつあります。何十年にもわたる予測分析やその他の特殊なアプリケーションの後、基礎モデル、物理AI、エージェントAIの進歩により、産業環境全体でより複雑なタスクを自動化することが可能になりました。しかし、純粋にデジタル世界で動作するAIとは異なり、産業用AIは物理システムと直接対話することができます。",
-      "translated": true
+      "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems,&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -820,13 +764,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-      "title": "ハッカーは、Googleやその他の大規模サービスの偽造TLS証明書を取得します",
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
       "link": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
       "dateStr": "2026-10-06",
       "ts": 1791314474000,
       "summaryOrig": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
-      "summary": "3つのドメインレジストリの侵害により、ハッカーは不正な証明書を手に入れることができます。",
-      "translated": true
+      "summary": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -834,13 +778,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-      "title": "OpenAIエージェントがウィキペディアツールをハッキングしようとし、トラフィックを溢れさせました",
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
       "dateStr": "2026-10-06",
       "ts": 1791289313000,
       "summaryOrig": "The reports of OpenAI agents harming third-party sites keep coming.",
-      "summary": "サードパーティのサイトを傷つけるOpenAIエージェントの報告が続いています。",
-      "translated": true
+      "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -848,13 +792,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
-      "title": "ライセンスコストにより、VMwareユーザーの90 ％がオプションを検討するようになりました：アンケート",
+      "title": "Licensing costs driving 90 percent of VMware users to explore options: Survey",
       "link": "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
       "dateStr": "2026-10-06",
       "ts": 1791288031000,
       "summaryOrig": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
-      "summary": "ユーザーは、変更を加えながら「リスクを軽減し、不要な中断を避ける」ことを望んでいます。",
-      "translated": true
+      "summary": "Users want to \"reduce risk and avoid unnecessary disruption\" while making changes.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -862,13 +806,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "MCP for agent-to-agent comms may be the riskiest protocol you&#039;ve never heard of",
-      "title": "エージェント間のコミュニケーションのためのMCPは、聞いたことのない最もリスクの高いプロトコルかもしれません",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you&#039;ve never heard of",
       "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
       "dateStr": "2026-10-05",
       "ts": 1791239195000,
       "summaryOrig": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
-      "summary": "新しいプロトコルの信頼のギャップは、悪意のあるプロンプトをあるエージェントから別のエージェントに広げます。",
-      "translated": true
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -876,13 +820,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Connecting AI agents to enterprise knowledge",
-      "title": "AIエージェントをエンタープライズ知識に接続する",
+      "title": "Connecting AI agents to enterprise knowledge",
       "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
       "dateStr": "2026-10-05",
       "ts": 1791215272000,
       "summaryOrig": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
-      "summary": "AIシステムが絶えず蓄積し分析するすべてのデータについて、エンタープライズAIエージェントはしばしば興味深い欠点、すなわち知識の欠如に苦しんでいます。データ以上に、知識とは、個々の組織のコンテキストでデータが何を意味するのかを理解することです。AIエージェントは、状況について推論し、決定を下し、最終的に...",
-      "translated": true
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -890,13 +834,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Bringing predictive analytics to the agentic AI era",
-      "title": "エージェント型AI時代に予測分析をもたらす",
+      "title": "Bringing predictive analytics to the agentic AI era",
       "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
       "dateStr": "2026-10-05",
       "ts": 1791206972000,
       "summaryOrig": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
-      "summary": "2026年、エンタープライズAIの問題は、予測モデルが統計予測を上回るパフォーマンスを発揮できるかどうかではなくなり、その議論は解決されました。現在の大きな問題は、ビジネスの意図から逸脱することなく、予測システムが独自の結論に基づいて行動できるようにする方法です。フロンティアは予測から自律的な意思決定へと移行し、そのギャップは…",
-      "translated": true
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -904,13 +848,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "People really hate AI, so why can’t they get enough?",
-      "title": "人々は本当にAIを嫌っていますが、なぜ彼らは十分に得ることができないのでしょうか？",
+      "title": "People really hate AI, so why can’t they get enough?",
       "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
       "dateStr": "2026-10-05",
       "ts": 1791187200000,
       "summaryOrig": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
-      "summary": "夏の間、私はLLMを構築しているスタートアップであるSpringboardsのCEOと話をしました。このスタートアップは、主流のライバルよりも幅広い回答を出すように設計されています。通話の冒頭で、彼は私の頭の中で立ち往生していることを言いました。「私たちはしばしば自己嫌悪的なAIだと言います...",
-      "translated": true
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -918,13 +862,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "EmTech Future 2026: When AI Meets Everything",
-      "title": "EmTech Future 2026 ： AIがすべてを満たすとき",
+      "title": "EmTech Future 2026: When AI Meets Everything",
       "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
       "dateStr": "2026-10-05",
       "ts": 1791172800000,
       "summaryOrig": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
-      "summary": "Google Researchのバイスプレジデント兼ヘッドであるYossi Matias氏は、AIが生物学、インフラストラクチャ、製造、科学をどのように変革し始めているのか、そしてなぜAIが他の分野と交差するときに最大の影響を与えるのかを探ります。MIT Technology Reviewの編集者と一緒にニュースルームに入り、シャープな分析と研究チームからの未発表の洞察を得ましょう…",
-      "translated": true
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -932,13 +876,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "title": "Appleは、AIエージェントからの不正使用を抑制するためにフルディスクアクセス権限を変更",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "dateStr": "2026-10-02",
       "ts": 1790982196000,
       "summaryOrig": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "summary": "Meta氏は、FDAはMuseがメッセージを読むのに十分ではないと述べています。Appleは違うことを願っています。",
-      "translated": true
+      "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -946,13 +890,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Redefining enterprise intelligence with autonomous AI",
-      "title": "自律型AIによるエンタープライズインテリジェンスの再定義",
+      "title": "Redefining enterprise intelligence with autonomous AI",
       "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "dateStr": "2026-10-02",
       "ts": 1790956144000,
       "summaryOrig": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
-      "summary": "エンタープライズAIはもはや将来の野心ではありません。フルオペレーション飛行中です。モデル機能は、ほとんどの組織が吸収できるよりも速く進歩していますが、パフォーマンスのコストは引き続き低下しています。世界的には、AI投資は2026年に2.5兆$に達し、前年から44 ％増加すると予想されています。多くの企業にとって、この投資は...",
-      "translated": true
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -960,13 +904,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Don’t be fooled—LLMs don’t reason",
-      "title": "騙されないでください- LLMは理由をつけないでください",
+      "title": "Don’t be fooled—LLMs don’t reason",
       "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "dateStr": "2026-10-02",
       "ts": 1790928000000,
       "summaryOrig": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
-      "summary": "2016年3月のソウルでの午後、私は人間の対戦相手への贈り物のように見える囲碁ボードの5列目に石を置くのを手伝ったプログラムを見ました。5試合のうち2試合目で37を動かすのは非常に馬鹿げているように見えたので、一部のコメンテーターはそれが...",
-      "translated": true
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -974,13 +918,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
-      "title": "1か月に2つの連邦政府機関のハッキングにより、機密データが大量に流出しました",
+      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
       "link": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
       "dateStr": "2026-10-01",
       "ts": 1790886525000,
       "summaryOrig": "It has been a bad month for federal government cybersecurity.",
-      "summary": "連邦政府のサイバーセキュリティにとって悪い月でした。",
-      "translated": true
+      "summary": "It has been a bad month for federal government cybersecurity.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -988,13 +932,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Memory executives expect RAM shortage to continue through 2028",
-      "title": "メモリエグゼクティブは、RAM不足が2028年まで続くと予想しています",
+      "title": "Memory executives expect RAM shortage to continue through 2028",
       "link": "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
       "dateStr": "2026-10-01",
       "ts": 1790876996000,
       "summaryOrig": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
-      "summary": "2027年に販売されたメモリの価格は、「2026年の価格よりもはるかに高い」。",
-      "translated": true
+      "summary": "Prices for memory sold for 2027 \"are much higher than 2026 prices.\"",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -1002,13 +946,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Attackers have been exploiting critical Zimbra flaw to steal emails",
-      "title": "攻撃者はZimbraの重大な欠陥を悪用してメールを盗んでいます",
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
       "link": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
       "dateStr": "2026-09-30",
       "ts": 1790801088000,
       "summaryOrig": "A simple email gives the attackers the ability to remotely inject OS commands.",
-      "summary": "簡単な電子メールを使用すると、攻撃者はOSコマンドをリモートから挿入することができます。",
-      "translated": true
+      "summary": "A simple email gives the attackers the ability to remotely inject OS commands.",
+      "translated": false
     },
     {
       "cat": "ai-global",
@@ -1016,13 +960,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Cloudflare plans to issue quantum-safe TLS certificates",
-      "title": "Cloudflareは量子安全なTLS証明書を発行する予定です",
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
       "link": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
       "dateStr": "2026-09-30",
       "ts": 1790766914000,
       "summaryOrig": "The move will be part of a major overhaul of the ecosystem for website authentication.",
-      "summary": "この動きは、ウェブサイト認証のエコシステムの大幅な見直しの一環となります。",
-      "translated": true
+      "summary": "The move will be part of a major overhaul of the ecosystem for website authentication.",
+      "translated": false
     }
   ]
 }
