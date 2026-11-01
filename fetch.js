@@ -14,10 +14,7 @@ const SOURCES = [
     cat:'ai-global', label:'海外AI', lang:'en' },
   { key:'theverge',   url:'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     cat:'ai-global', label:'海外AI', lang:'en' },
-  // 旧 /category/ai/feed/ は2026年8月27日で更新停止。現在はサイト全体のフィードが
-  // 更新されており、VentureBeat自体がAI専門媒体になったため中身もほぼAI記事
-  { key:'venturebeat',url:'https://venturebeat.com/feed/',
-    cat:'ai-global', label:'海外AI', lang:'en' },
+  // VentureBeat は2026年9月以降、GitHub Actions からのアクセスを HTTP 429 で拒否するため除外
   { key:'arstechnica',url:'https://feeds.arstechnica.com/arstechnica/technology-lab',
     cat:'ai-global', label:'海外AI', lang:'en' },
   { key:'mittr',      url:'https://www.technologyreview.com/topic/artificial-intelligence/feed',
