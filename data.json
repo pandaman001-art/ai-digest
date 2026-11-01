@@ -1,7 +1,105 @@
 {
-  "updatedAt": "2026-10-31T01:29:31.756Z",
+  "updatedAt": "2026-11-01T00:52:39.737Z",
   "count": 73,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "dateStr": "2026-10-31",
+      "ts": 1793489467000,
+      "summaryOrig": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "title": "Apple CEO、同社は「AIのためにAIを出荷するつもりはない」と語る",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "dateStr": "2026-10-31",
+      "ts": 1793482860000,
+      "summaryOrig": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "summary": "Appleの新CEOは、AI分野における同社の現在の立場を擁護した。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "title": "残り 4 日: TechCrunch Founder Summit がより有用な接続を拡大するのにどのように役立つか",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "dateStr": "2026-10-31",
+      "ts": 1793482567000,
+      "summaryOrig": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+      "summary": "11 月 4 日にボストンの SoWa パワー ステーションで開催される、有意義なネットワーキングの機会、実用的な洞察、アイデアとスタートアップの軌道を変える可能性のあるつながりが詰まった 1 日の準備をしましょう。すべての価格が値上がりする前に登録してください。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "title": "xAIデータセンター汚染を巡るNAACP訴訟の前進を判事が許可",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "dateStr": "2026-10-31",
+      "ts": 1793481423000,
+      "summaryOrig": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "summary": "NAACPの訴訟では、SpaceX所有のAI企業が大気浄化法に違反していると非難されている。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "OpenAI reportedly lowers funding target for new round",
+      "title": "OpenAI、新たなラウンドの資金調達目標を引き下げたと報じられている",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "dateStr": "2026-10-31",
+      "ts": 1793463175000,
+      "summaryOrig": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "summary": "OpenAIの最新の資金調達ラウンドは期待に応えていないようだ。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "I built an AI Tamagotchi before Meta could",
+      "title": "メタができる前にAIたまごっちを作りました",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "dateStr": "2026-10-31",
+      "ts": 1793462700000,
+      "summaryOrig": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It [&#8230;]",
+      "summary": "マーク・ザッカーバーグのメタは、AI にふにゃふにゃした小さな顔を与えることで、とてもかわいく見えるようにしました。そして、このホリデーシーズンには、たまごっちのように陽気な AI ヘルパーを持ち歩けるミューズ チャームを販売したいと考えています。でも家にはミューズチャームがあるので買わないです。それ […]",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "title": "Material 3 Expressiveの画面をブラウザで組み立てて画面同士をつなぎタップして確かめてそのままAIコーディング用のプロンプトにするツール「M3E Canvas」",
+      "link": "https://gigazine.net/news/20261031&#45;m3e&#45;canvas/",
+      "dateStr": "2026-10-31",
+      "ts": 1793437200000,
+      "summaryOrig": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつないで実際にタップしながら動作を確認できるほか、設計内容をそのままAIコーディング用のプロンプトに変換できる無料のオープンソースツールが「M3E Canvas」です。 続きを読む...",
+      "summary": "AIコーディングツールでアプリを開発する際には、画面の配置やボタンを押したときの動作などを文章で説明する必要があります。そこでGoogleの「Material 3 Expressive」に対応した部品をブラウザ上で組み立て、複数の画面をつないで実際にタップしながら動作を確認できるほか、設計内容をそのままAIコーディング用のプロンプトに変換できる無料のオープンソースツールが「M3E Canvas」です。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-global",
       "label": "海外AI",
@@ -134,7 +232,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Last-minute Halloween costumes for tech nerds",
-      "title": "テクノロジーオタクのための直前のハロウィーンのコスチューム",
+      "title": "テクノロジーオタク向けの直前のハロウィーンコスチューム",
       "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "dateStr": "2026-10-30",
       "ts": 1793395619000,
@@ -167,7 +265,7 @@
       "dateStr": "2026-10-30",
       "ts": 1793394594000,
       "summaryOrig": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "summary": "攻撃者がどのようにして Anthropic の認証済み Cursor アカウントにアクセスしたのかはまだ不明です。",
+      "summary": "攻撃者がどのようにして Anthropic の検証済み Cursor アカウントにアクセスしたのかはまだ不明です。",
       "translated": true
     },
     {
@@ -259,20 +357,6 @@
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
-      "origTitle": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opportunity to go deceive people&#8217;",
-      "title": "セラノスの内部告発者タイラー・シュルツ氏、AIブームは「人々を騙す絶好のチャンス」だと警告",
-      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "dateStr": "2026-10-30",
-      "ts": 1793376225000,
-      "summaryOrig": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-      "summary": "警告を発するセラノスの物語は、これまで一度も利益を上げたことのない企業が数兆ドルの評価額で資本を調達しているAI時代において、新たな重要性を帯びている。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
       "origTitle": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
       "title": "ローマ法王レオ、AIの武装解除を呼びかけ「機械は道具であり、人間ではない」",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
@@ -280,20 +364,6 @@
       "ts": 1793372286000,
       "summaryOrig": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many [&#8230;]",
       "summary": "教皇レオ14世は、AIシステムは「武装解除」されるべきだと述べ、人間には「その応用を導​​き、変更し、必要に応じて拒否する責任がある」と付け加えた。金曜日の教皇演説の中で、教皇レオは国連加盟国に対し、来月ジュネーブで開かれる会合で「自律型致死兵器の禁止に向けた具体的な措置を講じる」よう奨励した。アドレスには多くのことが反映されています […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "title": "世間話は省略: Braindate との TechCrunch Founder Summit で革新的なつながりを築こう",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "dateStr": "2026-10-30",
-      "ts": 1793368800000,
-      "summaryOrig": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before the event starts to save up to $100 on your pass, plus get a second for free.",
-      "summary": "11月4日にボストンのSoWa Power Stationで開催されるTechCrunch Founder Summit 2026では、Braindateを活用したネットワーキングは、1対1の会議であろうと、小グループのオンサイト会議であろうと、会話を見つけやすくするように設計されています。イベント開始前に登録すると、パスが最大 100 ドル節約され、さらに 2 枚目のパスが無料になります。",
       "translated": true
     },
     {
@@ -308,20 +378,6 @@
       "ts": 1793368800000,
       "summaryOrig": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられました。 続きを読む...",
       "summary": "スイスに拠点を置くテクノロジー企業「Proton」はプライバシー重視のメールサービス「Proton Mail」やAIサービス「Lumo」などの製品を展開しています。そんなProtonについて「社内でAI導入が急速に進んでおり、CEOによる社員への叱責が日常的に繰り広げられている」という情報が海外メディアの404 Mediaによって報じられました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from AI agents",
-      "title": "DoorDashは、AIエージェントから「数百」の注文しか受けていないと言った",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "dateStr": "2026-10-30",
-      "ts": 1793368465000,
-      "summaryOrig": "DoorDash said that it is open to working with third-party agent makers.",
-      "summary": "DoorDashは、サードパーティのエージェントメーカーと協力することに前向きであると述べた。",
       "translated": true
     },
     {
@@ -349,21 +405,7 @@
       "dateStr": "2026-10-30",
       "ts": 1793365274000,
       "summaryOrig": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, [&#8230;]",
-      "summary": "AIが生成した結果を容赦なく数学者たちに何ヶ月も浴びせ続けた後、OpenAI CEOのサム・アルトマン氏は、すべてを理解しようと奮闘している研究者たちに同情していると語った。しかし、彼は立ち止まるつもりはなく、同社が蓄積した発見からさらに多くのことが得られる可能性があることをほのめかしています。 「ネット上では、[…]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "title": "残り 5 日: TechCrunch Founder Summit 2026 に接続、拡張、節約できる最後のチャンスです",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "dateStr": "2026-10-30",
-      "ts": 1793365200000,
-      "summaryOrig": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "summary": "5 日間で最大 100 ドル割引に加え、11 月 4 日にボストンで開催される TechCrunch Founder Summit 2026 への 2 番目のパスが無料になります。今すぐ登録してください。",
+      "summary": "AIが生成した結果を容赦なく数学者たちに何ヶ月も浴びせ続けた後、OpenAI CEOのサム・アルトマン氏は、すべてを理解しようと奮闘する研究者たちに同情していると語った。しかし、彼は立ち止まるつもりはなく、同社が蓄積した発見からさらに多くのことが得られる可能性があることをほのめかしています。 「ネット上では、[…]",
       "translated": true
     },
     {
@@ -462,20 +504,6 @@
       "ts": 1793351221000,
       "summaryOrig": "NVIDIAは10月28日、文字起こしや翻訳、話者分離をサポートしたオープンウェイト(モデルの重み)のAIモデル「Nemotron 3.5 Transcribe」を発表した。文字起こしは40言語、英語との相互翻訳は31言語、話者分離は13言語に対応し、最大1時間の音声を処理できる。ベースモデルはHugging Faceにて公開しており、FP8、NVFP4の量子化モデルも近日公開予定だとしている。ライセンスは「OpenMDW-1.1」で、無償で商用利用も可能。",
       "summary": "NVIDIAは10月28日、文字起こしや翻訳、話者分離をサポートしたオープンウェイト(モデルの重み)のAIモデル「Nemotron 3.5 Transcribe」を発表した。文字起こしは40言語、英語との相互翻訳は31言語、話者分離は13言語に対応し、最大1時間の音声を処理できる。ベースモデルはHugging Faceにて公開しており、FP8、NVFP4の量子化モデルも近日公開予定だとしている。ライセンスは「OpenMDW-1.1」で、無償で商用利用も可能。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "title": "ウィキペディアの運営者、不適切な AI 著作権判決はオープンウェブを脅かす可能性があると語る",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "dateStr": "2026-10-30",
-      "ts": 1793350800000,
-      "summaryOrig": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitating that work to users. An overly black-and-white ruling, it says, could either deprive Wikipedians of useful AI-based tools or endanger [&#8230;]",
-      "summary": "ウィキメディア財団は、一連の画期的な AI 著作権訴訟で妥協点を確保し、著作権で保護された作品に関する大規模言語モデル (LLM) のトレーニングを法的に保護するよう裁判所に求めていますが、その作品をユーザーに吐き出すチャットボットは保護しません。あまりにも白黒はっきりした判決は、ウィキペディアンから有用なAIベースのツールを奪うか、危険にさらす可能性があると述べている[…]",
       "translated": true
     },
     {
@@ -651,20 +679,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に",
-      "title": "Geminiのチャット内で文書ファイルや表計算データを作成して直接編集可能に",
-      "link": "https://gigazine.net/news/20261030&#45;gemini&#45;document&#45;spreadsheet&#45;edit/",
-      "dateStr": "2026-10-30",
-      "ts": 1793329740000,
-      "summaryOrig": "Google製AI「Gemini」のチャット内でGoogleドキュメントやGoogleスプレッドシートのファイル作成および編集が可能となりました。 続きを読む...",
-      "summary": "Google製AI「Gemini」のチャット内でGoogleドキュメントやGoogleスプレッドシートのファイル作成および編集が可能となりました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
       "title": "Meta Ray-Banで向かいの席から撮影→指の動きからスマホのパスワードを解読する盗み見攻撃",
       "link": "https://www.itmedia.co.jp/news/article/2610/30/2000002684/",
@@ -728,20 +742,6 @@
       "ts": 1793326685000,
       "summaryOrig": "ヘビーユーザーにはうれしい知らせだ。OpenAIでCodexを率いるTibo(Thibault Sottiaux)氏は10月29日(米国時間)、ChatGPTの有料プラン「Pro 100」、「Pro 200」、「Pro 500」と「Business Premium」の利用上限を2倍に引き上げたことを、自身のX(旧Twitter)アカウントで発表した。",
       "summary": "ヘビーユーザーにはうれしい知らせだ。OpenAIでCodexを率いるTibo(Thibault Sottiaux)氏は10月29日(米国時間)、ChatGPTの有料プラン「Pro 100」、「Pro 200」、「Pro 500」と「Business Premium」の利用上限を2倍に引き上げたことを、自身のX(旧Twitter)アカウントで発表した。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
-      "title": "国産LLM「Sarashina」に初の「思考モデル」 ツール呼び出しやWeb検索性能が向上 APIで提供",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002743/",
-      "dateStr": "2026-10-30",
-      "ts": 1793326314000,
-      "summaryOrig": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
-      "summary": "ソフトバンク傘下のAI開発企業であるSB Intuitionsは、AIモデル「Sarashina3.2 mini thinking」を発表した。同社がフルスクラッチで開発する「Sarashina」シリーズ初の「思考モデル」（回答の精度を高めるため、出力に時間をかけるモデル）となる。",
       "translated": true
     },
     {
@@ -825,7 +825,7 @@
       "dateStr": "2026-10-27",
       "ts": 1793099958000,
       "summaryOrig": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor&#8230;",
-      "summary": "どのメーカーも独自の産業インテリジェンスを持っています。文書化されているものもあれば、経験豊富な作業者の知識に含まれているものもあります。経験豊富なオペレータが、切り替え後にラインを再起動する準備をしていると考えてください。機械の設定は重要ですが、特定の材料がどのように動作するか、前のシフト中に何が起こったのか、そして明らかに軽微な問題が発生した場合はどうなるのかを知ることも重要です。",
+      "summary": "どのメーカーも独自の産業インテリジェンスを持っています。文書化されているものもあれば、経験豊富な作業者の知識に含まれているものもあります。経験豊富なオペレータが、切り替え後にラインを再起動する準備をしていると考えてください。 The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
       "translated": true
     },
     {
@@ -839,7 +839,7 @@
       "dateStr": "2026-10-26",
       "ts": 1793036743000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it&#8230;",
-      "summary": "このストーリーは元々、AI に関する週刊ニュースレター「The Algorithm」に掲載されました。このような記事を受信箱に受け取るには、まずここから登録してください。数週間にわたる熱狂的な憶測を経て、アンスロピックは IPO 目論見書を提出した。 335 ページの文書 (100 ページほどはリスクに焦点を当てています) は、テクノロジーに対する同社の独自の見解を説明しています。",
+      "summary": "このストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信箱に受け取るには、まずここから登録してください。数週間にわたる熱狂的な憶測を経て、アンスロピックは IPO 目論見書を提出した。 335 ページの文書 (100 ページほどはリスクに焦点を当てています) は、テクノロジーに対する同社の独自の見解を説明しています。",
       "translated": true
     },
     {
@@ -867,7 +867,7 @@
       "dateStr": "2026-10-22",
       "ts": 1792703849000,
       "summaryOrig": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have&#8230;",
-      "summary": "エンタープライズ AI における次の競争上の優位性は、どのモデルを選択するかよりも、そのモデルを中心に何を構築するかによって決まります。それは重要な変化です。過去数年間、AI に関する議論の多くは、より大きなモデル、より優れた推論、より大きなコンテキスト ウィンドウ、より高いベンチマーク スコアといったモデルの機能に集中してきました。これらの進歩により…",
+      "summary": "エンタープライズ AI における次の競争上の優位性は、どのモデルを選択するかよりも、そのモデルを中心に何を構築するかに関係します。それは重要な変化です。過去数年間、AI に関する議論の多くはモデルの機能、つまりより大きなモデル、より優れた推論、より大きなコンテキスト ウィンドウ、より高いベンチマーク スコアに集中してきました。これらの進歩により…",
       "translated": true
     },
     {
@@ -876,7 +876,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "title": "恥ずべきeMudhra、証明書秘密鍵4を使用した後、TLSビジネスから撤退",
+      "title": "恥をかいたeMudhra、証明書秘密鍵4を使用した後、TLSビジネスから撤退",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "dateStr": "2026-10-22",
       "ts": 1792700272000,
@@ -923,7 +923,7 @@
       "dateStr": "2026-10-22",
       "ts": 1792663200000,
       "summaryOrig": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead&#8230;",
-      "summary": "Enterprise AI は、推奨事項を生成し、タスクを自動化し、組織がより迅速に意思決定を行えるように支援します。しかし、ビジネスが実際にどのように運営されているかを理解していなければ、強力なモデルであっても、意思決定が正しいかどうかを決定する制約や関係を見落とす可能性があります。企業が AI を実験から日常業務に移行しようとする中、今後の課題は…",
+      "summary": "Enterprise AI は、推奨事項を生成し、タスクを自動化し、組織がより迅速に意思決定を行えるように支援します。しかし、ビジネスが実際にどのように運営されているかを理解していないと、強力なモデルであっても、意思決定が正しいかどうかを決定する制約や関係を見落とす可能性があります。企業が AI を実験から日常業務に移行しようとする中、今後の課題は…",
       "translated": true
     },
     {
@@ -932,7 +932,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI&#8217;s hidden storage bill: What inference leaves behind",
-      "title": "AI の隠れたストレージ法案: 推論が後に残すもの",
+      "title": "AI の隠されたストレージ法案: 推論が後に残すもの",
       "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "dateStr": "2026-10-22",
       "ts": 1792658478000,
@@ -946,7 +946,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "title": "企業は、IT 部門が事態を悪化させると考えているソフトウェア アップグレードを購入し続けています",
+      "title": "企業は、IT 部門が状況を悪化させると考えているソフトウェア アップグレードを購入し続けています",
       "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
       "dateStr": "2026-10-21",
       "ts": 1792619332000,
