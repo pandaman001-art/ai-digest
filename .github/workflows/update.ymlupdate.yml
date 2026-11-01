@@ -14,6 +14,8 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
+    # 通常は6分以内に終わる。何かで止まっても既定の6時間待たずに打ち切る
+    timeout-minutes: 20
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,6 +27,7 @@ jobs:
 
       - name: Fetch & translate news
         run: node fetch.js
+        timeout-minutes: 15
 
       - name: Commit data.json
         run: |

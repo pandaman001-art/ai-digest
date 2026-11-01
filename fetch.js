@@ -14,7 +14,9 @@ const SOURCES = [
     cat:'ai-global', label:'海外AI', lang:'en' },
   { key:'theverge',   url:'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     cat:'ai-global', label:'海外AI', lang:'en' },
-  { key:'venturebeat',url:'https://venturebeat.com/category/ai/feed/',
+  // 旧 /category/ai/feed/ は2026年8月27日で更新停止。現在はサイト全体のフィードが
+  // 更新されており、VentureBeat自体がAI専門媒体になったため中身もほぼAI記事
+  { key:'venturebeat',url:'https://venturebeat.com/feed/',
     cat:'ai-global', label:'海外AI', lang:'en' },
   { key:'arstechnica',url:'https://feeds.arstechnica.com/arstechnica/technology-lab',
     cat:'ai-global', label:'海外AI', lang:'en' },
@@ -36,6 +38,25 @@ const FILTER_KEYS = new Set(['gigazine', 'pcwatch']);
 
 // ── ユーティリティ ──────────────────────────
 const sleep = ms => new Promise(r => setTimeout(r, ms));
+
+// 通信はすべてタイムアウト付きで行う（応答待ち・本文の受信待ちの両方を打ち切る）。
+// タイムアウトが無いと接続が残ってnodeが終了できず、ジョブが6時間止まったことがある。
+const FEED_TIMEOUT_MS = 20000;
+const TRANSLATE_TIMEOUT_MS = 15000;
+const UA = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' };
+
+function fetchWithTimeout(url, opts, ms) {
+  return fetch(url, { ...(opts || {}), signal: AbortSignal.timeout(ms) });
+}
+
+// 失敗した応答も本文を読み捨てて接続を解放する
+async function discard(res) {
+  try { await res.body?.cancel(); } catch (_) { /* 解放できなくても続行 */ }
+}
+
+function reasonOf(e) {
+  return e && (e.name === 'TimeoutError' || e.name === 'AbortError') ? 'タイムアウト' : (e && e.message) || String(e);
+}
 
 // XML/HTMLの文字参照をデコードする。名前付き（&amp; 等）に加えて
 // 数値参照（&#45; → -、&#8217; → ’、&#x2d; → -）も処理する。
@@ -133,23 +154,25 @@ function splitSrc(raw) {
 // GitHub Actions のIPが稀にGoogleに403される場合の保険として中継を1つ用意
 const FALLBACK = u => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(u);
 
+// RSS / Atom / RDF のどれかであるか（ブロック画面などのHTMLを弾く）
+const looksLikeFeed = txt => /<(rss|feed|rdf:RDF)[\s>]/i.test(txt || '');
+
 async function getXml(url) {
-  // まず直接取得
-  try {
-    const res = await fetch(url, {
-      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
-    });
-    if (res.ok) {
+  // 直接取得 → ダメなら中継経由。どちらで何が起きたかをすべてエラーに残す
+  const attempts = [['直接', url, { headers: UA }], ['中継', FALLBACK(url), {}]];
+  const reasons = [];
+  for (const [name, target, opts] of attempts) {
+    try {
+      const res = await fetchWithTimeout(target, opts, FEED_TIMEOUT_MS);
+      if (!res.ok) { await discard(res); reasons.push(name + ' HTTP ' + res.status); continue; }
       const txt = await res.text();
-      if (txt && txt.length > 100) return txt;
+      if (!looksLikeFeed(txt)) { reasons.push(name + ' RSSではない応答(' + txt.length + '文字)'); continue; }
+      return txt;
+    } catch (e) {
+      reasons.push(name + ' ' + reasonOf(e));
     }
-  } catch (e) { /* 次へ */ }
-  // 403等なら中継経由で再試行
-  const res2 = await fetch(FALLBACK(url));
-  if (!res2.ok) throw new Error('HTTP ' + res2.status);
-  const txt2 = await res2.text();
-  if (!txt2 || txt2.length < 100) throw new Error('empty');
-  return txt2;
+  }
+  throw new Error(reasons.join(' / '));
 }
 
 async function fetchSource(src) {
@@ -189,10 +212,8 @@ const translateStats = { google: 0, mymemory: 0, failed: 0 };
 async function viaGoogle(text) {
   const url = 'https://translate.googleapis.com/translate_a/single?' +
     new URLSearchParams({ client: 'gtx', sl: 'en', tl: 'ja', dt: 't', q: text.slice(0, 500) });
-  const res = await fetch(url, {
-    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
-  });
-  if (!res.ok) throw new Error('google HTTP ' + res.status);
+  const res = await fetchWithTimeout(url, { headers: UA }, TRANSLATE_TIMEOUT_MS);
+  if (!res.ok) { await discard(res); throw new Error('google HTTP ' + res.status); }
   const data = await res.json();
   const out = (data[0] || []).map(s => s[0] || '').join('').trim();
   if (!out) throw new Error('google empty');
@@ -202,39 +223,45 @@ async function viaGoogle(text) {
 async function viaMyMemory(text) {
   const url = 'https://api.mymemory.translated.net/get?' +
     new URLSearchParams({ q: text.slice(0, 480), langpair: 'en|ja' });
-  const res = await fetch(url);
-  if (!res.ok) throw new Error('mymemory HTTP ' + res.status);
+  const res = await fetchWithTimeout(url, {}, TRANSLATE_TIMEOUT_MS);
+  if (!res.ok) { await discard(res); throw new Error('mymemory HTTP ' + res.status); }
   const data = await res.json();
   const out = (data && data.responseData && data.responseData.translatedText || '').trim();
   if (!out || /MYMEMORY WARNING/i.test(out)) throw new Error('mymemory quota/empty');
   return out;
 }
 
+// 連続でこの回数失敗した翻訳APIは、その実行中は使わない。
+// （止まったAPIに毎回タイムアウトまで待たされて、実行が長引くのを防ぐ）
+const DISABLE_AFTER = 6;
+const failStreak = { google: 0, mymemory: 0 };
+
+async function tryApi(name, fn, text, waitMs, errors) {
+  for (let i = 0; i < 2; i++) {
+    if (failStreak[name] >= DISABLE_AFTER) return null;
+    try {
+      const out = await fn(text);
+      failStreak[name] = 0;
+      translateStats[name]++;
+      return out;
+    } catch (e) {
+      errors.push(name + ':' + reasonOf(e));
+      if (++failStreak[name] === DISABLE_AFTER) {
+        console.error('  ' + name + ' が連続' + DISABLE_AFTER + '回失敗したため、今回は使用を停止');
+      }
+      await sleep(waitMs * (i + 1));
+    }
+  }
+  return null;
+}
+
 async function gtranslate(text) {
   if (!text || !text.trim()) return null;
   const errors = [];
-  // まずGoogleを2回試す
-  for (let i = 0; i < 2; i++) {
-    try {
-      const out = await viaGoogle(text);
-      translateStats.google++;
-      return out;
-    } catch (e) {
-      errors.push('google:' + e.message);
-      await sleep(500 * (i + 1));
-    }
-  }
-  // ダメならMyMemoryを2回試す
-  for (let i = 0; i < 2; i++) {
-    try {
-      const out = await viaMyMemory(text);
-      translateStats.mymemory++;
-      return out;
-    } catch (e) {
-      errors.push('mymemory:' + e.message);
-      await sleep(700 * (i + 1));
-    }
-  }
+  // まずGoogle、ダメならMyMemoryをそれぞれ最大2回
+  const out = await tryApi('google', viaGoogle, text, 500, errors)
+           || await tryApi('mymemory', viaMyMemory, text, 700, errors);
+  if (out) return out;
   translateStats.failed++;
   // 最初の数件だけ詳細な失敗理由を出す（ログが膨大になるのを防ぐ）
   if (translateStats.failed <= 3) {
@@ -251,10 +278,10 @@ async function gtranslate(text) {
   for (const src of SOURCES) {
     try {
       const items = await fetchSource(src);
-      console.log(src.label + ': ' + items.length + '件取得');
+      console.log(src.label + '(' + src.key + '): ' + items.length + '件取得');
       articles = articles.concat(items);
     } catch (e) {
-      console.error(src.label + ' 取得失敗:', e.message);
+      console.error(src.label + '(' + src.key + ') 取得失敗: ' + e.message);
     }
     await sleep(500);
   }
@@ -301,4 +328,8 @@ async function gtranslate(text) {
   };
   fs.writeFileSync('data.json', JSON.stringify(payload, null, 2), 'utf8');
   console.log('data.json を保存しました（' + articles.length + '件）');
-})();
+})().then(
+  // 保存が終わったら明示的に終了する（通信が残っていてもジョブを止めない）
+  () => process.exit(0),
+  (e) => { console.error('致命的エラー:', e); process.exit(1); },
+);
