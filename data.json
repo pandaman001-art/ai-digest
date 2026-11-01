@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T00:52:39.737Z",
+  "updatedAt": "2026-11-01T07:50:54.055Z",
   "count": 73,
   "articles": [
     {
@@ -22,12 +22,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "title": "Apple CEO、同社は「AIのためにAIを出荷するつもりはない」と語る",
+      "title": "AppleのCEOは、同社は「AIのためにAIを出荷したくない」と述べている",
       "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
       "dateStr": "2026-10-31",
       "ts": 1793482860000,
       "summaryOrig": "Apple's new CEO defended the company's current position in the AI landscape.",
-      "summary": "Appleの新CEOは、AI分野における同社の現在の立場を擁護した。",
+      "summary": "Appleの新CEOは、AI分野における同社の現在の地位を擁護した。",
       "translated": true
     },
     {
@@ -36,12 +36,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "title": "残り 4 日: TechCrunch Founder Summit がより有用な接続を拡大するのにどのように役立つか",
+      "title": "残り4日： TechCrunchファウンダーサミットがどのようにスケールアップに役立つか",
       "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
       "dateStr": "2026-10-31",
       "ts": 1793482567000,
       "summaryOrig": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-      "summary": "11 月 4 日にボストンの SoWa パワー ステーションで開催される、有意義なネットワーキングの機会、実用的な洞察、アイデアとスタートアップの軌道を変える可能性のあるつながりが詰まった 1 日の準備をしましょう。すべての価格が値上がりする前に登録してください。",
+      "summary": "11月4日、ボストンのSoWa発電所で、有意義なネットワーキングの機会、実用的な洞察、そしてアイデアとスタートアップの軌道を変える可能性のあるつながりで満たされた1日の準備をしましょう。すべての料金が上がる前に登録しましょう。",
       "translated": true
     },
     {
@@ -50,12 +50,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "title": "xAIデータセンター汚染を巡るNAACP訴訟の前進を判事が許可",
+      "title": "裁判官は、xAIデータセンター汚染をめぐるNAACP訴訟を前進させる",
       "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
       "dateStr": "2026-10-31",
       "ts": 1793481423000,
       "summaryOrig": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "summary": "NAACPの訴訟では、SpaceX所有のAI企業が大気浄化法に違反していると非難されている。",
+      "summary": "NAACPの訴訟では、SpaceXが所有するAI企業が大気浄化法に違反していると非難している。",
       "translated": true
     },
     {
@@ -64,12 +64,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI reportedly lowers funding target for new round",
-      "title": "OpenAI、新たなラウンドの資金調達目標を引き下げたと報じられている",
+      "title": "OpenAIが新ラウンドの資金調達目標を引き下げたと報じられている",
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "dateStr": "2026-10-31",
       "ts": 1793463175000,
       "summaryOrig": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
-      "summary": "OpenAIの最新の資金調達ラウンドは期待に応えていないようだ。",
+      "summary": "OpenAIの最新の資金調達ラウンドは期待に応えていないようです。",
       "translated": true
     },
     {
@@ -78,12 +78,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "I built an AI Tamagotchi before Meta could",
-      "title": "メタができる前にAIたまごっちを作りました",
+      "title": "Metaができる前にAI Tamagotchiを構築しました",
       "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "dateStr": "2026-10-31",
       "ts": 1793462700000,
       "summaryOrig": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home. It […]",
-      "summary": "マーク・ザッカーバーグのメタは、AI にふにゃふにゃした小さな顔を与えることで、とてもかわいく見えるようにしました。そして、このホリデーシーズンには、たまごっちのように陽気な AI ヘルパーを持ち歩けるミューズ チャームを販売したいと考えています。でも家にはミューズチャームがあるので買わないです。それ […]",
+      "summary": "マーク・ザッカーバーグのMetaは、ぬるぬるとした小さな顔をすることで、AIをとてもかわいく見せました。そしてこのホリデーシーズン、彼はあなたにミューズチャームを売りたいと思っています。そうすれば、楽しいAIヘルパーをタマゴッチのように持ち歩くことができます。しかし、家にはミューズチャームがあるので、買わないつもりです。それは[…]",
       "translated": true
     },
     {
@@ -106,12 +106,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "title": "Nvidia、ウェストバージニア州にある Nscale の AI データセンターの連帯保証人を検討中",
+      "title": "Nvidia、ウェストバージニア州にあるNscaleのAIデータセンターの共同署名者を務める",
       "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
       "dateStr": "2026-10-31",
       "ts": 1793409605000,
       "summaryOrig": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "summary": "投資家がAIへの支出に不安を感じているときは、チップを販売するチップメーカーに融資の連帯保証を申し出てもらうとよい。",
+      "summary": "投資家がAIの支出に緊張すると、チップを販売するチップメーカーがローンの共同署名を申し出るのに役立ちます。",
       "translated": true
     },
     {
@@ -148,12 +148,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "title": "プライバシー重視の AI アシスタント、Ollie がサービス終了へ",
+      "title": "プライバシーに焦点を当てたAIアシスタントであるOllieは、",
       "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
       "dateStr": "2026-10-30",
       "ts": 1793400973000,
       "summaryOrig": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-      "summary": "市場にあふれるAIアシスタントの数が増える中、ユーザーのプライバシーを尊重したアシスタント「Ollie」の創設者は、同サービスを1週間以内に閉鎖すると発表した。",
+      "summary": "ユーザーのプライバシーを尊重するアシスタントであるOllieの創業者は、ますます多くのAIアシスタントが市場に溢れる中、1週間以内に閉鎖すると述べている。",
       "translated": true
     },
     {
@@ -162,12 +162,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "title": "Apple Intelligence が iOS 27.3 とともについに中国に登場",
+      "title": "Apple IntelligenceがついにiOS 27.3で中国に登場",
       "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
       "dateStr": "2026-10-30",
       "ts": 1793399573000,
       "summaryOrig": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring […]",
-      "summary": "MacRumors の報道によると、Apple は中国で iOS 27.3 で Apple Intelligence を開始すると、中国のニュースルーム Web サイトで発表しました。 Apple Intelligence 機能は、11 月 4 日にリリースされる予定の iOS 27.3 ベータ版で最初に利用可能になり、iOS 27.3 の完全リリースは 12 月に予定されています。この発売は何ももたらしません[…]",
+      "summary": "MacRumorsが報じたように、Appleは中国のニュースルームのウェブサイトで発表したiOS 27.3でApple Intelligenceを中国で発売する。Apple Intelligence機能は、11月4日にリリースされる予定のiOS 27.3ベータ版で最初に利用可能になり、12月に完全なiOS 27.3リリースが予定されています。このローンチでは[…]",
       "translated": true
     },
     {
@@ -204,12 +204,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "title": "インテルの株価が暴落し、政府の株式から120億ドルが失われる",
+      "title": "インテルの株価が暴落し、政府の出資金から120億$を失った",
       "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
       "dateStr": "2026-10-30",
       "ts": 1793397274000,
       "summaryOrig": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-      "summary": "AI産業がメモリやその他のコンポーネントを食い荒らしてPCの価格を高騰させているため、IntelはPCの販売に打撃を受けている。",
+      "summary": "インテルは、AI業界がメモリやその他のコンポーネントを消費し、PCの価格が上昇しているため、PCの販売に打撃を受けています。",
       "translated": true
     },
     {
@@ -218,12 +218,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "title": "アンスロピックはIPO後、信用機関から高い「ジャンク」格付けを受けると予想されているとFT紙が報じた",
+      "title": "FTレポートによると、AnthropicはIPO後に信用機関から高い「ジャンク」評価を受けると予想されている",
       "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
       "dateStr": "2026-10-30",
       "ts": 1793397123000,
       "summaryOrig": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "summary": "ブラックストーンの予測は単なる予測だが、当然のことながら、ジャンク格付けが高ければ、アンスロピックが事業を支えてきた巨額の支出を賄い続けるための資金調達がより難しくなり、コストも高くなるだろう。",
+      "summary": "ブラックストーンの予測は単なる予測に過ぎませんが、当然のことながら、高いジャンクレーティングは、Anthropicがビジネスの基盤となっている膨大な支出に資金を供給し続けるために資金を調達することをより困難かつ費用がかかることになります。",
       "translated": true
     },
     {
@@ -232,12 +232,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Last-minute Halloween costumes for tech nerds",
-      "title": "テクノロジーオタク向けの直前のハロウィーンコスチューム",
+      "title": "テクノロジーオタクのための土壇場のハロウィンコスチューム",
       "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
       "dateStr": "2026-10-30",
       "ts": 1793395619000,
       "summaryOrig": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "summary": "ハロウィンの仮装はないの？一見かわいい AI エージェントのアイコン、PHP の脆弱性、または眠たい時のブライアン ジョンソンになるだけです。",
+      "summary": "ハロウィーンのコスチュームはありませんか？見かけ上かわいいAIエージェントアイコン、PHPの脆弱性、または眠そうな時間を過ごすブライアン・ジョンソンだけです。",
       "translated": true
     },
     {
@@ -246,12 +246,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Cracks are emerging in the AI spending boom",
-      "title": "AI支出ブームに亀裂が生じている",
+      "title": "AI支出ブームに亀裂が現れています",
       "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
       "dateStr": "2026-10-30",
       "ts": 1793395060000,
       "summaryOrig": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-      "summary": "大手テック企業はAIインフラに数十億ドルをつぎ込んでいるが、負債の増大、キャッシュフローのマイナス、投資家の懐疑論の高まりにより、AI支出ブームの持続可能性について疑問が生じている。",
+      "summary": "Big TechはAIインフラストラクチャに数十億ドルを注ぎ込んでいますが、負債の増加、マイナスのキャッシュフロー、投資家の懐疑的な見方が高まっており、AI支出ブームの持続可能性について疑問を投げかけています。",
       "translated": true
     },
     {
@@ -260,12 +260,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "title": "Cursor の Anthropic VS コード拡張が 12 時間近くにわたってバックドア化された",
+      "title": "12時間近くバックドアされたカーソルのAnthropic VSコード拡張",
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "dateStr": "2026-10-30",
       "ts": 1793394594000,
       "summaryOrig": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "summary": "攻撃者がどのようにして Anthropic の検証済み Cursor アカウントにアクセスしたのかはまだ不明です。",
+      "summary": "攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。",
       "translated": true
     },
     {
@@ -274,12 +274,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "title": "サム・アルトマン氏、RAMは机の上よりもデータセンターにある方が良いと語る",
+      "title": "Sam Altman氏は、RAMをデスクに置くよりもデータセンターに置く方が良いと言います",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
       "dateStr": "2026-10-30",
       "ts": 1793393323000,
       "summaryOrig": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also commented on AI's impact on math, Altman said: \"A lot of people want […]",
-      "summary": "OpenAIの最高経営責任者（CEO）サム・アルトマン氏はインタビューで、進行中のRAM不足などのサプライチェーン不足について質問され、データセンターではなく個人のPCにRAMが搭載されているのは「ひどい」と述べた。ポッドキャスト Cheeky Pint に出演し、AI が数学に及ぼす影響についてもコメントしたアルトマン氏は、「多くの人が望んでいる […]",
+      "summary": "現在進行中のRAM不足のようなサプライチェーン不足について尋ねられると、OpenAIのCEOであるSam Altman氏はインタビューで、データセンターではなく個人のPCにRAMを搭載するのは「ひどい」と述べた。Cheeky Pintポッドキャストに出演し、AIが数学に与える影響についてもコメントしたアルトマン氏は、次のように述べています。「多くの人が[…]",
       "translated": true
     },
     {
@@ -288,12 +288,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The biggest names in AI are backing a new way to opt out of scraping",
-      "title": "AI の最大手はスクレイピングをオプトアウトする新しい方法を支持しています",
+      "title": "AIの大手企業は、スクレイピングをオプトアウトする新しい方法を支持しています",
       "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
       "dateStr": "2026-10-30",
       "ts": 1793391970000,
       "summaryOrig": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferences across multiple AI companies, instead of setting them individually. The shared \"policy token\" signal […]",
-      "summary": "OpenAI、Google、Microsoft、Anthropic は、Search Engine Roundtable が以前に報じたように、パブリッシャーが AI によるスクレイピングをオプトアウトするために使用できる新しい標準を採用すると発表しています。このコントロールを使用すると、パブリッシャーは AI トレーニングの設定を個別に設定するのではなく、複数の AI 企業に適用できます。共有された「ポリシー トークン」シグナル […]",
+      "summary": "OpenAI、Google、Microsoft、Anthropicは、検索エンジンラウンドテーブルが以前に報告したように、パブリッシャーがAIによるスクレイピングをオプトアウトするために使用できる新しい標準を採用すると述べている。このコントロールにより、パブリッシャーはAIトレーニングの設定を個別に設定するのではなく、複数のAI企業に適用することができます。共有された「ポリシートークン」シグナル[…]",
       "translated": true
     },
     {
@@ -302,12 +302,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Google’s satellite AI server transmits its first response to Earth",
-      "title": "Google の衛星 AI サーバーが最初の応答を地球に送信",
+      "title": "Googleの衛星AIサーバーがEarthに最初の応答を送信",
       "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
       "dateStr": "2026-10-30",
       "ts": 1793384498000,
       "summaryOrig": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
-      "summary": "GoogleのAIチップを搭載した衛星が宇宙から初めて反応を起こした。金曜日のブログ投稿で、Googleは衛星のテンソル処理ユニット（TPU）の起動に成功し、搭載されたGemma 4モデルが宇宙にいるという俳句を作成するというプロンプトに従って実行できるようになったと述べた：データストリームの下の青い大理石 […]",
+      "summary": "GoogleのAIチップ搭載衛星は、宇宙からの最初の応答を生成しました。金曜日のブログ記事で、Googleは衛星のテンソルプロセッシングユニット（ TPU ）を正常に起動し、オンボードのGemma 4モデルが宇宙にいることについての俳句を作成するためのプロンプトをフォローすることができるようにしたと述べている： [...]のデータストリームの下の青い大理石",
       "translated": true
     },
     {
@@ -316,12 +316,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Zest’s new AI agent finds restaurants and books reservations over text",
-      "title": "Zest の新しい AI エージェントはテキスト経由でレストランを見つけて予約します",
+      "title": "Zestの新しいAIエージェントがレストランを見つけ、テキストで予約する",
       "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
       "dateStr": "2026-10-30",
       "ts": 1793382432000,
       "summaryOrig": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-      "summary": "どこで食事をするかについて意見が一致しない場合は、 Zest の AI コンシェルジュは、全員の好みを組み合わせてレストランの選択肢を投票し、予約を行うことができます。",
+      "summary": "どこで食事をするかについて意見が合わない場合は、ZestのAIコンシェルジュは、すべての人の好みを組み合わせ、レストランのオプションを投票し、予約を行うことができます。",
       "translated": true
     },
     {
@@ -330,12 +330,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-      "title": "スターバックスはAIを活用してドライブスルーで「パーソナライズされたデジタルメニュー」を表示したいと考えている",
+      "title": "スターバックスは、ドライブスルーでAIを使用して「パーソナライズされたデジタルメニュー」を表示したいと考えています",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
       "dateStr": "2026-10-30",
       "ts": 1793381884000,
       "summaryOrig": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating customers as they arrive, present personalized digital menus, and make payment more effortless,\" as spotted earlier by More […]",
-      "summary": "スターバックスはいずれ、ドライブスルーに立ち寄ったときにパーソナライズされたデジタルメニューを表示するようになるかもしれない。木曜日の決算会見で、スターバックスCEOのブライアン・ニコル氏は、モアが以前に報じたように、同社は「来店時に参加顧客を認識し、パーソナライズされたデジタルメニューを提示し、支払いをより簡単にする体験」を模索するつもりであると述べた。",
+      "summary": "スターバックスでは、ドライブスルーに近づくと、パーソナライズされたデジタルメニューが表示されるようになるかもしれません。木曜日の決算発表で、スターバックスの最高経営責任者（ CEO ）であるブライアン・ニッコル（ Brian Niccol ）氏は、同社が「参加している顧客が到着すると認識し、パーソナライズされたデジタルメニューを提示し、支払いをより簡単にする体験」を探求すると述べた。More […]",
       "translated": true
     },
     {
@@ -349,7 +349,7 @@
       "dateStr": "2026-10-30",
       "ts": 1793379600000,
       "summaryOrig": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-      "summary": "宇宙初の TPU は Google DeepMind Gemma 4 モデルを実行し、安っぽい詩を書いています。",
+      "summary": "宇宙で最初のTPUは、Google DeepMind Gemma 4モデルを実行し、チーズな詩を書いています。",
       "translated": true
     },
     {
@@ -358,12 +358,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-      "title": "ローマ法王レオ、AIの武装解除を呼びかけ「機械は道具であり、人間ではない」",
+      "title": "教皇レオがAIの武装解除を呼びかけ：「機械は道具であり、人間ではない」",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
       "dateStr": "2026-10-30",
       "ts": 1793372286000,
       "summaryOrig": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concrete steps toward banning lethal autonomous weapons\" during their meeting in Geneva next month. The address reflects many […]",
-      "summary": "教皇レオ14世は、AIシステムは「武装解除」されるべきだと述べ、人間には「その応用を導​​き、変更し、必要に応じて拒否する責任がある」と付け加えた。金曜日の教皇演説の中で、教皇レオは国連加盟国に対し、来月ジュネーブで開かれる会合で「自律型致死兵器の禁止に向けた具体的な措置を講じる」よう奨励した。アドレスには多くのことが反映されています […]",
+      "summary": "教皇レオ14世は、AIシステムは「武装解除」されるべきだと述べ、人間には「その適用を導き、変更し、必要に応じて拒否する責任がある」と付け加えた。金曜日の教皇演説で、教皇レオは、来月ジュネーブで開催される会合で、国連加盟国に「致命的な自律型兵器を禁止するための具体的な措置を講じる」よう奨励している。住所は多くの[…]を反映しています",
       "translated": true
     },
     {
@@ -386,12 +386,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Silicon Valley wants you to invest in miracles",
-      "title": "シリコンバレーは奇跡への投資を望んでいます",
+      "title": "シリコンバレーはあなたが奇跡に投資することを望んでいます",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "dateStr": "2026-10-30",
       "ts": 1793365865000,
       "summaryOrig": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to humanity,\" or best case, \"bring forth an age of miracles\"? To some extent, […]",
-      "summary": "株式への投資は、企業の将来の業績にお金を賭けているという意味で、一種のギャンブルに似ています。しかし、最悪のシナリオでは「人類に破滅的または存亡の危機をもたらす」、あるいは最良のシナリオでは「奇跡の時代をもたらす」可能性のあるテクノロジーにどうやって賭けるのでしょうか?ある程度は […]",
+      "summary": "株式に投資することは、会社の将来の業績にお金を賭けるという意味で、ギャンブルに似ています。しかし、最悪の場合、「人類に壊滅的または実存的なリスクをもたらす」、または「奇跡の時代をもたらす」可能性のあるテクノロジーにどのように賭けますか？ある程度、[…]",
       "translated": true
     },
     {
@@ -400,12 +400,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "title": "サム・アルトマン氏は数学者に同情するが、OpenAIの数学の猛攻は止まらないと語る",
+      "title": "サム・アルトマンは数学者に同情するが、OpenAIの数学の猛攻撃は止まらないと言う",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
       "dateStr": "2026-10-30",
       "ts": 1793365274000,
       "summaryOrig": "After months of bombarding mathematicians with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researchers struggling to make sense of it all. But he has no intention of stopping - and hints there could be much more to come from the company's stockpile of discoveries. \"I think, on net, […]",
-      "summary": "AIが生成した結果を容赦なく数学者たちに何ヶ月も浴びせ続けた後、OpenAI CEOのサム・アルトマン氏は、すべてを理解しようと奮闘する研究者たちに同情していると語った。しかし、彼は立ち止まるつもりはなく、同社が蓄積した発見からさらに多くのことが得られる可能性があることをほのめかしています。 「ネット上では、[…]",
+      "summary": "OpenAIのCEOであるサム・アルトマン（ Sam Altman ）氏は、AIが生み出した絶え間ない結果で数学者を何ヶ月にもわたって攻撃した後、そのすべてを理解するのに苦労している研究者に同情していると述べている。しかし、彼は止めるつもりはありません。そして、同社の発見物の備蓄からさらに多くのものが得られる可能性があることを示唆しています。「ネットでは、[…]",
       "translated": true
     },
     {
@@ -456,12 +456,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Maine’s data center revolt will decide who controls the Senate",
-      "title": "メイン州のデータセンターの反乱で上院を誰が支配するかが決まる",
+      "title": "メイン州のデータセンターの反乱は、誰が上院を支配するかを決定する",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1021080/maine-senate-race-susan-collins-ai-data-centers",
       "dateStr": "2026-10-30",
       "ts": 1793358000000,
       "summaryOrig": "Maine Sen. Susan Collins, a Republican, was midway through defending her record during the final debate of the midterms when an audience member cut her short. \"I'm terrified,\" a man shouted. \"AI data centers are destroying our climate. They are poisoning our water.\" Collins brushed off the outburst, tying the man to her Democratic challenger, […]",
-      "summary": "メイン州上院議員スーザン・コリンズ（共和党）は、中間選挙の最終討論会で自身の記録を擁護している最中に、聴衆が発言を中断した。 「怖いです」と男性が叫んだ。 「AI データセンターは気候を破壊し、水を汚染しています。」コリンズ氏はこの暴言を一蹴し、その男性を民主党の挑戦者と結びつけ、[…]",
+      "summary": "共和党員であるメイン州上院議員のスーザン・コリンズ氏は、中間選挙の最終討論会で聴衆が彼女の記録を守る途中だった。「怖い」と一人の男が叫んだ。「AIデータセンターは私たちの気候を破壊しています。彼らは私たちの水を汚染しています。「コリンズは爆発を払拭し、男性を民主党の挑戦者に結びつけた。[…]",
       "translated": true
     },
     {
@@ -764,12 +764,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "We urgently need to monitor AI agents’ actions in real time",
-      "title": "AIエージェントの行動をリアルタイムで監視することが緊急に必要です",
+      "title": "AIエージェントの行動をリアルタイムでモニタリングする必要があります",
       "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "dateStr": "2026-10-29",
       "ts": 1793268672000,
       "summaryOrig": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "summary": "この夏、何百人もの OpenAI エージェントがサイバーセキュリティ テストで不正行為を試みました。彼らはテスト環境から侵入し、採点方法に関する手がかりがあると信じていたサイト、Hugging Face のハッキングに成功しました。同じ頃、別の OpenAI エージェントがオーストラリア政府の Web サイトからプライベート ファイルにアクセスしました。それは問題です…",
+      "summary": "この夏、何百人ものOpenAIエージェントがサイバーセキュリティテストで不正行為を試みました。彼らはテスト環境から脱出し、自分たちがどのように採点されるかについての手がかりを持っていると信じていたHugging Faceをハッキングすることに成功しました。同じ頃、別のOpenAIエージェントがオーストラリア政府のウェブサイトからプライベートファイルにアクセスしました。問題が発生しています...",
       "translated": true
     },
     {
@@ -778,12 +778,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Creating AI value with enterprise context",
-      "title": "エンタープライズ コンテキストで AI 価値を創造する",
+      "title": "エンタープライズコンテキストでAIの価値を創造する",
       "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "dateStr": "2026-10-28",
       "ts": 1793219522000,
       "summaryOrig": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-      "summary": "ビジネス全体で、AI を活用した顧客プラットフォーム、会話アシスタント、ワークフローおよびプロセス自動化ツールなど、任意の数の AI プラットフォーム、システム、ツールが同時に稼働している可能性があります。それぞれが洗練され、先進的で、迅速に対応します。しかし、実際に機能するようになると、結果やアクションが間違っていたり、混乱していたり​​、必要な要素が欠けていたりする可能性があります。",
+      "summary": "ビジネス全体で、AIを活用した顧客プラットフォーム、会話アシスタント、ワークフローおよびプロセス自動化ツールなど、任意の数のAIプラットフォーム、システム、およびツールが同時に機能している可能性があります。それぞれが洗練され、高度で、迅速に対応します。しかし、機能するように設定すると、出現する結果と行動が間違っている、混乱している、または欠けている可能性があります...",
       "translated": true
     },
     {
@@ -792,7 +792,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Pairing industrial AI autonomy and human control",
-      "title": "産業用 AI の自律性と人間による制御の組み合わせ",
+      "title": "産業AIの自律性と人間の制御のペアリング",
       "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
       "dateStr": "2026-10-28",
       "ts": 1793188800000,
@@ -806,12 +806,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "title": "UEFI ファームウェアのコード実行の欠陥は地球上のほとんどのサーバーに影響を与える",
+      "title": "UEFIファームウェアのコード実行の欠陥は、地球上のほとんどのサーバーに影響します",
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "dateStr": "2026-10-27",
       "ts": 1793132755000,
       "summaryOrig": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-      "summary": "EDK2 の重大な欠陥により、攻撃者は起動プロセスの早い段階でコードを実行できます。",
+      "summary": "EDK 2の重大な欠陥により、攻撃者はブートプロセスの早い段階でコードを実行できます。",
       "translated": true
     },
     {
@@ -820,12 +820,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "title": "インダストリアル インテリジェンス: 製造業の次の成長機会",
+      "title": "インダストリアルインテリジェンス：製造業の次の成長機会",
       "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
       "dateStr": "2026-10-27",
       "ts": 1793099958000,
       "summaryOrig": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
-      "summary": "どのメーカーも独自の産業インテリジェンスを持っています。文書化されているものもあれば、経験豊富な作業者の知識に含まれているものもあります。経験豊富なオペレータが、切り替え後にラインを再起動する準備をしていると考えてください。 The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
+      "summary": "どのメーカーも独自のインダストリアルインテリジェンスを持っています。一部は文書化されており、一部は経験豊富な労働者の知識に基づいています。切替え後にラインを再起動する準備をしている経験豊富なオペレーターを考えてみましょう。機械の設定は重要ですが、特定のマテリアルがどのように動作するか、前のシフト中に何が起こったか、そして明らかに軽微なことがいつ起こったかを知ることも重要です…",
       "translated": true
     },
     {
@@ -839,7 +839,7 @@
       "dateStr": "2026-10-26",
       "ts": 1793036743000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it…",
-      "summary": "このストーリーは元々、AI に関する週刊ニュースレター『The Algorithm』に掲載されました。このような記事を受信箱に受け取るには、まずここから登録してください。数週間にわたる熱狂的な憶測を経て、アンスロピックは IPO 目論見書を提出した。 335 ページの文書 (100 ページほどはリスクに焦点を当てています) は、テクノロジーに対する同社の独自の見解を説明しています。",
+      "summary": "このストーリーは、もともとAIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。数週間の熱狂的な憶測の後、AnthropicはIPO目論見書を提出しました。この335ページの文書（ 100ページほどがリスクに焦点を当てています）には、同社独自の技術が示されています。",
       "translated": true
     },
     {
@@ -848,12 +848,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The focus on AI safety disasters ignores everyday harms",
-      "title": "AI の安全性災害に焦点を当てると、日常的な危害が無視される",
+      "title": "AIの安全災害に焦点を当てることは、日常的な危害を無視します",
       "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "dateStr": "2026-10-26",
       "ts": 1793005260000,
       "summaryOrig": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products…",
-      "summary": "テクノロジー政策の成功には何が必要かを考えてみましょう。ある AI 企業は、自社のチャットボットが自殺を助長するものではないと約束しています。ソーシャルメディアプラットフォームのおかげで、子供たちがフェンタニルを購入することがさらに困難になっています。これらは重要な保護であり、最初から存在していたはずです。しかし、企業は製品を作り続けながら、これらの低いハードルをクリアすることができます…",
+      "summary": "テクノロジーポリシーの成功には何が必要かを考えてみましょう。あるAI企業は、チャットボットが自殺を奨励しないことを約束しています。ソーシャルメディアプラットフォームは、子供がフェンタニルを購入することをより困難にします。これらは重要な保護措置であり、これまでずっと存在していたはずです。しかし、企業は製品を作り続けながら、これらの低いバーをクリアすることができます...",
       "translated": true
     },
     {
@@ -862,12 +862,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Designing an AI serving harness built to last",
-      "title": "耐久性に優れた AI サービング ハーネスの設計",
+      "title": "長持ちするように構築されたAIサービングハーネスの設計",
       "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "dateStr": "2026-10-22",
       "ts": 1792703849000,
       "summaryOrig": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have…",
-      "summary": "エンタープライズ AI における次の競争上の優位性は、どのモデルを選択するかよりも、そのモデルを中心に何を構築するかに関係します。それは重要な変化です。過去数年間、AI に関する議論の多くはモデルの機能、つまりより大きなモデル、より優れた推論、より大きなコンテキスト ウィンドウ、より高いベンチマーク スコアに集中してきました。これらの進歩により…",
+      "summary": "エンタープライズAIの次の競争上の優位性は、それを中心に構築するものよりも、どのモデルを選択するかに関係していません。これは重要な変化です。過去数年間、AIの会話の多くは、より大きなモデル、より良い推論、より大きなコンテキストウィンドウ、より高いベンチマークスコアなどのモデル能力に焦点を当ててきました。これらの進歩は...",
       "translated": true
     },
     {
@@ -876,12 +876,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
-      "title": "恥をかいたeMudhra、証明書秘密鍵4を使用した後、TLSビジネスから撤退",
+      "title": "4の証明書秘密鍵を使用した後、不名誉なeMudhraがTLSビジネスから脱退",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "dateStr": "2026-10-22",
       "ts": 1792700272000,
       "summaryOrig": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site.",
-      "summary": "鍵署名「儀式」の失敗により、あらゆるサイトの Web 認証情報の鋳造が可能になりました。",
+      "summary": "失敗したキー署名「セレモニー」は、任意のサイトのWeb資格情報を鋳造することを可能にしました。",
       "translated": true
     },
     {
@@ -890,12 +890,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The Foundations of Scalable AI",
-      "title": "スケーラブルな AI の基礎",
+      "title": "スケーラブルなAIの基盤",
       "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "dateStr": "2026-10-22",
       "ts": 1792694884000,
-      "summaryOrig": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic",
-      "summary": "スケーラブルな AI システムには強力な基盤が必要です。データ、エンジニアリング、プラットフォーム、オペレーティングモデル、ガバナンスは、1 つとして機能するように収束する必要があります。 MIT Technology Review の EmTech Future カンファレンスのこのセッションでは、高度に規制された環境でその基盤を構築するために何が必要か、そして責任ある信頼できる実装によってエージェントなどの新しい機能をどのように実現できるかを探ります。",
+      "summaryOrig": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review’s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic…",
+      "summary": "スケーラブルなAIシステムには、強力な基盤が必要です。データ、エンジニアリング、プラットフォーム、運用モデル、ガバナンスを1つにまとめる必要があります。MITテクノロジーレビューのEmTech Futureカンファレンスのこのセッションでは、高度に規制された環境でその基盤を構築するために何が必要か、責任ある信頼できる実装がエージェントなどの新興機能をどのように変えることができるかを探ります。",
       "translated": true
     },
     {
@@ -904,12 +904,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "title": "333 Tor 終了ノードがハイジャックされ、SSH トラフィックを傍受し、平文メールを取得",
+      "title": "SSHトラフィックを傍受し、プレーンテキストメールを取得するためにハイジャックされた333のTOR出口ノード",
       "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
       "dateStr": "2026-10-22",
       "ts": 1792668633000,
       "summaryOrig": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data.",
-      "summary": "今月 3 日間、機密データを盗む目的で 333 の出口ノードがハッキングされました。",
+      "summary": "今月3日間、333の出口ノードがハッキングされ、機密データが盗まれました。",
       "translated": true
     },
     {
@@ -918,12 +918,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Making the case for context-aware AI",
-      "title": "コンテキスト認識型 AI の主張をする",
+      "title": "コンテキストアウェアAIの事例を作成する",
       "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
       "dateStr": "2026-10-22",
       "ts": 1792663200000,
       "summaryOrig": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead…",
-      "summary": "Enterprise AI は、推奨事項を生成し、タスクを自動化し、組織がより迅速に意思決定を行えるように支援します。しかし、ビジネスが実際にどのように運営されているかを理解していないと、強力なモデルであっても、意思決定が正しいかどうかを決定する制約や関係を見落とす可能性があります。企業が AI を実験から日常業務に移行しようとする中、今後の課題は…",
+      "summary": "エンタープライズAIは、推奨事項の生成、タスクの自動化、組織の意思決定の迅速化を支援します。しかし、ビジネスが実際にどのように運営されているかを理解していないと、強力なモデルでさえ、意思決定が正しいかどうかを決定する制約や関係を見逃す可能性があります。企業がAIを実験から日常業務に移行しようとしているため、今後の課題は…",
       "translated": true
     },
     {
@@ -932,12 +932,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "AI’s hidden storage bill: What inference leaves behind",
-      "title": "AI の隠されたストレージ法案: 推論が後に残すもの",
+      "title": "AIの隠されたストレージ法案：推論が残すもの",
       "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
       "dateStr": "2026-10-22",
       "ts": 1792658478000,
       "summaryOrig": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs…",
-      "summary": "ほとんどの経営幹部に AI のコストをイメージしてもらうと、おそらく GPU (ギガワットの電力を備えたアクセラレータのラック) とシリコンの順番待ちリストが目に入るでしょう。しかし、この図にはデータ ストレージのコストというものが欠けています。モデルが応答した後、データはどうなりますか?毎日何十億ものプロンプト、画像、ビデオから生成されるバックエンド データの多くは…",
+      "summary": "ほとんどのエグゼクティブにAIのコストを描写するように依頼すると、GPU （ギガワットの電力を持つアクセラレータのラック）とシリコンのウェイティングリストが表示される可能性があります。しかし、その写真には、データストレージのコストというものが残っています。モデルが応答した後、データはどうなりますか？毎日何十億ものプロンプト、画像、ビデオから生成されるバックエンドデータの多くは、次のようなニーズがあります。",
       "translated": true
     },
     {
@@ -946,12 +946,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Enterprises keep buying software upgrades that IT thinks will make things worse",
-      "title": "企業は、IT 部門が状況を悪化させると考えているソフトウェア アップグレードを購入し続けています",
+      "title": "企業は、ITが事態を悪化させると考えているソフトウェアアップグレードを購入し続けています",
       "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
       "dateStr": "2026-10-21",
       "ts": 1792619332000,
       "summaryOrig": "Survey of 2,018 IT heads at big firms points to a lack of leverage.",
-      "summary": "大企業の IT 責任者 2,018 名を対象とした調査では、レバレッジの欠如が指摘されています。",
+      "summary": "大企業の2,018人のIT責任者を対象とした調査では、レバレッジが不足していることが指摘されています。",
       "translated": true
     },
     {
@@ -960,12 +960,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "PHP warns it plans to release 2 emergency patches imminently",
-      "title": "PHP、2つの緊急パッチを間もなくリリースする予定であると警告",
+      "title": "PHPは、2つの緊急パッチをすぐにリリースする予定であると警告しています",
       "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
       "dateStr": "2026-10-21",
       "ts": 1792548738000,
       "summaryOrig": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
-      "summary": "未確認のレポートでは、PHP2Shell エクスプロイトが PHP サイト上のコードをリモートで実行すると主張しています。",
+      "summary": "未確認のレポートは、PHP 2 ShellエクスプロイトがPHPサイトでコードをリモートで実行すると主張しています。",
       "translated": true
     },
     {
@@ -974,12 +974,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "title": "8 つの TLS 証明書の侵害が発見され、インターネットは厳戒態勢に",
+      "title": "8つの侵害されたTLS証明書を発見した後、インターネットは高度な警戒状態になります",
       "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
       "dateStr": "2026-10-20",
       "ts": 1792525655000,
       "summaryOrig": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "summary": "中間証明書を使用すると、誰でもインターネット サーバーの Web 認証情報を作成できます。",
+      "summary": "中間証明書を使用すると、誰でも任意のインターネットサーバーのWeb資格情報を鋳造できます。",
       "translated": true
     },
     {
@@ -988,12 +988,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "title": "Meta Muse は、ユーザーが会話を共有するときに個人情報やビジネス上の秘密を暴露します。",
+      "title": "Meta Museは、会話を共有する際にユーザーの個人的およびビジネス上の秘密を公開します",
       "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
       "dateStr": "2026-10-20",
       "ts": 1792499593000,
       "summaryOrig": "Meta is suspending the sharing feature while it investigates its privacy.",
-      "summary": "メタ社はプライバシーを調査している間、共有機能を一時停止している。",
+      "summary": "Metaは、プライバシーを調査している間、共有機能を一時停止しています。",
       "translated": true
     },
     {
@@ -1002,12 +1002,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "PSA: Patch your Plex media server before someone hacks it",
-      "title": "PSA: 誰かがハッキングする前に、Plex メディア サーバーにパッチを適用してください",
+      "title": "PSA ：誰かにハッキングされる前にPlexメディアサーバーにパッチを適用する",
       "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
       "dateStr": "2026-10-19",
       "ts": 1792438759000,
       "summaryOrig": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.",
-      "summary": "研究者によると、4つの脆弱性を連鎖させた攻撃により、パッチが適用されていないボックスがハッキングされているという。",
+      "summary": "ある研究者は、4つの脆弱性を連鎖させる攻撃は、パッチが適用されていないボックスをハッキングしていると述べています。",
       "translated": true
     },
     {
@@ -1016,12 +1016,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "ReactOS reaches major milestone with NTFS install support",
-      "title": "ReactOS が NTFS インストールのサポートで大きなマイルストーンを達成",
+      "title": "ReactOSがNTFSインストールサポートで主要なマイルストーンに到達",
       "link": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
       "dateStr": "2026-10-19",
       "ts": 1792434656000,
       "summaryOrig": "ReactOS gains NTFS install support with new driver.",
-      "summary": "ReactOS は、新しいドライバーで NTFS インストールをサポートします。",
+      "summary": "ReactOSは、新しいドライバでNTFSのインストールをサポートします。",
       "translated": true
     }
   ]
