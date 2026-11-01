@@ -37,12 +37,32 @@ const FILTER_KEYS = new Set(['gigazine', 'pcwatch']);
 // ── ユーティリティ ──────────────────────────
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
+// XML/HTMLの文字参照をデコードする。名前付き（&amp; 等）に加えて
+// 数値参照（&#45; → -、&#8217; → ’、&#x2d; → -）も処理する。
+// GIGAZINEのRSSは<link>内のハイフンを &#45; で書いており、これを戻さないと
+// URLの「#」以降がページ内アンカー扱いになり、別ページに飛んでしまう。
+const NAMED_ENTITIES = { amp:'&', lt:'<', gt:'>', quot:'"', apos:"'", nbsp:' ' };
+function decodeEntities(s) {
+  return (s || '').replace(/&(#x[0-9a-f]+|#\d+|[a-z]+);/gi, (m, e) => {
+    if (e[0] === '#') {
+      const hex = e[1] === 'x' || e[1] === 'X';
+      const code = parseInt(e.slice(hex ? 2 : 1), hex ? 16 : 10);
+      try { return String.fromCodePoint(code); } catch (_) { return m; }
+    }
+    const v = NAMED_ENTITIES[e.toLowerCase()];
+    return v !== undefined ? v : m;
+  });
+}
+
+// 記事URLとして使える形に整える（文字参照を戻し、http(s)以外は空にする）
+function cleanUrl(u) {
+  const t = decodeEntities(u).trim();
+  return /^https?:\/\//i.test(t) ? t : '';
+}
+
 function stripHtml(s) {
-  let t = s || '';
-  // 1. HTMLエンティティをデコード（&lt; → < など）
-  t = t.replace(/&lt;/g, '<').replace(/&gt;/g, '>')
-       .replace(/&quot;/g, '"').replace(/&#39;/g, "'")
-       .replace(/&nbsp;/g, ' ').replace(/&amp;/g, '&');
+  // 1. 文字参照をデコード（&lt; → <、&#8217; → ’ など）
+  let t = decodeEntities(s);
   // 2. HTMLタグを除去
   t = t.replace(/<[^>]*>/g, ' ');
   // 3. 残った実体参照や空白を整理
@@ -89,6 +109,8 @@ function parseItems(xml) {
       const lm = body.match(/<link[^>]+href=["']([^"']+)["']/i);
       if (lm) link = lm[1];
     }
+    // 文字参照を戻す。それでもURLとして不正なら guid / id（記事の固定URL）で代替
+    link = cleanUrl(link) || cleanUrl(pick('guid')) || cleanUrl(pick('id'));
     items.push({
       title: pick('title'),
       link,
