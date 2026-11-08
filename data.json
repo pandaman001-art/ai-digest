@@ -1,7 +1,119 @@
 {
-  "updatedAt": "2026-11-07T01:44:52.915Z",
-  "count": 70,
+  "updatedAt": "2026-11-08T01:14:27.893Z",
+  "count": 69,
   "articles": [
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+      "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+      "dateStr": "2026-11-07",
+      "ts": 1794092400000,
+      "summaryOrig": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+      "summary": "AIエージェントの一般化に伴い、複数のAIエージェントを連携させるマルチエージェントシステムが注目されています。GitHub、Google、Siemensが紹介した15のデザインパターンを、設計上の課題や具体的な活用場面とともに解説します。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "title": "中間選挙の後、イーロン・マスクとデータセンターの状況は不安定になっています",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "dateStr": "2026-11-07",
+      "ts": 1794089242000,
+      "summaryOrig": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "summary": "Equityでは、中期選考がハイテク業界にとってどのような意味を持つかを解説しました。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "title": "米国の諜報機関メモによると、Megaspeedの幹部はNVIDIAのCEOをスパイするために採用された",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "dateStr": "2026-11-07",
+      "ts": 1794086228000,
+      "summaryOrig": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "summary": "今年初めに流布されたメモによると、中国の国家安全保障省は、NvidiaのCEOをスパイするために女性の技術幹部を採用したと伝えられている。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "title": "NYT CookingのAIアシスタントが私の平日の夜の鶏肉を救ってくれましたが、ほとんど私のケーキを台無しにしてしまいました",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "dateStr": "2026-11-07",
+      "ts": 1794066600000,
+      "summaryOrig": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins. Recently, my best […]",
+      "summary": "毎週平日の夜7時頃、私は冷蔵庫の前に立って、夕食のために夫が文句を言わないような何かを決めようとしています。「またチキン？「ええ、私はもっと食事の計画を立てるべきですが、そうではありませんので、ここが私の居場所です。通常、ニワトリが勝つ夜の戦い。最近、私のベスト[…]",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "The US let Nvidia sell chips to an empty office in China",
+      "title": "米国は、NVIDIAが中国の空のオフィスにチップを販売することを許可しました",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "dateStr": "2026-11-07",
+      "ts": 1794066225000,
+      "summaryOrig": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
+      "summary": "商務省もNVIDIAも、同社のH 200 AIチップを扱うために認可された中国企業を審査する際に、デューデリジェンスを行っていないという懸念が提起されている。ニューヨーク・タイムズによると、New Matrixは承認された企業のリストに載っていますが、そのオフィスは空っぽで、「中空のグレーのシェル[…]",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "AI broke the cybersecurity world. What’s next?",
+      "title": "AIはサイバーセキュリティの世界を壊しました。今後の流れは？",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "dateStr": "2026-11-07",
+      "ts": 1794063600000,
+      "summaryOrig": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+      "summary": "今日は、Cognitionの最高セキュリティ責任者であり、サイバーセキュリティの長年の専門家であるAlex Stamosと、サイバーセキュリティが今どのように混乱しているかについて話しています。このエピソードは、実生活におけるAIに着目した特別なシリーズの1つです。私はいつもアレックスと話すのを楽しんでいます。彼はとても率直で、あなたは彼が言うのを聞くでしょう[…]",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "title": "なぜAnthropic自動化AI開発に関する新しいレポートが研究者を驚かせるのか",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "dateStr": "2026-11-07",
+      "ts": 1794054600000,
+      "summaryOrig": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+      "summary": "Anthropicは、AIを使用してより強力なAIを構築しています。また、同社のモデルは1年前の約2倍の速さで改善しており、減速の兆候はほとんどないため、非常にうまく機能しているようだ。これは、AI安全研究機関METRが11週間の調査を経て、木曜日に発表した新しいレポートによると[…]",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "【本日みつけたお買い得品】何と約9万2千円引き！RTX 5070搭載ゲーミングノートが超お買い得に",
+      "title": "【本日みつけたお買い得品】何と約9万2千円引き！RTX 5070搭載ゲーミングノートが超お買い得に",
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2154556.html",
+      "dateStr": "2026-11-07",
+      "ts": 1794020554000,
+      "summaryOrig": "Amazonにおいて、16型ゲーミングノートPCのAcer「Predator Helios Neo 16S AI」が直近価格から9万1,960円引きで、36万7,840円にて購入できる。",
+      "summary": "Amazonにおいて、16型ゲーミングノートPCのAcer「Predator Helios Neo 16S AI」が直近価格から9万1,960円引きで、36万7,840円にて購入できる。",
+      "translated": true
+    },
     {
       "cat": "ai-global",
       "label": "海外AI",
@@ -28,6 +140,20 @@
       "ts": 1794011981000,
       "summaryOrig": "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。",
       "summary": "Amazonは11月4日から12日にかけて、スマイルSaleを実施している。14型ノートPCのAcer「Swift Go 14 AI」は、直近価格から6万5,980円引きで、19万3,820円にて購入可能だ。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "title": "ライバルのAnthropicがIPOに近づくにつれて、OpenAIは1.25兆$で評価されました",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "dateStr": "2026-11-06",
+      "ts": 1794008778000,
+      "summaryOrig": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+      "summary": "ブルームバーグによると、OpenAIは現在、新たな資金調達ラウンドで1.25兆$で評価されており、さらに110億$を調達している。それは、3月に投資家から1,220億ドルを調達した直後に、世界で最も価値のある企業の1つとなり、$ 8,520億ドルの評価額で投資家から$ 1,220億ドルを調達しました。FTとウォールストリートジャーナルの反響[…]",
       "translated": true
     },
     {
@@ -209,7 +335,7 @@
       "dateStr": "2026-11-06",
       "ts": 1793984400000,
       "summaryOrig": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the 25-year-old analyst downloaded Hinge and started swiping, she noticed a trend. \"Hinge has a prompt where […]",
+      "summary": "昨年サンフランシスコに引っ越したIreneさんは、新しい人と出会い、新しい街を知り、自分のしていることを気にかけている人とつながるために、出会い系アプリを使い始めました。25歳のアナリストがHingeをダウンロードしてスワイプし始めた後、彼女は傾向に気づきました。「ヒンジにはプロンプトがあり、[…]",
       "translated": true
     },
     {
@@ -218,27 +344,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Big Tech lost big in the 2026 election",
-      "title": "Big Tech lost big in the 2026 election",
+      "title": "ビッグテックは2026年の選挙で大きな敗北を喫した",
       "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
       "dateStr": "2026-11-06",
       "ts": 1793983082000,
       "summaryOrig": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
-      "summary": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David […]",
-      "translated": false
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "How Akai and Moog are embracing vibe-coded mods",
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "dateStr": "2026-11-06",
-      "ts": 1793982879000,
-      "summaryOrig": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
-      "summary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can […]",
-      "translated": false
+      "summary": "火曜日、何百万人ものアメリカ人有権者が投票に行き、圧倒的多数で民主党に投票し、AIに反対した。ビッグテックとの戦いが復活しようとしており、データセンターをめぐる戦いは、それらを構築しようとする人々にとってさらに困難に見えています。The Vergecastのこのエピソードでは、NilayとDavid […]",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -246,13 +358,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "title": "ランプデータは、AnthropicがIPOに近づくにつれてAI支出が失速していることを示しています",
       "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "dateStr": "2026-11-06",
       "ts": 1793980487000,
       "summaryOrig": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
-      "translated": false
+      "summary": "AIの利用は増え続けていますが、支出は停滞しています。最大の支出者の間での価格引き下げとよりスマートなコスト管理は、AIの高成長に関する投資家の仮定に挑戦する可能性があります。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -260,27 +372,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "title": "Museをブロックした後、Amazonはユーザーが買い物をするのを助けるためにAlexaにテキストメッセージを送ることができるようになりました",
       "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
       "dateStr": "2026-11-06",
       "ts": 1793974200000,
       "summaryOrig": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "translated": false
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Amazon will let you text Alexa your shopping list",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "dateStr": "2026-11-06",
-      "ts": 1793973600000,
-      "summaryOrig": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and […]",
-      "translated": false
+      "summary": "Amazonは、この機能は今後数週間で数百万人のユーザーに展開されると述べた。",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -302,13 +400,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Underdog shows off a 32MB speech model in new demo",
-      "title": "Underdog shows off a 32MB speech model in new demo",
+      "title": "Underdogが新しいデモで32 MBの音声モデルを披露",
       "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
       "dateStr": "2026-11-06",
       "ts": 1793970136000,
       "summaryOrig": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "summary": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "translated": false
+      "summary": "その小さなサイズにもかかわらず、Underdogの新しいモデルは音声と音楽の両方を生成することができます。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -316,27 +414,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Physicl raises $10M to make the digital world real enough for robots",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "title": "Physiclが1000万$を調達し、ロボットに十分なデジタルワールドを実現",
       "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
       "dateStr": "2026-11-06",
       "ts": 1793970000000,
       "summaryOrig": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "translated": false
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Protesters break into Microsoft data center site in Amsterdam",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "dateStr": "2026-11-06",
-      "ts": 1793966119000,
-      "summaryOrig": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
-      "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people made it into the construction site, with some […]",
-      "translated": false
+      "summary": "Physiclは、もともとオンラインで商品を販売するために構築されたパイプラインで、シムとリアルのギャップを解決しようとしています。",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -358,13 +442,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "title": "私はヒューマノイドロボットが私のアパートを掃除するのを見ました。未来を味わうような感覚だった。",
       "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "dateStr": "2026-11-06",
       "ts": 1793959200000,
       "summaryOrig": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-      "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…",
-      "translated": false
+      "summary": "私は通常、家の掃除代を払うような人ではありません。私はあまりにも節約的で、ポッドキャストをつけたり、マジックイレーサーを使ってバスタブで町に行くのが好きです。しかし、サンフランシスコで新しいヒューマノイドロボットクリーニングサービスに関するXの投稿を見たとき、私はすぐに署名しました...",
+      "translated": true
     },
     {
       "cat": "ai-japan",
@@ -435,20 +519,6 @@
       "summaryOrig": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
       "summary": "WOGOは、機械設計における図面や3D CAD作業を自律実行する「Hacadly AIエージェント」の提供を開始した。大規模言語モデルと独自の図面／3D形状処理技術を組み合わせ、2D図面からの3Dモデル生成や、履歴のないCADデータからのフィーチャー再構築などを支援する。",
       "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "dateStr": "2026-11-06",
-      "ts": 1793946512000,
-      "summaryOrig": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "summary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "translated": false
     },
     {
       "cat": "ai-japan",
@@ -647,34 +717,6 @@
       "translated": true
     },
     {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "OpenAI is stepping back from NDAs for data center projects",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "dateStr": "2026-11-06",
-      "ts": 1793925476000,
-      "summaryOrig": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data center projects have come under scrutiny for relying on NDAs to hide discussions […]",
-      "translated": false
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Airbnb is working on an AI travel agent",
-      "title": "Airbnb is working on an AI travel agent",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "dateStr": "2026-11-06",
-      "ts": 1793923572000,
-      "summaryOrig": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But […]",
-      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointment,\" Airbnb said. \"But […]",
-      "translated": false
-    },
-    {
       "cat": "ai-japan",
       "label": "国内AI",
       "lang": "ja",
@@ -703,73 +745,17 @@
       "translated": true
     },
     {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "dateStr": "2026-11-05",
-      "ts": 1793922568000,
-      "summaryOrig": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "translated": true
-    },
-    {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
-      "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+      "title": "ハッカーがLinuxデバイスにSSHできる脆弱性である* ssholeをご紹介します",
       "link": "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
       "dateStr": "2026-11-05",
       "ts": 1793920176000,
       "summaryOrig": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "summary": "Certain configurations of Alpine are affected. Other distros may be as well.",
-      "translated": false
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "dateStr": "2026-11-05",
-      "ts": 1793918455000,
-      "summaryOrig": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "translated": false
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない",
-      "title": "「あの件」で話が通じるAI秘書。ChatGPT「dots」の本質は常時稼働ではない",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/feature/2154157.html",
-      "dateStr": "2026-11-05",
-      "ts": 1793913900000,
-      "summaryOrig": "2026年9月末、ChatGPTに「dots」という新機能が追加された。有料版のしかも「Pro」プラン以上での提供のため、利用のハードルは高いが、使ってみるとこれがとても優秀だ。",
-      "summary": "2026年9月末、ChatGPTに「dots」という新機能が追加された。有料版のしかも「Pro」プラン以上での提供のため、利用のハードルは高いが、使ってみるとこれがとても優秀だ。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "MSI、Ryzen 9 9955HX3DとRTX 5090/5080搭載の18型ゲーミングノート",
-      "title": "MSI、Ryzen 9 9955HX3DとRTX 5090/5080搭載の18型ゲーミングノート",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2154163.html",
-      "dateStr": "2026-11-05",
-      "ts": 1793913120000,
-      "summaryOrig": "MSIは、既存の「Raider A18 HX A9W」シリーズにRyzen 9 9955HX3DとGeForce RTX 5090 Laptop GPUを搭載した「Raider-A18-HX-A9WJG-0163JP」、GeForce RTX 5080 Laptop GPU搭載の「Raider-A18-HX-A9WIG-0173JP」を11月12日に発売する。価格はともにオープンプライス。",
-      "summary": "MSIは、既存の「Raider A18 HX A9W」シリーズにRyzen 9 9955HX3DとGeForce RTX 5090 Laptop GPUを搭載した「Raider-A18-HX-A9WJG-0163JP」、GeForce RTX 5080 Laptop GPU搭載の「Raider-A18-HX-A9WIG-0173JP」を11月12日に発売する。価格はともにオープンプライス。",
+      "summary": "Alpineの特定の構成が影響を受けます。他のディストリビューションも同様かもしれません。",
       "translated": true
     },
     {
@@ -778,13 +764,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Hackers exploited iOS and Android flaws to infect phones",
-      "title": "Hackers exploited iOS and Android flaws to infect phones",
+      "title": "ハッカーはiOSとAndroidの欠陥を悪用して携帯電話を感染させました",
       "link": "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
       "dateStr": "2026-11-04",
       "ts": 1793831209000,
       "summaryOrig": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "summary": "Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.",
-      "translated": false
+      "summary": "研究者によると、このグループは外交的な標的を探すためにクレムリンに後援された可能性があるという。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -792,13 +778,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "VMware releases vSphere Express for virtualization on up to 128 cores",
-      "title": "VMware releases vSphere Express for virtualization on up to 128 cores",
+      "title": "VMware、最大128コアの仮想化用vSphere Expressをリリース",
       "link": "https://arstechnica.com/information-technology/2026/11/vmware-releases-vsphere-express-for-virtualization-on-up-to-128-cores/",
       "dateStr": "2026-11-04",
       "ts": 1793828329000,
       "summaryOrig": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-      "summary": "“We started listening to a lot of our lower-end customers,\" VMware exec says.",
-      "translated": false
+      "summary": "「私たちは多くのローエンドの顧客の声に耳を傾け始めました」とヴイエムウェアの幹部は言います。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -806,13 +792,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
-      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "title": "テキサス州は、AIデータセンター構築の新しい震源地でした。それはおかしいかもしれませんね。",
       "link": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "dateStr": "2026-11-04",
       "ts": 1793818255000,
       "summaryOrig": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-      "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent,…",
-      "translated": false
+      "summary": "テキサス州は、米国で最も急速に成長しているデータセンター市場であり、ビッグテックの最大のAI構築のためのグラウンドゼロです。しかし、ローンスター状態を席巻した青い波がその位置を危険にさらす可能性があります。民主党のジェームズ・タラリコ（ James Talarico ）氏がケン・パクストン（ Ken Paxton ）氏に対抗して米国上院議席を獲得した。ジーナ・ヒノホサは、共和党の現職の知事との競争に勝利しました。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -820,13 +806,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Binance says hackers who stole billions in crypto spent months planning heist",
-      "title": "Binance says hackers who stole billions in crypto spent months planning heist",
+      "title": "バイナンスは、暗号で数十億ドルを盗んだハッカーが強盗を計画するために数ヶ月を費やしたと言います",
       "link": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/",
       "dateStr": "2026-11-04",
       "ts": 1793808363000,
       "summaryOrig": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "summary": "Techniques included laptop infections, compromised internal tooling, and fake job interviews.",
-      "translated": false
+      "summary": "技術には、ノートパソコンの感染、内部ツールの侵害、偽の就職面接などが含まれていました。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -834,13 +820,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Securing the agentic enterprise with data lineage",
-      "title": "Securing the agentic enterprise with data lineage",
+      "title": "データリネージでエージェント企業を守る",
       "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "dateStr": "2026-11-04",
       "ts": 1793797200000,
       "summaryOrig": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s…",
-      "translated": false
+      "summary": "営業担当者がAIエージェントに顧客価格を尋ねると、エージェントは複数のソースからデータを取得します。制限付き価格システム、社内コミュニケーション、アーカイブされた見積もりなどです。エージェントには出力が正確に見えるため、別のエージェントがデータを使用してセールス担当者の提案を下書きします。どちらのハンドオフも人間がチェックすることはありません。次の場合…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -848,13 +834,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-      "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+      "title": "UEFIブートキットが完全にパッチ適用されたWindowsマシンに感染しました。マイクロソフトのせいですか？",
       "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
       "dateStr": "2026-11-03",
       "ts": 1793721793000,
       "summaryOrig": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "summary": "UEFI bootkit BlackX exploits Microsoft's lack of clarity around Secure Boot protections.",
-      "translated": false
+      "summary": "UEFIブートキットBlackXは、セキュアブート保護に関するマイクロソフトの不明確さを悪用します。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -862,13 +848,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "How “reverse game theory” could keep AI agents in check",
-      "title": "How “reverse game theory” could keep AI agents in check",
+      "title": "「リバースゲーム理論」がAIエージェントを抑制する方法",
       "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "dateStr": "2026-11-03",
       "ts": 1793702621000,
       "summaryOrig": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-      "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law,…",
-      "translated": false
+      "summary": "「リバースゲーム理論」として知られる新しいアプローチは、強力なAIモデルを制御することを目的としています。ルールに固執するようにインセンティブを与えるシステムを設計します。AIモデルの能力が向上するにつれて、安全性の研究者は、人間の欲求と「一致」していることを確認するために慌てています。言い換えれば、不正なエージェントが法律を犯さないようにするためです。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -876,13 +862,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "title": "トランプ氏の「スーパーインテリジェンス」ロイヤリティテストの順番に並んでいるのは誰か",
       "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "dateStr": "2026-11-03",
       "ts": 1793679527000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That…",
-      "translated": false
+      "summary": "このストーリーは、もともとAIに関する毎週のニュースレターであるThe Algorithmに掲載されました。このようなストーリーを受信トレイで受け取るには、まずこちらから登録してください。9月末、トランプ大統領は1つの指令のみを含む大統領令に署名し、政府機関に人工知能と呼ばれていたものを「スーパーインテリジェンス」としてブランド変更するよう命じました。それは...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -890,13 +876,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Raising the quality of insights in agentic analytics",
-      "title": "Raising the quality of insights in agentic analytics",
+      "title": "エージェント分析における洞察の質の向上",
       "link": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
       "dateStr": "2026-11-02",
       "ts": 1793638800000,
       "summaryOrig": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate…",
-      "translated": false
+      "summary": "わずか数年で、ジェネレーティブAIは、特に組織全体のユーザーが分析にアクセスできるようにすることで、エンタープライズ分析の顔を変えました。Agentic AIは、ワークフロー全体を自動化し、エージェントのインサイトに基づいてアクションを実行することで、さらに多くのことを行うことを約束します。しかし、問題があります。エージェントが現在生成している洞察の質…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -904,13 +890,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Stop counting tokens, start counting what ships",
-      "title": "Stop counting tokens, start counting what ships",
+      "title": "トークンの数を数えるのをやめて、何の船か数え始めましょう",
       "link": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
       "dateStr": "2026-11-02",
       "ts": 1793625032000,
       "summaryOrig": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls…",
-      "translated": false
+      "summary": "開発者がAIエージェントにコーディングタスクを与えると、エージェントは複数の回答を1回行います。エラーを修正するために、計画、コードの生成、テストの実行、およびプロセスの繰り返しを行います。1つのタスクでは、基本的なチャットプロンプトよりも10〜50倍多くのトークンを使用できます。エージェントが役に立つほど、より多くの電話がかかってきます…",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -918,13 +904,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The agentic web is here",
-      "title": "The agentic web is here",
+      "title": "エージェントのウェブが登場",
       "link": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
       "dateStr": "2026-11-02",
       "ts": 1793612119000,
       "summaryOrig": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous software agents that could address our every…",
-      "translated": false
+      "summary": "2001年、ワールドワイドウェブを発明してから10年後、ティム・バーナーズ＝リーは新しいビジョンを明確にしました。2人の同僚と一緒に、彼は雑誌サイエンティフィックアメリカンに記事を発表し、彼が「セマンティックウェブ」と呼ぶものの概要を説明しました。それは、私たちのあらゆることに対処できる自律的なソフトウェアエージェントによってナビゲートされるように設計されたインターネットです。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -932,13 +918,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "title": "12時間近くバックドアされたカーソルのAnthropic VSコード拡張",
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "dateStr": "2026-10-30",
       "ts": 1793394594000,
       "summaryOrig": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "translated": false
+      "summary": "攻撃者がAnthropicの検証済みCursorアカウントにどのようにアクセスしたかはまだ不明です。",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -946,13 +932,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "We urgently need to monitor AI agents’ actions in real time",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "title": "AIエージェントの行動をリアルタイムでモニタリングする必要があります",
       "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "dateStr": "2026-10-29",
       "ts": 1793268672000,
       "summaryOrig": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "summary": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem…",
-      "translated": false
+      "summary": "この夏、何百人ものOpenAIエージェントがサイバーセキュリティテストで不正行為を試みました。彼らはテスト環境から脱出し、自分たちがどのように採点されるかについての手がかりを持っていると信じていたHugging Faceをハッキングすることに成功しました。同じ頃、別のOpenAIエージェントがオーストラリア政府のウェブサイトからプライベートファイルにアクセスしました。問題が発生しています...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -960,13 +946,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Creating AI value with enterprise context",
-      "title": "Creating AI value with enterprise context",
+      "title": "エンタープライズコンテキストでAIの価値を創造する",
       "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
       "dateStr": "2026-10-28",
       "ts": 1793219522000,
       "summaryOrig": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a…",
-      "translated": false
+      "summary": "ビジネス全体で、AIを活用した顧客プラットフォーム、会話アシスタント、ワークフローおよびプロセス自動化ツールなど、任意の数のAIプラットフォーム、システム、およびツールが同時に機能している可能性があります。それぞれが洗練され、高度で、迅速に対応します。しかし、機能するように設定すると、出現する結果と行動が間違っている、混乱している、または欠けている可能性があります...",
+      "translated": true
     },
     {
       "cat": "ai-global",
@@ -974,13 +960,13 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "title": "UEFIファームウェアのコード実行の欠陥は、地球上のほとんどのサーバーに影響します",
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "dateStr": "2026-10-27",
       "ts": 1793132755000,
       "summaryOrig": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-      "summary": "Critical flaw in EDK2 allows attackers to execute code early in the boot process.",
-      "translated": false
+      "summary": "EDK 2の重大な欠陥により、攻撃者はブートプロセスの早い段階でコードを実行できます。",
+      "translated": true
     }
   ]
 }
