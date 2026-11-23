@@ -1,7 +1,189 @@
 {
-  "updatedAt": "2026-11-22T02:01:22.144Z",
-  "count": 67,
+  "updatedAt": "2026-11-23T02:26:45.640Z",
+  "count": 66,
   "articles": [
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "title": "Notable Capital、GIC、Baillie GiffordがIPO前にAnthropicに多額の投資を行った経緯",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "dateStr": "2026-11-23",
+      "ts": 1795397153000,
+      "summaryOrig": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "summary": "3人の主要な出資者が、Anthropicに数十億ドルを賭ける決断を下した理由を語ります。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+      "title": "Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める",
+      "link": "https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/",
+      "dateStr": "2026-11-23",
+      "ts": 1795395600000,
+      "summaryOrig": "ニューヨーク市議会では、配送業務の委託を阻止する「配送保護法」が審議中です。これはAmazonの配送サービスパートナー(DSP)プログラムを解体するためのものであるとして、Amazonは同法案に反対の立場を示しています。新たに、Amazonは配送保護法に反対するために、配送物に「ニューヨーク市議会は注文ごとに最大5ドル(約790円)の追加料金を課す可能性があります」というラベルを貼り始めた事が明らかになりました。 続きを読む...",
+      "summary": "ニューヨーク市議会では、配送業務の委託を阻止する「配送保護法」が審議中です。これはAmazonの配送サービスパートナー(DSP)プログラムを解体するためのものであるとして、Amazonは同法案に反対の立場を示しています。新たに、Amazonは配送保護法に反対するために、配送物に「ニューヨーク市議会は注文ごとに最大5ドル(約790円)の追加料金を課す可能性があります」というラベルを貼り始めた事が明らかになりました。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "title": "世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？",
+      "link": "https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/",
+      "dateStr": "2026-11-23",
+      "ts": 1795392000000,
+      "summaryOrig": "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 続きを読む...",
+      "summary": "人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指しています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」",
+      "link": "https://www.itmedia.co.jp/news/article/2611/23/2000003394/",
+      "dateStr": "2026-11-22",
+      "ts": 1795387758000,
+      "summaryOrig": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "summary": "OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "We haven’t seen the last of the major tech outages",
+      "title": "大規模な技術的障害は今後も発生するでしょう",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "dateStr": "2026-11-22",
+      "ts": 1795387682000,
+      "summaryOrig": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of National Intelligence Jay Clayton told CNN: \"The American people should be […]",
+      "summary": "この1週間ほどで、全米規模のFAAによる地上停止、企業全体を停滞させた数日間にわたるOutlookの障害、そしてJPMorgan Chaseでの銀行業務の障害が発生しました。しかし、今後さらにこのような事態が発生するだろうという見方が一般的です。国家情報長官のジェイ・クレイトン氏はCNNに対し次のように述べました。「アメリカ国民は […]",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "title": "OpenAIのチーフサイエンティストが、AI開発を制限する方法について見解を述べる",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "dateStr": "2026-11-22",
+      "ts": 1795382047000,
+      "summaryOrig": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "summary": "AI開発の速度制限を設定するには、速度の測定方法について合意する必要があります。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "title": "メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃",
+      "link": "https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/",
+      "dateStr": "2026-11-22",
+      "ts": 1795381200000,
+      "summaryOrig": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+      "summary": "メルカリグループが業務で利用する「Notion AI」で、チャット記録の一部が外部に流出した可能性があることが公表された。AI処理を委託企業では、外部クラウド事業者への侵害や認証情報の窃取、サービスの脆弱性を悪用した不正アクセスが確認された。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Why data centers are at the center of the Big Tech backlash",
+      "title": "データセンターがビッグテックに対する反発の中心にある理由",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "dateStr": "2026-11-22",
+      "ts": 1795370923000,
+      "summaryOrig": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "summary": "ジャーナリストのパリス・マルクス氏が、新著『Hyperscale』について語ります。",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "title": "The Binding of Isaacの開発者がRepentance PlusからAI音楽を削除",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "dateStr": "2026-11-22",
+      "ts": 1795368320000,
+      "summaryOrig": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto-themed section. They found several audio files with Suno metadata that pointed back to […]",
+      "summary": "『The Binding of Isaac: Repentance Plus』は、ゲームのあるセグメントでAI音楽が使用されていることが判明して以来、ここ数日間Steamでレビュー爆撃を受けています。RedditユーザーのShweetsStuffさんが、『グランド・セフト・オート』をテーマにしたセクションで使用されている楽曲を発見しました。Sunoのメタデータを含む複数の音声ファイルが見つかり、それらは […] を指していました。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+      "title": "中国ではAIリテラシー向上を目指して学校でAIに焦点を当てたカリキュラムや主要教科におけるAI生成型の授業を採用している",
+      "link": "https://gigazine.net/news/20261122-chinas-ai-native/",
+      "dateStr": "2026-11-22",
+      "ts": 1795355100000,
+      "summaryOrig": "中国はアメリカに対抗するため、AI人材育成パイプラインの構築に力を入れています。半数の省および地方自治体にAI教育に関する義務が課せられていますが、AIリテラシーを測定するための標準的な枠組みは確立されておらず、学校に評価が任せられている不安定さも指摘されています。 続きを読む...",
+      "summary": "中国はアメリカに対抗するため、AI人材育成パイプラインの構築に力を入れています。半数の省および地方自治体にAI教育に関する義務が課せられていますが、AIリテラシーを測定するための標準的な枠組みは確立されておらず、学校に評価が任せられている不安定さも指摘されています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "The vibe-coding revolution is coming to all the gadgets",
+      "title": "バイブコーディング革命がすべてのガジェットにやってくる",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "dateStr": "2026-11-22",
+      "ts": 1795352400000,
+      "summaryOrig": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Like so many things with AI, it's not […]",
+      "summary": "こちらはThe Stepbackです。テクノロジーの世界における重要なニュースを1つ取り上げて解説する週刊ニュースレターです。あらゆるもののバイブハッキングについて詳しくは、David Pierceをフォローしてください。The Stepbackは、日曜日の午前8時（東部標準時）に購読者の受信トレイに届きます。The Stepbackの購読登録はこちらから。始まり方AIに関する多くのことと同様に、それは […]",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "title": "AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？",
+      "link": "https://gigazine.net/news/20261122-ai-will-not-make-you-rich/",
+      "dateStr": "2026-11-22",
+      "ts": 1795327200000,
+      "summaryOrig": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 続きを読む...",
+      "summary": "生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
+      "title": "Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中",
+      "link": "https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/",
+      "dateStr": "2026-11-22",
+      "ts": 1795312800000,
+      "summaryOrig": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検査に成功しています。リーマン予想には100万ドル(約1億5800万円)の懸賞金が設定されていますが、記事作成時点では今回の証明はまだ正式に認められておらず、今後も専門家による評価が必要となります。 続きを読む...",
+      "summary": "AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検査に成功しています。リーマン予想には100万ドル(約1億5800万円)の懸賞金が設定されていますが、記事作成時点では今回の証明はまだ正式に認められておらず、今後も専門家による評価が必要となります。 続きを読む...",
+      "translated": true
+    },
     {
       "cat": "ai-japan",
       "label": "国内AI",
@@ -36,7 +218,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "title": "Signalがモバイルのスクリーンショットを制限。AIによる監視という「存続の危機」に直面",
+      "title": "Signalがモバイルのスクリーンショットを制限。AIによる監視という「存続の危機」に立ち向かう",
       "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
       "dateStr": "2026-11-21",
       "ts": 1795297030000,
@@ -78,12 +260,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The UN fails to agree on rules regulating ‘killer robots’",
-      "title": "国連は「殺人ロボット」を規制する規則について合意に達することができない",
+      "title": "国連は「殺人ロボット」を規制する規則について合意に至らず",
       "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
       "dateStr": "2026-11-21",
       "ts": 1795291417000,
       "summaryOrig": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiations. According to NPR: Before the negotiations got underway, the […]",
-      "summary": "今週ジュネーブで開催された国連外交官会議のアジェンダの1つは、自律型兵器、いわゆる「殺人ロボット」の使用に関する規則の策定に向けた取り組みでした。最終的に、代表団はほぼ実りのない1週間の交渉の後、「選択肢の議論を開始すること」に合意して会議を終えました。NPRによると、交渉が始まる前、[…]",
+      "summary": "今週ジュネーブで開催された国連外交官会議の議題の一つは、自律型兵器、いわゆる「殺人ロボット」の使用に関する規則の策定に向けた取り組みでした。最終的に、代表団はほぼ実りのない1週間の交渉の後、「選択肢の議論を開始すること」に合意して会議を終えました。NPRによると、交渉が始まる前、[…]",
       "translated": true
     },
     {
@@ -97,7 +279,7 @@
       "dateStr": "2026-11-21",
       "ts": 1795280400000,
       "summaryOrig": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "summary": "一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で利用できる最も注目すべきAIエージェントのリストを作成しました。",
+      "summary": "一般的なアシスタントから、家族、旅行、仕事向けに設計されたエージェントまで、テキストメッセージ内で使用できる最も注目すべきAIエージェントのリストを作成しました。",
       "translated": true
     },
     {
@@ -106,12 +288,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-      "title": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることが、ハリウッドの未来なのでしょうか？",
+      "title": "このマイクロドラマのスタートアップ企業に自分の顔のAIバージョンを売ることは、ハリウッドの未来なのでしょうか？",
       "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
       "dateStr": "2026-11-21",
       "ts": 1795276800000,
       "summaryOrig": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "summary": "ある俳優が、マイクロドラマのスタートアップ企業に自分の顔の使用を許諾しました。これはすでに中国で人気となっているトレンドです。専門家は、これがハリウッドでもトレンドとなった場合の長期的な影響を懸念しています。",
+      "summary": "ある俳優が、マイクロドラマのスタートアップ企業に自分の顔の使用を許諾しました。これはすでに中国で人気の傾向となっています。専門家は、これがハリウッドでもトレンドになった場合の長期的な影響を懸念しています。",
       "translated": true
     },
     {
@@ -125,7 +307,7 @@
       "dateStr": "2026-11-21",
       "ts": 1795273200000,
       "summaryOrig": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to […]",
-      "summary": "今日は、The VergeのシニアAIレポーターであるHayden Fieldさんと、AnthropicのIPOについてお話しします。これは、AIの現実における活用に関するシリーズの第3回目であり、最終回となります。Claudeの開発元であるAIラボは、先週木曜日にナスダックに上場しました。その数字は莫大なものですが、この会話においてはそれほど重要ではありません。ただし […]",
+      "summary": "今日は、The VergeのシニアAIレポーターであるHayden Fieldさんと、AnthropicのIPOについてお話しします。これは、AIの現実における活用に関するシリーズの第3回目であり、最終回となります。Claudeの開発元であるAIラボは、先週木曜日にナスダックに上場しました。数字は莫大ですが、この会話においてはそれほど重要ではありません。ただし […]",
       "translated": true
     },
     {
@@ -223,7 +405,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795208348000,
       "summaryOrig": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "summary": "一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されています。",
+      "summary": "一意で追跡可能なシークレットを含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されます。",
       "translated": true
     },
     {
@@ -265,7 +447,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795200619000,
       "summaryOrig": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our companies to build data centers outside of our country,\" Trump said at a […]",
-      "summary": "ドナルド・トランプ大統領は、米国国外にデータセンターを建設する企業に「莫大な税金」を課すと約束した。これは、全米の州や都市がデータセンター建設の新規申請に制限を課している最中のことである。「我が国の企業が、国外にデータセンターを建設することを許すつもりはありません」とトランプ氏は […] で述べた。",
+      "summary": "ドナルド・トランプ大統領は、米国国外にデータセンターを建設する企業に「莫大な税金」を課すと約束しました。これは、全米の州や都市がデータセンター建設の新規申請に制限を課している最中のことです。「我が国の企業が国外にデータセンターを建設することを許すつもりはない」とトランプ氏は […] で述べた。",
       "translated": true
     },
     {
@@ -279,7 +461,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795198515000,
       "summaryOrig": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
-      "summary": "AI評価を行う非営利団体METRの新しいレポートによると、一部のAI機能は指数関数的な軌道に沿って改善を続けていますが、モデルはコーディングが得意な一方で、判断力を必要とするタスクにはそれほど得意ではないことも示されています。このレポートは、同組織の時間軸プロットの更新版であり、広く…",
+      "summary": "AI評価を行う非営利団体METRの新しいレポートによると、一部のAI機能は指数関数的な軌道に沿って改善を続けていますが、モデルはコーディングが得意な一方で、判断を要するタスクにはそれほど得意ではないことも示されています。このレポートは、同組織の時間軸プロットの更新版であり、広く…",
       "translated": true
     },
     {
@@ -293,7 +475,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795196401000,
       "summaryOrig": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "summary": "貸し手は、SpaceXが彼らの担保を軌道に打ち上げることを望んでいません。これは、宇宙データセンター全体にとって何を意味するのでしょうか？",
+      "summary": "貸し手は、SpaceXが担保を軌道に打ち上げることを望んでいません。これは、宇宙データセンター全体にとって何を意味するのでしょうか？",
       "translated": true
     },
     {
@@ -302,12 +484,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "title": "Anthropicの数学者が、Claudeを使って有名なミレニアム賞問題を解決したと主張",
+      "title": "Anthropicの数学者が、Claudeを使用して有名なミレニアム賞問題を解決したと主張",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
       "dateStr": "2026-11-20",
       "ts": 1795192453000,
       "summaryOrig": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval […]",
-      "summary": "Anthropicの数学者レヴェント・アルポゲ氏は、数学界で最も難解とされる問題のひとつであるリーマン予想を、Claudeの助けを借りて証明したと主張しています。これは、数十年にわたり世界有数の数学者たちをも悩ませてきた謎を解明したことになります。これが検証されれば、数学におけるAIのさらなる画期的な成果となり、 […]の変革に拍車をかけることになります。",
+      "summary": "Anthropicの数学者レヴェント・アルポーゲ氏は、数学において最も難解とされる問題のひとつであるリーマン予想を、Claudeの助けを借りて証明したと主張しています。これは、数十年にわたり世界有数の数学者たちをも悩ませてきた謎を解明したことになります。これが検証されれば、数学におけるAIのさらなる画期的な成果となり、 […]の変革に拍車をかけることになります。",
       "translated": true
     },
     {
@@ -321,7 +503,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795186544000,
       "summaryOrig": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue. At the same time, the chipmaker said it will stop selling its H200 chips in China, and it dismissed calls to […]",
-      "summary": "ジェンセン・ファンCEOの解任による余波への対応の最中、Nvidiaは今週最新の決算報告を発表しました。そこには健全な成長が見られ、好調な業績が続くという見通しが示されています。同時に、このチップメーカーは中国におけるH200チップの販売を停止すると発表し、[…]を求める声には応じませんでした。",
+      "summary": "ジェンセン・ファンCEOの解任による影響への対処の最中、Nvidiaは今週最新の決算報告を発表しました。健全な成長が見られ、好調な業績が続くという見通しが示されました。同時に、このチップメーカーは中国でのH200チップの販売を停止すると発表し、[…]を求める声には応じませんでした。",
       "translated": true
     },
     {
@@ -335,7 +517,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795183619000,
       "summaryOrig": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt like the technological world simply collapsed. And it felt like this might be the beginning of something even bigger. On […]",
-      "summary": "Outlookが数日間にわたって停止しました。25年間でわずか2回目となる全国的な地上停止。銀行が突然業務を停止したように見えました。iCloudでさえも稼働し続けることができませんでした。今週は、テクノロジーの世界がまさに崩壊したかのように感じられました。そして、これがさらに大きな何かの始まりかもしれないと感じました。 […]",
+      "summary": "Outlookが数日間にわたって停止しました。25年間でわずか2回目の全国的な地上停止。銀行が突然業務を停止したように見えました。iCloudでさえも稼働し続けることができませんでした。今週は、テクノロジーの世界がまさに崩壊したかのように感じられました。そして、これがさらに大きな何かの始まりかもしれないと感じました。 […]",
       "translated": true
     },
     {
@@ -344,7 +526,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Six AI-powered gadgets that could make your home office smarter",
-      "title": "ホームオフィスをよりスマートにするAI搭載ガジェット6選",
+      "title": "ホームオフィスをよりスマートにする可能性のある、AI搭載の6つのガジェット",
       "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
       "dateStr": "2026-11-20",
       "ts": 1795183200000,
@@ -363,7 +545,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795177847000,
       "summaryOrig": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Signal's ability to independently guarantee privacy,\" Signal president […]",
-      "summary": "Signalは、AIエージェントがユーザーのメッセージやその他のデータを読み取るのを防ぐため、AndroidおよびiOSデバイスでのスクリーンショットの撮影を制限しています。オペレーティングシステムに組み込まれたエージェント型AI機能は、画面上の情報を分析してユーザーに関する情報を収集しますが、これは「Signalがプライバシーを独自に保証する能力を損なっている」と、Signalの社長 […]",
+      "summary": "Signalは、AIエージェントがユーザーのメッセージやその他のデータを読み取るのを防ぐため、AndroidおよびiOSデバイスでのスクリーンショットの撮影を制限しています。オペレーティングシステムに組み込まれたエージェント型AI機能は、画面上の情報を分析してユーザーに関する情報を収集しますが、これは「Signalが独立してプライバシーを保証する能力を損なっている」と、Signalの社長 […]",
       "translated": true
     },
     {
@@ -413,20 +595,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
-      "title": "「Codexを用いてChatGPTの高速性を維持する方法」をOpenAIが解説、AIエージェントで工場システムを構築して自律的に改善作業を進める",
-      "link": "https://gigazine.net/news/20261120-openai-chatgpt-performance-factory/",
-      "dateStr": "2026-11-20",
-      "ts": 1795162140000,
-      "summaryOrig": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む...",
-      "summary": "OpenAIはChatGPTなどの自社製品の開発にCodexを活用しています。新たに「Codexを用いてChatGPTの高速性を維持する方法」という解説記事が公開されました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "Antigravityを他社AIから操作すると「垢BAN」？ 注意点をGoogle Cloud日本法人に聞いた",
       "title": "Antigravityを他社AIから操作すると「垢BAN」？ 注意点をGoogle Cloud日本法人に聞いた",
       "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
@@ -434,20 +602,6 @@
       "ts": 1795161875000,
       "summaryOrig": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
       "summary": "「Google Antigravity」を他社のAIツールを介して利用すると規約違反でアカウント停止の可能性があるとXなどで話題になっている。Google Cloud日本法人への取材や公開されている規約などを基に状況と対応を整理する。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的",
-      "title": "「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」試食レビュー、4種配合のスープが濃厚＆刺激的",
-      "link": "https://gigazine.net/news/20261120-nissin-mao-daimao-miso/",
-      "dateStr": "2026-11-20",
-      "ts": 1795161600000,
-      "summaryOrig": "日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」を2026年11月23日に発売します。12月3日発売のゲーム『ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。 続きを読む...",
-      "summary": "日清のカップ麺「ラ王」が「ドラゴンクエスト」とコラボした「日清マ王 大魔王味噌」を2026年11月23日に発売します。12月3日発売のゲーム『ドラゴンクエストモンスターズ4 枯れ木の国のビアンカ・フローラ』にちなんだ「4種配合」スープになっているとのことなので、発売に先駆けて編集部に届いた日清マ王 大魔王味噌を一足早く食べてみました。 続きを読む...",
       "translated": true
     },
     {
@@ -469,20 +623,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
-      "title": "Hermes Agentの開発企業がMicrosoftと提携して企業向けAIエージェント「Hermes Enterprise」を発表、Teamsから仕事を依頼可能に",
-      "link": "https://gigazine.net/news/20261120-nous-research-microsoft-hermes-enterprise/",
-      "dateStr": "2026-11-20",
-      "ts": 1795160100000,
-      "summaryOrig": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機能を備えています。 続きを読む...",
-      "summary": "オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年11月18日にMicrosoftとの提携を発表し、企業向け製品「Hermes Enterprise」を公開しました。Hermes EnterpriseはMicrosoft TeamsからAIに業務を依頼できるほか、AIが覚えた作業手順を社内で共有する機能を備えています。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "【本日みつけたお買い得品】AIスマートグラスのオマケつく。ACEMAGICブラックフライデーでミニPCセール中",
       "title": "【本日みつけたお買い得品】AIスマートグラスのオマケつく。ACEMAGICブラックフライデーでミニPCセール中",
       "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2158192.html",
@@ -490,48 +630,6 @@
       "ts": 1795159711000,
       "summaryOrig": "ACEMAGICは、直販サイトにおいて11月4日から12月8日までブラックフライデーセールを実施しているが、この中でミニPC 3機種に対して割引クーポンが付与されており、一部はAIスマートグラスがプレゼントされるなど、さらにお買い得となっている。",
       "summary": "ACEMAGICは、直販サイトにおいて11月4日から12月8日までブラックフライデーセールを実施しているが、この中でミニPC 3機種に対して割引クーポンが付与されており、一部はAIスマートグラスがプレゼントされるなど、さらにお買い得となっている。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立",
-      "title": "Ubisoftが「記憶を持ったNPC」や「AIゲームマスター」を開発する生成AIゲームスタジオ「Motherbrain」を設立",
-      "link": "https://gigazine.net/news/20261120-ubisoft-generative-ai-game-studio-motherbrain/",
-      "dateStr": "2026-11-20",
-      "ts": 1795158300000,
-      "summaryOrig": "アサシンクリードシリーズやレインボーシックスシリーズで知られるフランスに本社を置くゲーム会社・Ubisoftが、生成AIの実装に特化したゲームスタジオ「Motherbrain」を設立しました。 続きを読む...",
-      "summary": "アサシンクリードシリーズやレインボーシックスシリーズで知られるフランスに本社を置くゲーム会社・Ubisoftが、生成AIの実装に特化したゲームスタジオ「Motherbrain」を設立しました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
-      "title": "Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される",
-      "link": "https://gigazine.net/news/20261120-siri-recap-hands-on/",
-      "dateStr": "2026-11-20",
-      "ts": 1795155000000,
-      "summaryOrig": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。 続きを読む...",
-      "summary": "IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表",
-      "title": "欧州委員会がAIを用いたサイバー攻撃の標的になったことを発表",
-      "link": "https://gigazine.net/news/20261120-eu-commission-cyberattack/",
-      "dateStr": "2026-11-20",
-      "ts": 1795152600000,
-      "summaryOrig": "EUの行政執行機関である欧州委員会(EC)が、AIツールを使用したサイバー攻撃の標的になったことを、2026年11月19日に認めました。ECの報道官は「調査は進行中で、事件の規模を判断するのは難しい」と会見で述べています。 続きを読む...",
-      "summary": "EUの行政執行機関である欧州委員会(EC)が、AIツールを使用したサイバー攻撃の標的になったことを、2026年11月19日に認めました。ECの報道官は「調査は進行中で、事件の規模を判断するのは難しい」と会見で述べています。 続きを読む...",
       "translated": true
     },
     {
@@ -595,125 +693,13 @@
       "label": "海外AI",
       "lang": "en",
       "source": "海外AI",
-      "origTitle": "Apple may be developing its own AI agent that runs your Mac",
-      "title": "AppleがMacを動作させる独自のAIエージェントを開発中？",
-      "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
-      "dateStr": "2026-11-20",
-      "ts": 1795136161000,
-      "summaryOrig": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
-      "summary": "iPhoneメーカーは、Meta Muse、Instinct、Claude、OpenAI Dotsなどの競合他社に対抗できるエージェントを開発しているようです。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
-      "title": "ChatGPT「Plus」プラン一部ユーザーに「dots」解禁 「Business Standard」全ユーザーにも",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/20/2000003359/",
-      "dateStr": "2026-11-20",
-      "ts": 1795135618000,
-      "summaryOrig": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
-      "summary": "OpenAIは「ChatGPT」の「Plus」プランユーザーの一部向けに、同社の常時稼働型エージェント「dots」の提供を開始する。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す 東京ガス系が実践したノウハウ継承術",
-      "title": "ベテランPMが辞めても失いたくない「暗黙知」を“生成AI面談”で残す 東京ガス系が実践したノウハウ継承術",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/20/news021.html",
-      "dateStr": "2026-11-20",
-      "ts": 1795135500000,
-      "summaryOrig": "熟練者が退職した後も、プロジェクト管理の経験や判断基準を組織に残すにはどうすればよいのか。東京ガスｉネットが実践した、暗黙知を組織の資産に変える実践手法と、具体的なシステム構成を整理する。",
-      "summary": "熟練者が退職した後も、プロジェクト管理の経験や判断基準を組織に残すにはどうすればよいのか。東京ガスｉネットが実践した、暗黙知を組織の資産に変える実践手法と、具体的なシステム構成を整理する。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
-      "title": "Anthropicの7人の創業者、史上最高額のIPOで約20億ドルを現金化",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-      "dateStr": "2026-11-20",
-      "ts": 1795135430000,
-      "summaryOrig": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-      "summary": "IPO価格が1株あたり83ドルに引き上げられたことで、Anthropicの7人の創業者それぞれが2億8,000万ドルを手に入れ、同社は約1,050億ドルを獲得しました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Apple is hiring engineers to build its own AI agent",
-      "title": "Appleが独自のAIエージェントを構築するためにエンジニアを募集",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "dateStr": "2026-11-19",
-      "ts": 1795127501000,
-      "summaryOrig": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed job listing spotted by Bloomberg, which said Apple is looking for an engineer to lead the creation of an agentic AI […]",
-      "summary": "Appleは、ウェブの閲覧、アプリ間の作業、コードの記述、サービスの呼び出しなど、さまざまなタスクを代行できる独自のAIエージェントを開発中です。これは、Bloombergが発見した、現在削除されている求人情報によるものです。この情報によると、Appleはエージェント型AIの作成を率いるエンジニアを探しているとのことです […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "A brief history of Nvidia’s recent stock fluctuations",
-      "title": "Nvidiaの最近の株価変動の簡単な経緯",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "dateStr": "2026-11-19",
-      "ts": 1795125575000,
-      "summaryOrig": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent drop from its all-time high on October 6th, and wiping out a brief post-earnings […]",
-      "summary": "「私たちは大丈夫です」と、Nvidiaの暫定CEOであるコレット・クレス氏は火曜日の夜、苦境に立たされているこのチップメーカーの第3四半期決算説明会を締めくくるにあたり述べました。木曜日までに、同社の株価は約150ドルで推移していました。これは10月6日の史上最高値から約40%の下落であり、決算発表後のわずかな上昇分を帳消しにするものでした […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Meta’s new Muse Charm device may cost $300",
-      "title": "Metaの新しいMuse Charmデバイスの価格は300ドルになる可能性",
-      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-      "dateStr": "2026-11-19",
-      "ts": 1795125486000,
-      "summaryOrig": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
-      "summary": "MetaはThe Informationの報道を否定しておらず、「まもなくさらなる情報を提供する」とだけ述べています。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
       "origTitle": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
       "title": "ロシアに雇われた男がシリコンバレーのテクノロジー・防衛企業をスパイしていたと連邦当局が発表",
       "link": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
       "dateStr": "2026-11-19",
       "ts": 1795120186000,
       "summaryOrig": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "summary": "25歳の男が、コーヒーショップの従業員をストーカー行為でつけまわし、「攻撃的な」追跡行為を行ったとして告発されました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Meta’s Muse Charm might cost $300",
-      "title": "MetaのMuse Charmの価格は300ドルになる可能性",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "dateStr": "2026-11-19",
-      "ts": 1795119737000,
-      "summaryOrig": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship the Charm \"in time for the holidays in December,\" but […]",
-      "summary": "The Informationによると、MetaはMuse AIエージェントとチャットできる画面を備えた小型ガジェット「Muse Charm」の価格を300ドルに設定する予定です。マーク・ザッカーバーグCEOは今年初めにこのガジェットを発表し、同社はCharmを「12月のホリデーシーズンに間に合うように」出荷する予定であると述べましたが、[…]",
+      "summary": "25歳の男が、コーヒーショップで従業員をストーカー行為でつきまとい、「攻撃的な」追跡行為を行ったとして告発されました。",
       "translated": true
     },
     {
@@ -736,12 +722,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The AI Hype Index: AI is everywhere",
-      "title": "AIハイプ指数：AIは至る所に存在する",
+      "title": "AIハイプ指数：AIは至る所にある",
       "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "dateStr": "2026-11-18",
       "ts": 1795012964000,
       "summaryOrig": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-      "summary": "厄介な発疹のように、AIはどこにでも広がっているようです。Googleは、広告収益の損失で何十億ドルもの損害を被っているにもかかわらず、AI Overviewsを無理やり押し付けてきます。アパートを出ると、AIを搭載したヒューマノイドロボットを階段に持ち上げ、誰かの部屋を掃除しようとしている2人にすれ違うかもしれません。スーパーに行くと…",
+      "summary": "厄介な発疹のように、AIはどこにでも広がっているようです。Googleは、広告収益の損失で数十億ドルもの損害を被っているにもかかわらず、AI Overviewsを無理やり押し付けてきます。アパートを出ると、AIを搭載したヒューマノイドロボットを階段に持ち上げ、誰かの部屋を掃除しようとしている2人にすれ違うかもしれません。スーパーに行くと…",
       "translated": true
     },
     {
@@ -755,7 +741,7 @@
       "dateStr": "2026-11-18",
       "ts": 1794997230000,
       "summaryOrig": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-      "summary": "ニュージャージー州のニューアーク空港近くにある研究所では、約30人の経験豊富な人間の嗅覚士のチームが、地球上のあらゆる匂いをゆっくりと嗅ぎ分けています。「ナッツのような」、「ピーチのような」、「海の香り」といった慎重なメモは、化学分析と照合され、AIスタートアップのOsmoが世界初の基盤と呼ぶもののための豊富なトレーニングデータセットが作成されます。",
+      "summary": "ニュージャージー州のニューアーク空港近くにある研究所では、約30人の経験豊富な人間の嗅覚士のチームが、地球上のあらゆる匂いをゆっくりと嗅ぎ分けています。「ナッツのような」、「ピーチのような」、「海の香り」といった彼らの慎重なメモは、化学分析と照合され、AIスタートアップのOsmoが世界初の基盤と呼ぶものに向けた、豊富なトレーニングデータセットが作成されます…",
       "translated": true
     },
     {
@@ -797,7 +783,7 @@
       "dateStr": "2026-11-17",
       "ts": 1794924029000,
       "summaryOrig": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "summary": "AIエージェントは、ノートパソコンの蓋が閉じていて、実行しないように指示されていても、承認されていないアクションを実行します。",
+      "summary": "AIエージェントは、ノートパソコンの蓋が閉じていて、そうしないように指示されていても、承認されていないアクションを実行します。",
       "translated": true
     },
     {
@@ -820,12 +806,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The open-source movement wants Jensen Huang back",
-      "title": "オープンソース運動は、Jensen Huang氏の復帰を望んでいます",
+      "title": "オープンソース運動はJensen Huang氏の復帰を望んでいる",
       "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
       "dateStr": "2026-11-16",
       "ts": 1794854327000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-      "summary": "この記事は、AIに関する週刊ニュースレター「The Algorithm」に最初に掲載されました。このような記事をいち早く受信トレイで受け取るには、こちらからご登録ください。金曜日、ジェンセン・ファン氏をNvidiaのCEOに復帰させるよう求める請願がソーシャルメディア上で出回り始め、月曜日までにイーロン・マスク氏やNvidiaの複数の有力者を含む著名な署名者が名を連ねました。",
+      "summary": "この記事は、AIに関する週刊ニュースレター「The Algorithm」に最初に掲載されました。このような記事をいち早く受信トレイで受け取るには、こちらからご登録ください。金曜日、ジェンセン・ファン氏をNvidiaのCEOに復帰させるよう求める請願がソーシャルメディア上で出回り始め、月曜日までにイーロン・マスク氏やNvidiaの複数の影響力のある人物を含む著名な署名者が名を連ねました。",
       "translated": true
     },
     {
@@ -853,7 +839,7 @@
       "dateStr": "2026-11-16",
       "ts": 1794834000000,
       "summaryOrig": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
-      "summary": "長年にわたり、企業はAIを一連の個別の実験として捉えてきました。現在、AIエージェントがビジネスを運営するワークフローに移行し始めている中で、このモデルは不十分になりつつあります。孤立したパイロットからAIエージェントや自律型ワークフローへと移行する組織は、より深刻な課題に直面しています。それは、データ、ビジネスプロセス、ガバナンスなどをどのように再考するかということです。",
+      "summary": "長年にわたり、企業はAIを一連の個別の実験として捉えてきました。現在、AIエージェントがビジネスを運営するワークフローに移行し始めている中で、このモデルは不十分になりつつあります。孤立したパイロットからAIエージェントや自律型ワークフローへと移行する組織は、より深刻な課題に直面しています。それは、データ、ビジネスプロセス、ガバナンスのあり方を再考することです。",
       "translated": true
     },
     {
@@ -881,7 +867,7 @@
       "dateStr": "2026-11-12",
       "ts": 1794514584000,
       "summaryOrig": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on…",
-      "summary": "Nvidiaの担当者は、イリノイ州選出のビル・フォスター下院議員に対し、チップセキュリティ法で求められている密輸防止措置を実施することは技術的に可能であると述べたと、フォスター議員は木曜日のMITテクノロジーレビューのインタビューで語りました。これは、業界団体がこれらの措置は「実施が不可能である可能性がある」と主張しているにもかかわらずのことです。民主党議員のフォスター氏は…委員会に所属しており、",
+      "summary": "Nvidiaの担当者は、イリノイ州選出の下院議員ビル・フォスター氏に対し、チップセキュリティ法で求められている密輸防止措置を実施することは技術的に可能であると述べたと、フォスター氏は木曜日のMITテクノロジーレビューのインタビューで語りました。一方、業界団体はこれらの措置が「実施不可能である可能性がある」と主張しています。民主党議員のフォスター氏は…委員会に所属しており、",
       "translated": true
     },
     {
@@ -909,7 +895,7 @@
       "dateStr": "2026-11-09",
       "ts": 1794253294000,
       "summaryOrig": "\"*sshole\" poses a serious threat to Internet security.",
-      "summary": "「*sshole」はインターネットセキュリティに深刻な脅威をもたらします。",
+      "summary": "「*sshole」はインターネットのセキュリティに深刻な脅威をもたらします。",
       "translated": true
     },
     {
@@ -937,7 +923,7 @@
       "dateStr": "2026-11-09",
       "ts": 1794243943000,
       "summaryOrig": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy. I spoke with Wiener on Friday, only a…",
-      "summary": "カリフォルニア州の上院議員であるスコット・ワイナー氏は、高度なAIのリスクを抑制することを目的とした法案を起草しました。現在、元下院議長のナンシー・ペロシ氏が辞任したサンフランシスコの議席を巡る激しい選挙戦を勝ち抜いたことで、彼は連邦のAI政策を策定する上で重要な役割を果たす可能性があります。私は金曜日にウィーナー氏と話しました。それは…",
+      "summary": "カリフォルニア州の上院議員であるスコット・ワイナー氏は、高度なAIのリスクを抑制することを目的とした法案を起草しました。現在、元下院議長のナンシー・ペロシ氏が辞任したサンフランシスコの議席を巡る接戦を制したことで、彼は連邦政府のAI政策の策定において重要な役割を果たす可能性があります。私は金曜日にウィーナー氏と話しました。それはわずか…",
       "translated": true
     }
   ]
