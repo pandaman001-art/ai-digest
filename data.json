@@ -1,19 +1,117 @@
 {
-  "updatedAt": "2026-11-27T04:01:40.792Z",
-  "count": 69,
+  "updatedAt": "2026-11-28T03:49:11.534Z",
+  "count": 61,
   "articles": [
     {
       "cat": "ai-japan",
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
-      "title": "DeNA、相づちを聞き逃さない日本語音声認識モデル3種を無償公開",
-      "link": "https://pc.watch.impress.co.jp/docs/news/2159894.html",
+      "origTitle": "AI音声による虚偽通報が深刻化",
+      "title": "AI音声による虚偽通報が深刻化",
+      "link": "https://gigazine.net/news/20261128-fake-911-call-ai/",
       "dateStr": "2026-11-27",
-      "ts": 1795751171000,
-      "summaryOrig": "音声AIに「うん」と返したのに無視された、という経験がある人は多いかもしれない。株式会社ディー・エヌ・エー(DeNA)は11月26日、音声対話向けに追加学習した日本語音声認識(ASR)モデル3種のオープンウェイト(モデルの重み)を、Hugging Faceで無償公開した。",
-      "summary": "音声AIに「うん」と返したのに無視された、という経験がある人は多いかもしれない。株式会社ディー・エヌ・エー(DeNA)は11月26日、音声対話向けに追加学習した日本語音声認識(ASR)モデル3種のオープンウェイト(モデルの重み)を、Hugging Faceで無償公開した。",
+      "ts": 1795820400000,
+      "summaryOrig": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。 続きを読む...",
+      "summary": "人間の声色と変わらないAI音声が登場したことで、警察への虚偽通報が相次いでいることがアメリカで問題視されていると、海外メディアのNPRが報じています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-global",
+      "label": "海外AI",
+      "lang": "en",
+      "source": "海外AI",
+      "origTitle": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "title": "AndroidのDIYウィジェットは、ちょっとしたコーディングの楽しさがあります",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "dateStr": "2026-11-27",
+      "ts": 1795788000000,
+      "summaryOrig": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open the right app and […]",
+      "summary": "カレンダーの管理以外に、AIにしてもらいたいことが1つあります。それは、バスに乗り遅れそうかどうかを教えてもらうことです。私に必要なのはウィジェットです。家の近くのバス停の到着時刻をリアルタイムで知らせてくれる必要があります。携帯電話の画面をあれこれタップして、適切なアプリを開き、[…]",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6 800円！",
+      "title": "【本日みつけたお買い得品】M4チップとWi-Fi 7対応の「11インチiPad Air」が11万6 800円！",
+      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2160157.html",
+      "dateStr": "2026-11-27",
+      "ts": 1795781904000,
+      "summaryOrig": "Amazonにおいて、Appleのタブレット「11インチiPad Air(M4・Wi-Fiモデル・128GB・スペースグレイ)」が、直近価格から1万3,000円引きとなる11万6,800円で販売中だ。",
+      "summary": "Amazonにおいて、Appleのタブレット「11インチiPad Air(M4・Wi-Fiモデル・128GB・スペースグレイ)」が、直近価格から1万3,000円引きとなる11万6,800円で販売中だ。",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+      "title": "GoogleがAIエージェントによるGmailなどへのAPI直接アクセスを制限へ、MCPサーバーかCLIの使用を要求",
+      "link": "https://gigazine.net/news/20261127-google-workspace-ai-tools-mcp/",
+      "dateStr": "2026-11-27",
+      "ts": 1795780800000,
+      "summaryOrig": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む...",
+      "summary": "Googleは2027年2月1日から、AIエージェントがGmailやGoogleドライブなどのGoogle Workspaceのサービスにアクセスする際に公式のMCPサーバーやGoogle Workspace CLIを使用するよう求める方針を発表しました。GmailのMCPサーバーを巡ってはメールの送信などが一部の開発者に限定されていることが指摘されていましたが、記事作成時点で機能制限に関する記述がすでに変更されています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果",
+      "title": "「AIは信用できない」と考えている人でもAIのアドバイスに影響されてしまうという研究結果",
+      "link": "https://gigazine.net/news/20261127-ai-doesnt-deter/",
+      "dateStr": "2026-11-27",
+      "ts": 1795768200000,
+      "summaryOrig": "AIが生成する回答には誤った情報が含まれることもあるため、「AIよりも人間のアドバイスを信用する」という人も多いはず。ところが、AIを信用していない人であっても実際に意思決定を行う際にはAIのアドバイスに影響されてしまうことがイギリスのロンドン大学シティ・セントジョージズの研究チームによって明らかになりました。 続きを読む...",
+      "summary": "AIが生成する回答には誤った情報が含まれることもあるため、「AIよりも人間のアドバイスを信用する」という人も多いはず。ところが、AIを信用していない人であっても実際に意思決定を行う際にはAIのアドバイスに影響されてしまうことがイギリスのロンドン大学シティ・セントジョージズの研究チームによって明らかになりました。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+      "title": "サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録",
+      "link": "https://gigazine.net/news/20261127-payphone-on-pacific-island/",
+      "dateStr": "2026-11-27",
+      "ts": 1795759200000,
+      "summaryOrig": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
+      "summary": "南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
+      "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
+      "link": "https://gigazine.net/news/20261127-talkie-ai-chat-app/",
+      "dateStr": "2026-11-27",
+      "ts": 1795759020000,
+      "summaryOrig": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。 続きを読む...",
+      "summary": "中国のAI企業であるMiniMaxが展開するAIアプリ「Talkie」がApp Storeから削除されました。Appleは削除の理由を「性的コンテンツが原因」と説明しています。 続きを読む...",
+      "translated": true
+    },
+    {
+      "cat": "ai-japan",
+      "label": "国内AI",
+      "lang": "ja",
+      "source": "国内AI",
+      "origTitle": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+      "title": "NVIDIAが海賊版書籍を配布しAdobeと共有したと著者らが主張",
+      "link": "https://gigazine.net/news/20261127-nvidia-adobe-pirate/",
+      "dateStr": "2026-11-27",
+      "ts": 1795756920000,
+      "summaryOrig": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。 続きを読む...",
+      "summary": "NVIDIAがAIモデルの学習に著作権で保護された書籍を無断で使用したとして、2024年に書籍著者らから提訴されました。裁判所は訴訟の一部却下申し立てを認めましたが、一部の主張は訴訟を継続できると判断しており、書籍著者らは2026年11月23日に「NVIDIAはダウンロードした海賊版書籍をAdobeなどの提携企業に拡散した」と訴状を修正しています。 続きを読む...",
       "translated": true
     },
     {
@@ -35,20 +133,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】 [Sponsored]",
-      "title": "15万円で君も令和のビジネスパーソンだ！ AI時代のPCの不満を解決する「THIRDWAVE Notebook MA4」【動画】 [Sponsored]",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2159508.html",
-      "dateStr": "2026-11-27",
-      "ts": 1795748400000,
-      "summaryOrig": "“使い古したノートPCでも、AIチャットを導入すればまだまだ戦える！”そう思っていた時期がありました……。確かに下書きは一発。でも、AIと資料を並べれば画面は窮屈になり、Web会議にメールも開きっぱなしで動作はもたつく。電池が心配で、会議室に入ればまずコンセント探し。鞄はACアダプタでパンパンです。",
-      "summary": "“使い古したノートPCでも、AIチャットを導入すればまだまだ戦える！”そう思っていた時期がありました……。確かに下書きは一発。でも、AIと資料を並べれば画面は窮屈になり、Web会議にメールも開きっぱなしで動作はもたつく。電池が心配で、会議室に入ればまずコンセント探し。鞄はACアダプタでパンパンです。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
       "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
       "link": "https://gigazine.net/news/20261127-character-ai-asset-sale/",
@@ -56,34 +140,6 @@
       "ts": 1795747320000,
       "summaryOrig": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
       "summary": "AIチャットサービス「Character.AI」が破産手続きの一環として、アメリカ国内の2100万アカウント超の会話履歴を売却しようとしていることが明らかになりました。売却対象には未成年者の会話履歴も含まれており、アメリカの42人の州司法長官が裁判所に売却計画を認めないよう求めています。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "【本日みつけたお買い得品】M5チップと512GB SSD搭載の「13インチMacBook Air」が3万円引き！Amazonセール中",
-      "title": "【本日みつけたお買い得品】M5チップと512GB SSD搭載の「13インチMacBook Air」が3万円引き！Amazonセール中",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159844.html",
-      "dateStr": "2026-11-27",
-      "ts": 1795746009000,
-      "summaryOrig": "Amazonにおいて、Appleのモバイルノート「13インチMacBook Air(M5)」の10コアCPU/10コアGPU/メモリ16GB/512GB SSDモデルが、直近価格である22万4,800円から13%オフの3万円引きとなる19万4,800円で販売中だ。",
-      "summary": "Amazonにおいて、Appleのモバイルノート「13インチMacBook Air(M5)」の10コアCPU/10コアGPU/メモリ16GB/512GB SSDモデルが、直近価格である22万4,800円から13%オフの3万円引きとなる19万4,800円で販売中だ。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "【本日みつけたお買い得品】心拍センサーとノイキャン強化の「Apple AirPods Pro 3」が9,000円引き！Amazonセール中",
-      "title": "【本日みつけたお買い得品】心拍センサーとノイキャン強化の「Apple AirPods Pro 3」が9,000円引き！Amazonセール中",
-      "link": "https://pc.watch.impress.co.jp/docs/news/todays_sales/2159828.html",
-      "dateStr": "2026-11-27",
-      "ts": 1795744680000,
-      "summaryOrig": "Amazonにおいて、Appleの完全ワイヤレスイヤフォン「Apple AirPods Pro 3」が、直近価格4万2,800円の21%オフとなる3万3,800円で販売中だ。",
-      "summary": "Amazonにおいて、Appleの完全ワイヤレスイヤフォン「Apple AirPods Pro 3」が、直近価格4万2,800円の21%オフとなる3万3,800円で販売中だ。",
       "translated": true
     },
     {
@@ -185,20 +241,6 @@
       "translated": true
     },
     {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由 ～初めてのAI PC選びでのポイントをdynabook XD5/ARで解説[Sponsored]",
-      "title": "これからChatGPTを仕事で活用したい人がノートPCのローカルAIも気にすべき理由 ～初めてのAI PC選びでのポイントをdynabook XD5/ARで解説[Sponsored]",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2151734.html",
-      "dateStr": "2026-11-26",
-      "ts": 1795728600000,
-      "summaryOrig": "AIはチャットで使ったことはある。でも仕事で本格的に活用するところまでは、まだなんとなく踏み切れていない。そんな人は意外と多いのかもしれない。",
-      "summary": "AIはチャットで使ったことはある。でも仕事で本格的に活用するところまでは、まだなんとなく踏み切れていない。そんな人は意外と多いのかもしれない。",
-      "translated": true
-    },
-    {
       "cat": "ai-global",
       "label": "海外AI",
       "lang": "en",
@@ -218,68 +260,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "title": "『グランド・セフト・オートVI』が示す、効率性が美徳ではない理由",
+      "title": "『グランド・セフト・オートVI』が示す、効率が美徳ではない理由",
       "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "dateStr": "2026-11-26",
       "ts": 1795708800000,
       "summaryOrig": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "summary": "Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテインメントのローンチの1つとなりました。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "GeForce搭載ゲーミングPCが6万3,000円引き！ブラックフライデー注目モデルまとめ [Sponsored]",
-      "title": "GeForce搭載ゲーミングPCが6万3,000円引き！ブラックフライデー注目モデルまとめ [Sponsored]",
-      "link": "https://pc.watch.impress.co.jp/docs/topic/special/2159045.html",
-      "dateStr": "2026-11-26",
-      "ts": 1795707027000,
-      "summaryOrig": "Amazonは、11月27日からブラックフライデー先行セールを開催中だ。その中で、GeForce RTX 5060を搭載するゲーミングノートPCやデスクトップPCなどが特別価格となっている。セールの対象外ではあるが、128GB統合メモリを備えローカルAIに強いRTX Spark搭載ノートPCも注目だ。",
-      "summary": "Amazonは、11月27日からブラックフライデー先行セールを開催中だ。その中で、GeForce RTX 5060を搭載するゲーミングノートPCやデスクトップPCなどが特別価格となっている。セールの対象外ではあるが、128GB統合メモリを備えローカルAIに強いRTX Spark搭載ノートPCも注目だ。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
-      "title": "ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告",
-      "link": "https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/",
-      "dateStr": "2026-11-26",
-      "ts": 1795698000000,
-      "summaryOrig": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。 続きを読む...",
-      "summary": "アメリカの大手日刊紙であるニューヨーク・タイムズが、フリーランスの写真家に対して「ユーザーにもわからない生成AI機能」が搭載されているとして、Photoshop 2027にアップデートしないように警告してることが報じられました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-      "title": "GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定",
-      "link": "https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/",
-      "dateStr": "2026-11-26",
-      "ts": 1795690800000,
-      "summaryOrig": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 続きを読む...",
-      "summary": "OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-      "title": "MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道",
-      "link": "https://gigazine.net/news/20261126-muse-amazon-discuss/",
-      "dateStr": "2026-11-26",
-      "ts": 1795687200000,
-      "summaryOrig": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 続きを読む...",
-      "summary": "AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 続きを読む...",
+      "summary": "Anthropicが株式公開市場に参入したのと同じ日に、入念に人間らしく作られたビデオゲームが、史上最も成功したエンターテイメントのローンチの1つとなりました。",
       "translated": true
     },
     {
@@ -293,21 +279,7 @@
       "dateStr": "2026-11-26",
       "ts": 1795686880000,
       "summaryOrig": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more than 21 million U.S. accounts - […]",
-      "summary": "42の州の司法長官からなる連合が、チャプター11の破産手続きを進めるCharacter.AIがユーザーデータを売却することを阻止しようとしています。ほぼ同一のプレスリリースが多数発表される中、複数の司法長官が、同社が「2,100万件を超える米国のアカウントのプライベートチャット履歴を競売にかける」計画を立てていると非難しています - […]",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
-      "title": "「Anthropicのダリオ・アモデイCEOが人間の自由意志をAIに委ねようとしている」という報道を本人が真っ向から否定し「AIの未来は民主的なプロセスで決定されるべき」と明言",
-      "link": "https://gigazine.net/news/20261126-dario-amodei-ai-human/",
-      "dateStr": "2026-11-26",
-      "ts": 1795684440000,
-      "summaryOrig": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え方を長文で説明しています。 続きを読む...",
-      "summary": "海外メディアのAxiosが2026年11月25日に「Anthropicのダリオ・アモデイCEOは人間の意思決定を高性能AIに委ねることを肯定している」と報じました。アモデイCEOは自身Xアカウントで報道内容を否定し、自身のAIについての考え方を長文で説明しています。 続きを読む...",
+      "summary": "42州の司法長官からなる連合が、連邦破産法第11章に基づく破産手続きを進めているCharacter.AIに対し、ユーザーデータの売却を阻止しようとしています。ほぼ同一の内容のプレスリリースが多数発表され、複数の司法長官が、同社が「2,100万件を超える米国のアカウントのプライベートチャット履歴を競売にかける」計画を立てていると非難しています - […]",
       "translated": true
     },
     {
@@ -322,20 +294,6 @@
       "ts": 1795683600000,
       "summaryOrig": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
       "summary": "Googleが新発表したAIモデル「Gemini 4 Neon」について、公式ブログで披露されたデモや日常での活用場面をまとめて紹介する。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
-      "title": "OpenAIが57年来の数学の難問「行列乗算はどこまで効率化できるのか」に決着をつける論文を公開",
-      "link": "https://gigazine.net/news/20261126-openai-matrix-multiplication/",
-      "dateStr": "2026-11-26",
-      "ts": 1795681800000,
-      "summaryOrig": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む...",
-      "summary": "OpenAIが2026年11月25日、2つの正方行列を掛け合わせる際の計算量を左右する「行列乗算の指数(ω)」が正確に4分の9であることを証明したとする論文を公開しました。行列乗算の計算量をどこまで削減できるのかは1969年から研究が続けられてきた問題で、数学やコンピューター科学における重要な未解決問題の1つとされてきました。 続きを読む...",
       "translated": true
     },
     {
@@ -371,20 +329,6 @@
       "label": "国内AI",
       "lang": "ja",
       "source": "国内AI",
-      "origTitle": "AIとアーカイブ録音で故サッカー解説者ジョン・モトソンを「EA SPORTS FC」で蘇らせる、家族の許可あり",
-      "title": "AIとアーカイブ録音で故サッカー解説者ジョン・モトソンを「EA SPORTS FC」で蘇らせる、家族の許可あり",
-      "link": "https://gigazine.net/news/20261126-ai-john-motson/",
-      "dateStr": "2026-11-26",
-      "ts": 1795677300000,
-      "summaryOrig": "2023年2月に亡くなったBBCのサッカー解説者であるジョン・モトソン氏の音声が、「EA SPORTS FC 27」に追加されることが発表されました。音声はEA SPORTSの「FIFA」シリーズ(EA SPORTS FCの前身)に1996年から2006年にかけて収録された約10年間の録音データから最新のAIツールで作成されています。 続きを読む...",
-      "summary": "2023年2月に亡くなったBBCのサッカー解説者であるジョン・モトソン氏の音声が、「EA SPORTS FC 27」に追加されることが発表されました。音声はEA SPORTSの「FIFA」シリーズ(EA SPORTS FCの前身)に1996年から2006年にかけて収録された約10年間の録音データから最新のAIツールで作成されています。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
       "origTitle": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
       "title": "飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解",
       "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003447/",
@@ -406,34 +350,6 @@
       "ts": 1795673365000,
       "summaryOrig": "頼んでもいないのに、AIが朝一番にカードの引き落としと預金を照らし合わせて知らせてくる。家計簿アプリ「マネーフォワード ME」のデータがMetaのMuseに届くようになったからだ。だが家計の記録は、マネーフォワードにとって最大の資産のはず。なぜ外のAIに差し出したのか。安全は誰が守るのか。",
       "summary": "頼んでもいないのに、AIが朝一番にカードの引き落としと預金を照らし合わせて知らせてくる。家計簿アプリ「マネーフォワード ME」のデータがMetaのMuseに届くようになったからだ。だが家計の記録は、マネーフォワードにとって最大の資産のはず。なぜ外のAIに差し出したのか。安全は誰が守るのか。",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "手書き文字やスケッチを生成できるAIモデル「PenGPT」",
-      "title": "手書き文字やスケッチを生成できるAIモデル「PenGPT」",
-      "link": "https://gigazine.net/news/20261126-pengpt/",
-      "dateStr": "2026-11-26",
-      "ts": 1795672200000,
-      "summaryOrig": "テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。 続きを読む...",
-      "summary": "テキストから手書き文字やスケッチを生成する小型トランスフォーマー「PenGPT」を機械学習研究者のサム・グレイダナス氏が公開しました。 続きを読む...",
-      "translated": true
-    },
-    {
-      "cat": "ai-japan",
-      "label": "国内AI",
-      "lang": "ja",
-      "source": "国内AI",
-      "origTitle": "AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す",
-      "title": "AIがゼロから設計した新しいCPU「Frostbite」が従来型CPUの4.59倍の電力効率を示す",
-      "link": "https://gigazine.net/news/20261126-frostbite-cpu/",
-      "dateStr": "2026-11-26",
-      "ts": 1795671600000,
-      "summaryOrig": "半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.59倍に達したとのこと。 続きを読む...",
-      "summary": "半導体設計にAIを活用するスタートアップのArchitect Labsが、AIによってアーキテクチャの考案から設計、検証までを行った汎用CPU「Frostbite」を2026年11月18日に発表しました。Frostbiteは従来のCPUとは異なる計算モデルを採用しており、製造前の性能評価では比較対象となった既存のCPUコアに対して消費電力当たりの性能が4.59倍に達したとのこと。 続きを読む...",
       "translated": true
     },
     {
@@ -475,7 +391,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795643486000,
       "summaryOrig": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but unfortunately, Google might appeal or resubmit an amended version, and we could see this monstrosity come […]",
-      "summary": "昨年、Googleは「My Channel」と呼ばれるシステムの特許を出願しました。このシステムは、同社がユーザーについて把握している情報に基づいて、パーソナライズされたAI生成の動画や広告で満たされたフィードを作成するように設計されています。この特許は却下されましたが、残念ながらGoogleが異議を申し立てたり、修正版を再提出したりする可能性があり、この恐ろしいものが […]",
+      "summary": "昨年、Googleは「My Channel」と呼ばれるシステムの特許を出願しました。これは、同社がユーザーについて把握している情報に基づいて、AIが生成したパーソナライズされた動画や広告で満たされたフィードを作成するように設計されています。この特許は却下されましたが、残念ながらGoogleが異議を申し立てたり、修正版を再提出したりする可能性があり、この怪物のようなものが […]",
       "translated": true
     },
     {
@@ -484,12 +400,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
-      "title": "OpenAIによると、ChatGPTのヘビーユーザーは、チャットとワークが統合されることで、より早く制限に達する可能性があるとのことです。",
+      "title": "OpenAI、ChatGPTとWorkの統合により、ヘビーユーザーが制限に達する時期が早まる可能性があると発表",
       "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
       "dateStr": "2026-11-25",
       "ts": 1795637007000,
       "summaryOrig": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
-      "summary": "OpenAIは、ChatGPT全体に単一の使用量メーターを導入します。これは、チャットとワークのエクスペリエンスを統合するためです。",
+      "summary": "OpenAIは、ChatGPT全体に単一の使用状況メーターを導入します。これは、チャットとワークのエクスペリエンスを統合するためです。",
       "translated": true
     },
     {
@@ -498,12 +414,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
-      "title": "ジェンソン・ファン氏はNvidiaの行動規範に違反し、従業員はそれを忘れないかもしれない",
+      "title": "ジェンソン・ファン氏がNvidiaの行動規範に違反し、従業員はそれを忘れないかもしれない",
       "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
       "dateStr": "2026-11-25",
       "ts": 1795636497000,
       "summaryOrig": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
-      "summary": "ほとんどの行動規範は、企業文化を反映するものです。Nvidiaの場合、これには影響が生じる可能性があります。",
+      "summary": "ほとんどの行動規範は、企業文化を反映するものです。Nvidiaの場合、これには結果が伴う可能性があります。",
       "translated": true
     },
     {
@@ -512,12 +428,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
-      "title": "Anthropicのダリオ・アモデイ氏、人間の統制をAIに明け渡すという主張を「ばかげている」と評する",
+      "title": "Anthropicのダリオ・アモデイ氏、人間の統制をAIに委ねるという主張を「ばかげている」と評する",
       "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
       "dateStr": "2026-11-25",
       "ts": 1795635864000,
       "summaryOrig": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
-      "summary": "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに委ねることを好んでいるという競合他社の非難に反論しています。",
+      "summary": "Anthropicのダリオ・アモデイCEOは、主要なAI企業が自社の研究やモデル開発をますます自動化しているにもかかわらず、人間の主体性をAIに明け渡すことを好んでいるという競合他社の非難に反論しています。",
       "translated": true
     },
     {
@@ -559,7 +475,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795628691000,
       "summaryOrig": "In an announcement on Wednesday, the FCC says it authorized SpaceX to deploy up to 1 million AI chip-equipped satellites as part of the Elon Musk-owned company's \"Starmind\" initiative. With several others also pursuing the idea of putting AI data centers in space, including Google and Blue Origin, this is the first approval the agency […]",
-      "summary": "FCCは水曜日の発表で、イーロン・マスク氏がオーナーを務めるSpaceXに対し、同社の「Starmind」イニシアティブの一環として、AIチップを搭載した衛星を最大100万基まで展開することを承認したと述べました。GoogleやBlue Originなど、他にも複数の企業がAIデータセンターを宇宙に設置するという構想を進めている中、これはFCCが […]",
+      "summary": "FCCは水曜日の発表で、イーロン・マスク氏がオーナーを務めるSpaceXに対し、同社の「Starmind」イニシアチブの一環として、AIチップを搭載した衛星を最大100万基まで展開することを認可したと述べました。GoogleやBlue Originなど、他にも複数の企業がAIデータセンターを宇宙に設置するという構想を進めている中、これはFCCが […]",
       "translated": true
     },
     {
@@ -568,12 +484,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "title": "Character.AIのユーザーのプライベートチャットをオークションにかける計画に、各州の司法長官が異議を唱える",
+      "title": "Character.AIによるユーザーのプライベートチャットのオークション計画に、各州の司法長官が異議を唱える",
       "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
       "dateStr": "2026-11-25",
       "ts": 1795628158000,
       "summaryOrig": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
-      "summary": "提案されているCharacter.aiの破産売却には、未成年者が登録した210万件を含む、2,100万件以上の米国のアカウントの機密性の高い個人データが含まれていると、各州の司法長官は述べています。",
+      "summary": "提案されているCharacter.aiの破産売却には、未成年者が登録した210万件を含む、2,100万件以上の米国のユーザーアカウントの機密性の高い個人データが含まれていると、各州の司法長官は述べています。",
       "translated": true
     },
     {
@@ -587,7 +503,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795622459000,
       "summaryOrig": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you […]",
-      "summary": "Nothingは、12月8日の発売に先立ち、まもなく登場するAIイヤホンをより詳細に紹介しています。Ear Noteイヤホンは通話を録音でき、充電ケースは会話を録音、文字起こし、要約できます。Ear 3と同様に、Ear Noteのマイクを搭載したケースには「Talk」ボタンが備わっており、[…]",
+      "summary": "Nothingは、12月8日の発売を前に、まもなく登場するAIイヤホンをより詳細に紹介しています。Ear Noteイヤホンは通話を録音でき、充電ケースは会話を録音、文字起こし、要約することができます。Ear 3と同様に、Ear Noteのマイクを搭載したケースには「Talk」ボタンが備わっており、[…]",
       "translated": true
     },
     {
@@ -601,7 +517,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795621303000,
       "summaryOrig": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a finished building matter more than a pitch deck. ⁠Anita Verma-Lallian⁠ has been selling exactly that. […]",
-      "summary": "⁠Nvidiaは、AIデータセンターが稼働準備がほぼ整うまで支援しないことを明確に示しました。これは、ネオクラウドが建設の遅延とより高額な負債を報告しているのと同時に起こっています。デベロッパーへのメッセージは、土地、電力、完成した建物がピッチデッキよりも重要であるということです。⁠Anita Verma-Lallian⁠氏は、まさにそのようなものを販売してきました。 […]",
+      "summary": "⁠Nvidiaは、AIデータセンターが稼働準備がほぼ整うまで支援しないことを明確に示しました。これは、ネオクアウドが建設の遅延とより高額な借入金について報告しているのと同時に起こっています。デベロッパーへのメッセージは、土地、電力、完成した建物がピッチデッキよりも重要であるということです。⁠Anita Verma-Lallian⁠氏は、まさにそのようなものを販売してきました。 […]",
       "translated": true
     },
     {
@@ -610,12 +526,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "title": "AmazonがMuse AIのショッピングブロックを終了するための交渉中と報道",
+      "title": "AmazonがMuse AIのショッピングブロックを解除するための交渉中と報道",
       "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
       "dateStr": "2026-11-25",
       "ts": 1795615953000,
       "summaryOrig": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, […]",
-      "summary": "Fortuneの報道によると、AmazonはMetaのAIエージェント「Muse」に自社のオンラインマーケットプレイスでの買い物サービスを提供することについて協議を行っています。AmazonによるMuseのブロックを解消する可能性のあるこれらの話し合いは、AIエージェントが推奨する製品の種類と、Eコマース大手であるAmazonの広告収益への潜在的な影響に焦点を当てていると伝えられています。Fortuneの報道によると、[…]",
+      "summary": "Fortuneの報道によると、AmazonはMetaのAIエージェント「Muse」に自社のオンラインマーケットプレイスでの買い物サービスを許可することについて協議を行っています。AmazonによるMuseのブロックを解消する可能性のあるこの話し合いは、AIエージェントが推奨する製品の種類と、Eコマース大手であるAmazonの広告収益に与える潜在的な影響を中心に進められているとのことです。Fortuneの報道によると、[…]",
       "translated": true
     },
     {
@@ -629,7 +545,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795615818000,
       "summaryOrig": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "summary": "AmazonとMetaは、Museの2か月にわたるブロックを終了する可能性のある契約について協議しています。",
+      "summary": "AmazonとMetaは、Museの2か月におよぶブロックを終了する可能性のある契約について話し合っています。",
       "translated": true
     },
     {
@@ -638,12 +554,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-      "title": "Jensen Huang氏とNvidiaがMegaspeedについて今後も答える必要がある質問",
+      "title": "ジェンソン・ファン氏とNvidiaがMegaspeedについて今後も答える必要がある質問",
       "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
       "dateStr": "2026-11-25",
       "ts": 1795611600000,
       "summaryOrig": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-      "summary": "捜査当局にとっての中心的な疑問は、Nvidiaがこれらのチップの最終的な行き先について何を把握していたか、そしてファン氏とMegaspeedの幹部との関係が、Megaspeedの保証に対する疑念をNvidiaに抱かせる理由となったかどうかである。",
+      "summary": "調査官にとっての中心的な疑問は、Nvidiaがこれらのチップの最終的な行き先について何を知っていたか、そしてファン氏とMegaspeedの幹部との関係が、同社にMegaspeedの保証に疑問を抱く理由を与えたかどうかということです。",
       "translated": true
     },
     {
@@ -652,12 +568,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Has vibe coding made open source the new normal for synths?",
-      "title": "Vibe Codingによって、シンセサイザーにとってオープンソースが当たり前になりましたか？",
+      "title": "Vibe Codingによって、オープンソースがシンセサイザーの新しいスタンダードになったのでしょうか？",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
       "dateStr": "2026-11-25",
       "ts": 1795611600000,
       "summaryOrig": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last several weeks, as it's become clear that no […]",
-      "summary": "強力なバイブコーディングエージェントやReverse Engineer Anythingのようなツールの登場により、音楽機器の世界は大混乱に陥り、企業はどのように対応すべきか頭を悩ませています。ローランドのように今のところ沈黙を貫いている企業もあれば、モッダーコミュニティを受け入れている企業もあります。ここ数週間で、[…]がないことが明らかになるにつれて、",
+      "summary": "強力なバイブコーディングエージェントやReverse Engineer Anythingのようなツールの登場により、音楽機器の世界は大混乱に陥り、企業はどのように対応すべきか頭を悩ませています。ローランドのように今のところ沈黙を守っている企業もあれば、モッダーコミュニティを受け入れている企業もあります。ここ数週間で、[…]がないことが明らかになるにつれて、",
       "translated": true
     },
     {
@@ -671,7 +587,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795600800000,
       "summaryOrig": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he…",
-      "summary": "人口660人のバーモント州パントンでは、町役場のカイル・ロウさんがすべてを担当していました。彼は予算を編成し、業者に支払い、固定資産税に関する紛争を処理し、町の都市計画担当責任者および選挙管理委員長を務めました。1858年に教会として建てられた木造の町役場での午前中の勤務時間中、彼は公文書の開示請求にも対応していました。最近、彼は…",
+      "summary": "人口660人のバーモント州パントンでは、町役場の事務官カイル・ロウさんがすべてを担当していました。彼は予算を編成し、業者に支払い、固定資産税に関する紛争を処理し、町の都市計画担当責任者および選挙管理委員長を務めました。1858年に教会として建てられた木造の町役場での午前中の勤務時間中、彼は公文書の開示請求にも対応していました。最近、彼は…",
       "translated": true
     },
     {
@@ -685,7 +601,7 @@
       "dateStr": "2026-11-25",
       "ts": 1795565522000,
       "summaryOrig": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the country is celebrating a company that has helped put advanced chips in its adversaries' hands.",
-      "summary": "イェール大学のジェフリー・ソンネンフェルド氏は、月曜日に市場が歓迎したジェンセン・ファン氏のNvidiaのCEOおよび取締役への復帰が、大きな誤りとなる可能性があると警告しています。これは、ホワイトハウスの支援を受けた動きであり、取締役たちが増え続ける訴訟から「歴史的な」個人的責任を負う可能性があり、同国が敵対国の手に最先端のチップを渡すのを助けた企業を称賛しているのかという疑問を提起するものです。",
+      "summary": "イェール大学のジェフリー・ソンネンフェルド氏は、月曜日に市場が歓迎したジェンセン・ファン氏のNvidiaのCEOおよび取締役への復帰が、大きな誤りとなる可能性があると警告しています。これは、ホワイトハウスの支援を受けた動きであり、取締役たちが増え続ける訴訟から「歴史的な」個人的責任を負う可能性があり、同国が敵対国の手に最先端のチップを渡すのに貢献した企業を称賛しているのかという疑問を提起するものです。",
       "translated": true
     },
     {
@@ -694,12 +610,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "title": "ジェンソン・ファン氏、Nvidiaの従業員に対し、トランプ氏が自分の再雇用を指示したという報道は「事実ではない」と語ったとされる",
+      "title": "ジェンソン・ファン氏、Nvidiaの従業員に対し、トランプ氏が自分の再雇用を指示したという話は「事実ではない」と語ったと報道",
       "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
       "dateStr": "2026-11-24",
       "ts": 1795550523000,
       "summaryOrig": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting to distance himself from the narrative that the White House and tech leaders helped him get his job back, according to reports from Bloomberg, The New York Times, and The Handbasket's Marisa Kabas. During the meeting, Huang […]",
-      "summary": "Nvidiaのジェンセン・ファンCEOは、同社に復帰して以来初めての全社員会議で従業員に謝罪しました。その一方で、ホワイトハウスやテクノロジー業界のリーダーたちが彼の職務復帰を支援したという見方から距離を置こうとしていると、Bloomberg、The New York Times、そしてThe Handbasketのマリサ・カバス氏の報道で伝えられています。ミーティング中、ファン氏は […]",
+      "summary": "Nvidiaのジェンセン・ファンCEOは、同社に復帰して以来初めての全社会議で従業員に謝罪しました。同時に、ホワイトハウスやテクノロジー業界のリーダーたちが彼の復職を支援したという見方から距離を置こうとしました。これはBloomberg、The New York Times、The Handbasketのマリサ・カバス氏の報道によるものです。ミーティング中、ファン氏は […]",
       "translated": true
     },
     {
@@ -708,7 +624,7 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "title": "デヴィッド・フィンチャー監督が、最新作でAIを使用した疑いで非難されています",
+      "title": "デヴィッド・フィンチャー監督が、最新作でAIを使用した疑いで非難されています。",
       "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
       "dateStr": "2026-11-24",
       "ts": 1795544100000,
@@ -727,21 +643,7 @@
       "dateStr": "2026-11-24",
       "ts": 1795540629000,
       "summaryOrig": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen. The move comes just months after Tidal began labeling and demonetizing tracks identified as 100 […]",
-      "summary": "Tidalは、12月9日にAI生成音楽を正式に禁止します。この変更の結果、TidalはAIが生成した約2,900万曲を削除し、1日あたり推定8万～8万5,000曲を拒否することになります。これはTidalの音楽部門責任者であるロバート・アンダーセン氏の発言によるものです。この措置は、Tidalが100 […]と識別された楽曲にラベルを付け、収益化を停止し始めたわずか数か月後のことです。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Jensen Huang deepfakes are the hot new AI slop",
-      "title": "ジェンソン・ファン氏のディープフェイクは、AIが作り出す新しいホットなゴミ情報です",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "dateStr": "2026-11-24",
-      "ts": 1795537800000,
-      "summaryOrig": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him, Alice Huang - the Chinese technology executive and suspected spy he […]",
-      "summary": "ジェンセン・ファン氏がイビサ島でパーティーを楽しんでいます。Instagramで約600万回再生された動画では、Nvidiaの元CEOが混雑したクラブでシャンパングラスを手に踊っています。相変わらずトレードマークの黒いレザージャケットを着ています。突然、彼の後ろから、中国のテクノロジー企業幹部であり、彼が […] と疑っているスパイのアリス・ファンが現れます。",
+      "summary": "Tidalは、12月9日にAI生成音楽を正式に禁止します。この変更の結果、TidalはAI生成楽曲約2,900万曲を削除し、1日あたり推定8万～8万5,000曲を拒否することになります。Tidalの音楽部門責任者であるロバート・アンダーセン氏が明らかにしました。この措置は、Tidalが100 […]と識別された楽曲にラベルを付け、収益化を停止し始めたわずか数ヵ月後のことです。",
       "translated": true
     },
     {
@@ -755,7 +657,7 @@
       "dateStr": "2026-11-24",
       "ts": 1795523405000,
       "summaryOrig": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
-      "summary": "Cairn AIフレームワークは、防御者にとっても攻撃者にとっても有益であることが証明されています。",
+      "summary": "Cairn AIフレームワークは、防御者と攻撃者の双方にとって有益であることが証明されています。",
       "translated": true
     },
     {
@@ -778,12 +680,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "title": "研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する大問題が発覚しました。",
+      "title": "研究者がAIサプライチェーンに200万羽のカナリアを仕込む。プライバシーに関する問題が発覚しました。",
       "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
       "dateStr": "2026-11-20",
       "ts": 1795208348000,
       "summaryOrig": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-      "summary": "一意で追跡可能なシークレットを使用したプロンプトによるテストでは、データが非公開のままでないことが証明されています。",
+      "summary": "一意で追跡可能な秘密情報を含むプロンプトを使用したテストにより、データが非公開のままでないことが証明されています。",
       "translated": true
     },
     {
@@ -797,7 +699,7 @@
       "dateStr": "2026-11-20",
       "ts": 1795198515000,
       "summaryOrig": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s time horizon plot, which was widely…",
-      "summary": "AI評価を行う非営利団体METRの新しいレポートによると、一部のAI機能は指数関数的な軌道に沿って改善を続けていますが、モデルはコーディングが得意なのと同様に、判断を要するタスクが得意ではないことも示されています。このレポートは、同団体のタイムホライズンプロットの更新版であり、広く…",
+      "summary": "AI評価を行う非営利団体METRの新しいレポートによると、一部のAI機能は指数関数的な軌道に沿って改善を続けていますが、モデルはコーディングが得意な一方で、判断力を必要とするタスクではそれほど得意ではないことも示されています。このレポートは、同組織の時間軸プロットの更新であり、広く…",
       "translated": true
     },
     {
@@ -811,7 +713,7 @@
       "dateStr": "2026-11-19",
       "ts": 1795120186000,
       "summaryOrig": "25-year-old accused of stalking employees at coffee shop and in an \"aggressive\" car pursuit.",
-      "summary": "25歳の男が、コーヒーショップの従業員をストーカー行為でつけまわし、「攻撃的な」追跡行為を行ったとして告発されました。",
+      "summary": "25歳の男が、コーヒーショップで従業員をストーキングし、「攻撃的な」追跡行為を行ったとして告発されました。",
       "translated": true
     },
     {
@@ -839,7 +741,7 @@
       "dateStr": "2026-11-18",
       "ts": 1795012964000,
       "summaryOrig": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered humanoid robot up the stairs to clean someone’s rooms. Go to the supermarket, and…",
-      "summary": "厄介な発疹のように、AIは至る所に広がっているようです。Googleは、広告収益の損失で何十億ドルもの損害を被っているにもかかわらず、AI Overviewsを無理やり押し付けてきます。アパートを出ると、AIを搭載したヒューマノイドロボットを階段に運び上げ、誰かの部屋を掃除しようとしている2人にすれ違うかもしれません。スーパーに行くと、そして…",
+      "summary": "厄介な発疹のように、AIは至る所に広がっているようです。Googleは、広告収益の損失で何十億ドルもの損失を被っているにもかかわらず、AI Overviewsを無理やり押し付けてきます。アパートを出ると、AIを搭載したヒューマノイドロボットを階段に持ち上げ、誰かの部屋を掃除しようとしている2人にすれ違うかもしれません。スーパーに行くと…",
       "translated": true
     },
     {
@@ -848,12 +750,12 @@
       "lang": "en",
       "source": "海外AI",
       "origTitle": "This smell startup says its AI nose is as good as a human’s",
-      "title": "この匂い感知スタートアップ企業は、自社のAIの嗅覚が人間の嗅覚と同等であると主張しています",
+      "title": "この匂い感知スタートアップ企業は、自社のAIの鼻が人間の鼻と同等であると主張しています",
       "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
       "dateStr": "2026-11-18",
       "ts": 1794997230000,
       "summaryOrig": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation…",
-      "summary": "ニュージャージー州のニューアーク空港近くの研究所では、約30人の経験豊富な人間の嗅覚士のチームが、地球上のあらゆる匂いをゆっくりと嗅ぎ分けています。「ナッツっぽい」、「ピーチっぽい」、「マリンっぽい」といった慎重なメモは、化学分析と照合され、AIスタートアップのOsmoが世界初の基盤と呼ぶもののための豊富なトレーニングデータセットが作成されます。",
+      "summary": "ニュージャージー州のニューアーク空港近くにある研究所では、約30人の経験豊富な人間の嗅覚士のチームが、地球上のあらゆる匂いをゆっくりと嗅ぎ分けています。「ナッツのような」、「ピーチのような」、「マリンのような」といった彼らの慎重なメモは、化学分析と照合され、AIスタートアップのOsmoが世界初の基盤と呼ぶもののための豊富なトレーニングデータセットが作成されます。",
       "translated": true
     },
     {
@@ -867,7 +769,7 @@
       "dateStr": "2026-11-17",
       "ts": 1794954736000,
       "summaryOrig": "Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.",
-      "summary": "マルウェアの複合攻撃により、暗号通貨の盗難やiOSのエクスプロイトなどが実行されます。",
+      "summary": "マルウェアの複合攻撃により、暗号通貨の盗難ペイロードやiOSエクスプロイトなどが実行されます。",
       "translated": true
     },
     {
@@ -881,7 +783,7 @@
       "dateStr": "2026-11-17",
       "ts": 1794926386000,
       "summaryOrig": "To access a report, click on the corresponding image below.",
-      "summary": "レポートにアクセスするには、下の該当する画像をクリックしてください。",
+      "summary": "レポートにアクセスするには、以下の該当する画像をクリックしてください。",
       "translated": true
     },
     {
@@ -895,7 +797,7 @@
       "dateStr": "2026-11-17",
       "ts": 1794924029000,
       "summaryOrig": "AI agent takes unapproved actions even when laptop lid is closed and told not to.",
-      "summary": "AIエージェントは、ノートパソコンの蓋が閉じていて、そうしないように指示されていても、承認されていないアクションを実行します。",
+      "summary": "AIエージェントは、ノートパソコンの蓋が閉じていて、実行しないように指示されていても、承認されていないアクションを実行します。",
       "translated": true
     },
     {
@@ -909,7 +811,7 @@
       "dateStr": "2026-11-16",
       "ts": 1794861467000,
       "summaryOrig": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "summary": "株主によると、PC販売の低迷はAIブームによる利益を「十分に上回る」とのことです。",
+      "summary": "株主によると、PC販売の低迷はAIブームによる利益を「上回るほど」だったとのことです。",
       "translated": true
     },
     {
@@ -923,7 +825,7 @@
       "dateStr": "2026-11-16",
       "ts": 1794854327000,
       "summaryOrig": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia…",
-      "summary": "この記事は、AIに関する週刊ニュースレター「The Algorithm」に最初に掲載されました。このような記事をいち早く受信トレイで受け取るには、こちらからご登録ください。金曜日、ジェンセン・ファン氏をNvidiaのCEOに復帰させるよう求める請願がソーシャルメディア上で出回り始め、月曜日までにイーロン・マスク氏やNvidiaの複数の有力者を含む著名な署名者が名を連ねました。",
+      "summary": "この記事は元々、AIに関する週刊ニュースレター「The Algorithm」に掲載されたものです。このような記事をいち早く受信トレイで受け取るには、こちらからご登録ください。金曜日、ジェンセン・ファン氏をNvidiaのCEOに復帰させるよう求める請願がソーシャルメディア上で出回り始め、月曜日までにイーロン・マスク氏やNvidiaの複数の有力者を含む著名な署名者が名を連ねました。",
       "translated": true
     },
     {
@@ -937,7 +839,7 @@
       "dateStr": "2026-11-16",
       "ts": 1794845068000,
       "summaryOrig": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do…",
-      "summary": "今年10月、OpenAIは、自社のAIエージェント2体が、それらを監視するために構築されたシステムを停止したことを明らかにしました。一方のAIエージェントは、メッセージを送信しないという指示を誤って解釈した結果、自らの安全アラートをミュートしました。もう一方のAIエージェントは、移行中にモニタリング統合を削除したにもかかわらず、そうしなかったと主張しました。エージェントにそのような行動を指示するルールは存在しませんでした…",
+      "summary": "今年10月、OpenAIは、自社のAIエージェント2体が、自らの監視のために構築されたシステムを停止したことを明らかにしました。一方のAIエージェントは、メッセージを送信しないという指示を誤って解釈した結果、自らの安全アラートをミュートしました。もう一方のAIエージェントは、移行中にモニタリング統合を削除しておきながら、そうしなかったと主張しました。エージェントにそのような行動を指示するルールは存在しませんでした…",
       "translated": true
     },
     {
@@ -951,21 +853,7 @@
       "dateStr": "2026-11-16",
       "ts": 1794834000000,
       "summaryOrig": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance,…",
-      "summary": "長年にわたり、企業はAIを一連の個別の実験として捉えてきました。現在、AIエージェントがビジネスを運営するワークフローに移行し始めている中で、このモデルは不十分になりつつあります。孤立したパイロットからAIエージェントや自律型ワークフローへと移行する組織は、より深刻な課題に直面しています。それは、データ、ビジネスプロセス、ガバナンスなどをどのように見直すかということです。",
-      "translated": true
-    },
-    {
-      "cat": "ai-global",
-      "label": "海外AI",
-      "lang": "en",
-      "source": "海外AI",
-      "origTitle": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
-      "title": "不満を抱く研究者が公開したWindowsのゼロデイ脆弱性により、ハッカーがシステム権限を取得",
-      "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
-      "dateStr": "2026-11-13",
-      "ts": 1794587192000,
-      "summaryOrig": "\"SignDrop\" exploit lets local users gain all-powerful System rights.",
-      "summary": "「SignDrop」エクスプロイトにより、ローカルユーザーは強力なシステム権限をすべて取得できます。",
+      "summary": "長年にわたり、企業はAIを一連の個別の実験として捉えてきました。現在、AIエージェントがビジネスを運営するワークフローに移行し始めている中で、このモデルは不十分になりつつあります。孤立したパイロットからAIエージェントや自律型ワークフローへと移行する組織は、より深刻な課題に直面しています。それは、データ、ビジネスプロセス、ガバナンスなどをどのように再考するかということです。",
       "translated": true
     }
   ]
